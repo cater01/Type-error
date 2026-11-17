@@ -1,0 +1,34 @@
+{
+  "experiment": {
+    "name": "identification.evaluation.gpt_few_shot_only",
+    "entry_point": "src/identification/gpt.py",
+    "status": "latest_source_snapshot",
+    "evidence": {
+      "source": "Imported gpt.py; three few-shot examples, original definition preserved."
+    },
+    "unknown": [
+      "exact_prompt_snapshot_used_for_historical_paper_table",
+      "original_215_input_preparation",
+      "provider_model_snapshot"
+    ],
+    "note": "Config values are explicit snapshots. A source_snapshot is not proof of the historical paper run."
+  },
+  "args": {
+    "input": "external_data/identification/test_215.jsonl",
+    "out": "results/rq3/gpt-5.4/few_shot_only/predictions.jsonl",
+    "model": "gpt-5.4",
+    "mode": "few_shot_only",
+    "output_reason": false,
+    "temperature": 0,
+    "max_output_tokens": 128,
+    "token_parameter": "max_completion_tokens",
+    "api_key_env": "GPT_API_KEY",
+    "seed": null,
+    "base_url": "https://yunwu.ai/v1/chat/completions",
+    "request_timeout": 240,
+    "max_retries": 4,
+    "sleep_seconds": 3,
+    "resume": true,
+    "limit": null
+  }
+}

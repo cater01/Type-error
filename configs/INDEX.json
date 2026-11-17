@@ -1,0 +1,237 @@
+[
+  {
+    "config": "configs/prevention/qwen7b_p0.json",
+    "entry_point": "src/translation/translate_qwen.py",
+    "status": "source_snapshot_with_saved_prompt_check"
+  },
+  {
+    "config": "configs/prevention/qwen7b_p1.json",
+    "entry_point": "src/translation/translate_qwen.py",
+    "status": "source_snapshot_with_saved_prompt_check"
+  },
+  {
+    "config": "configs/prevention/qwen7b_p2.json",
+    "entry_point": "src/translation/translate_qwen.py",
+    "status": "source_snapshot_with_saved_prompt_check"
+  },
+  {
+    "config": "configs/baseline/qwen7b_avatar.json",
+    "entry_point": "src/translation/translate_qwen.py",
+    "status": "source_snapshot"
+  },
+  {
+    "config": "configs/baseline/qwen7b_codenet.json",
+    "entry_point": "src/translation/translate_qwen.py",
+    "status": "source_snapshot"
+  },
+  {
+    "config": "configs/baseline/qwen7b_transcoder.json",
+    "entry_point": "src/translation/translate_qwen.py",
+    "status": "source_snapshot"
+  },
+  {
+    "config": "configs/baseline/qwen7b_xcodeeval.json",
+    "entry_point": "src/translation/translate_qwen.py",
+    "status": "source_snapshot"
+  },
+  {
+    "config": "configs/prevention/qwen32b_p0.json",
+    "entry_point": "src/translation/translate_qwen.py",
+    "status": "source_snapshot_with_saved_prompt_check"
+  },
+  {
+    "config": "configs/prevention/qwen32b_p1.json",
+    "entry_point": "src/translation/translate_qwen.py",
+    "status": "source_snapshot_with_saved_prompt_check"
+  },
+  {
+    "config": "configs/prevention/qwen32b_p2.json",
+    "entry_point": "src/translation/translate_qwen.py",
+    "status": "source_snapshot_with_saved_prompt_check"
+  },
+  {
+    "config": "configs/baseline/qwen32b_avatar.json",
+    "entry_point": "src/translation/translate_qwen.py",
+    "status": "source_snapshot"
+  },
+  {
+    "config": "configs/baseline/qwen32b_codenet.json",
+    "entry_point": "src/translation/translate_qwen.py",
+    "status": "source_snapshot"
+  },
+  {
+    "config": "configs/baseline/qwen32b_transcoder.json",
+    "entry_point": "src/translation/translate_qwen.py",
+    "status": "source_snapshot"
+  },
+  {
+    "config": "configs/baseline/qwen32b_xcodeeval.json",
+    "entry_point": "src/translation/translate_qwen.py",
+    "status": "source_snapshot"
+  },
+  {
+    "config": "configs/prevention/magicoder_p0.json",
+    "entry_point": "src/translation/translate_magicoder.py",
+    "status": "user_requested_configuration"
+  },
+  {
+    "config": "configs/prevention/magicoder_p1.json",
+    "entry_point": "src/translation/translate_magicoder.py",
+    "status": "user_requested_configuration"
+  },
+  {
+    "config": "configs/prevention/magicoder_p2.json",
+    "entry_point": "src/translation/translate_magicoder.py",
+    "status": "user_requested_configuration"
+  },
+  {
+    "config": "configs/baseline/magicoder_avatar.json",
+    "entry_point": "src/translation/translate_magicoder.py",
+    "status": "user_requested_configuration"
+  },
+  {
+    "config": "configs/baseline/magicoder_codenet.json",
+    "entry_point": "src/translation/translate_magicoder.py",
+    "status": "user_requested_configuration"
+  },
+  {
+    "config": "configs/baseline/magicoder_transcoder.json",
+    "entry_point": "src/translation/translate_magicoder.py",
+    "status": "user_requested_configuration"
+  },
+  {
+    "config": "configs/baseline/magicoder_xcodeeval.json",
+    "entry_point": "src/translation/translate_magicoder.py",
+    "status": "user_requested_configuration"
+  },
+  {
+    "config": "configs/identification/evaluation/gpt_zero_shot.json",
+    "entry_point": "src/identification/gpt.py",
+    "status": "latest_source_snapshot"
+  },
+  {
+    "config": "configs/identification/evaluation/gpt_define_only.json",
+    "entry_point": "src/identification/gpt.py",
+    "status": "latest_source_snapshot"
+  },
+  {
+    "config": "configs/identification/evaluation/gpt_few_shot_only.json",
+    "entry_point": "src/identification/gpt.py",
+    "status": "latest_source_snapshot"
+  },
+  {
+    "config": "configs/identification/evaluation/gpt_define_and_few_shot.json",
+    "entry_point": "src/identification/gpt.py",
+    "status": "latest_source_snapshot"
+  },
+  {
+    "config": "configs/identification/evaluation/gpt_define_and_few_shot_and_error_message.json",
+    "entry_point": "src/identification/gpt.py",
+    "status": "latest_source_snapshot"
+  },
+  {
+    "config": "configs/identification/evaluation/gemini.json",
+    "entry_point": "src/identification/gemini.py",
+    "status": "latest_source_snapshot"
+  },
+  {
+    "config": "configs/identification/prediction/gemini.json",
+    "entry_point": "src/identification/gemini.py",
+    "status": "latest_source_snapshot"
+  },
+  {
+    "config": "configs/identification/second_round/gemini.json",
+    "entry_point": "src/identification/gemini.py",
+    "status": "latest_source_snapshot"
+  },
+  {
+    "config": "configs/identification/evaluation/opus.json",
+    "entry_point": "src/identification/opus.py",
+    "status": "latest_source_snapshot"
+  },
+  {
+    "config": "configs/identification/prediction/opus.json",
+    "entry_point": "src/identification/opus.py",
+    "status": "latest_source_snapshot"
+  },
+  {
+    "config": "configs/identification/second_round/opus.json",
+    "entry_point": "src/identification/opus.py",
+    "status": "latest_source_snapshot"
+  },
+  {
+    "config": "configs/identification/agreement.json",
+    "entry_point": "src/identification/agreement.py",
+    "status": "source_snapshot"
+  },
+  {
+    "config": "configs/evaluation/avatar.json",
+    "entry_point": "src/evaluation/test_avatar_translations.py",
+    "status": "source_snapshot"
+  },
+  {
+    "config": "configs/evaluation/codenet.json",
+    "entry_point": "src/evaluation/test_codenet_translations.py",
+    "status": "source_snapshot"
+  },
+  {
+    "config": "configs/evaluation/transcoder.json",
+    "entry_point": "src/evaluation/test_transcoder_translations.py",
+    "status": "source_snapshot"
+  },
+  {
+    "config": "configs/evaluation/xcodeeval.json",
+    "entry_point": "src/evaluation/test_xcodeeval_translations.py",
+    "status": "source_snapshot"
+  },
+  {
+    "config": "configs/repair/qwen7b_r0.json",
+    "entry_point": "src/repair/qwen7b_repair.py",
+    "status": "partially_log_verified"
+  },
+  {
+    "config": "configs/repair/qwen7b_r1.json",
+    "entry_point": "src/repair/qwen7b_repair.py",
+    "status": "partially_log_verified"
+  },
+  {
+    "config": "configs/repair/qwen7b_r2.json",
+    "entry_point": "src/repair/qwen7b_repair.py",
+    "status": "partially_log_verified"
+  },
+  {
+    "config": "configs/repair/qwen32b_r0.json",
+    "entry_point": "src/repair/qwen7b_repair.py",
+    "status": "partially_log_verified"
+  },
+  {
+    "config": "configs/repair/qwen32b_r1.json",
+    "entry_point": "src/repair/qwen7b_repair.py",
+    "status": "partially_log_verified"
+  },
+  {
+    "config": "configs/repair/qwen32b_r2.json",
+    "entry_point": "src/repair/qwen7b_repair.py",
+    "status": "partially_log_verified"
+  },
+  {
+    "config": "configs/analysis/identification_metrics.json",
+    "entry_point": "src/analysis/identification_metrics.py",
+    "status": "source_snapshot"
+  },
+  {
+    "config": "configs/analysis/time_statistics.json",
+    "entry_point": "src/analysis/time_statistics.py",
+    "status": "source_snapshot"
+  },
+  {
+    "config": "configs/analysis/experiment_results.json",
+    "entry_point": "src/analysis/analyze_experiment_results.py",
+    "status": "recorded_table_audit"
+  },
+  {
+    "config": "configs/analysis/historical_results.json",
+    "entry_point": "src/analysis/analyze_experiment_results.py",
+    "status": "archived_result_recalculation"
+  }
+]

@@ -1,0 +1,5 @@
+# Inferred imports only; original environment versions are not recovered.
+modelscope
+requests
+scikit-learn
+torch

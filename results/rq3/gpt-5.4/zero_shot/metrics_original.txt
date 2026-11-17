@@ -1,0 +1,14 @@
+===== Evaluation =====
+Mode: zero_shot (zero_shot_predictions.jsonl)
+Valid samples: 215
+Invalid outputs: 0
+Accuracy: 0.6511627906976745
+Binary Recall: 0.1
+                precision    recall  f1-score   support
+
+non-type error     0.6786    0.9172    0.7801       145
+    type error     0.3684    0.1000    0.1573        70
+
+      accuracy                         0.6512       215
+     macro avg     0.5235    0.5086    0.4687       215
+  weighted avg     0.5776    0.6512    0.5773       215

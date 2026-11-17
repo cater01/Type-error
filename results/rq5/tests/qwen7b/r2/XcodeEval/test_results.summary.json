@@ -1,0 +1,12 @@
+{
+  "total_files": 448,
+  "passed_files": 183,
+  "compile_errors": 122,
+  "runtime_errors": 68,
+  "wrong_answer_files": 75,
+  "missing_test_cases": 0,
+  "empty_test_cases": 0,
+  "passed_cases": 13929,
+  "total_cases": 27775,
+  "case_accuracy": 0.5014941494149415
+}

@@ -1,0 +1,1453 @@
+{
+  "date": "2026-11-17",
+  "files": [
+    {
+      "source": "新二分类结果/gpt-5.4/zero_shot_predictions.jsonl",
+      "destination": "results/rq3/gpt-5.4/zero_shot/predictions.jsonl",
+      "source_sha256": "58edc3bb73adbaf0bf358500c01a85dd87530ada52a5ac44d1854b9c44eb9309",
+      "stored_sha256": "58edc3bb73adbaf0bf358500c01a85dd87530ada52a5ac44d1854b9c44eb9309",
+      "rows": 215,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "新二分类结果/gpt-5.4/zero_shot_predictions.jsonl.metrics.txt",
+      "destination": "results/rq3/gpt-5.4/zero_shot/metrics_original.txt",
+      "source_sha256": "c84f18f3e40d990aad6058ca261641fa5f29a2c5401d8919fee3141420a0a42e",
+      "stored_sha256": "c84f18f3e40d990aad6058ca261641fa5f29a2c5401d8919fee3141420a0a42e",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "新二分类结果/gpt-5.4/define_only_predictions.jsonl",
+      "destination": "results/rq3/gpt-5.4/define_only/predictions.jsonl",
+      "source_sha256": "264334489868ebbdfba685aca83d02e161d3ac19e13f71f43d0fc91abc22bd40",
+      "stored_sha256": "264334489868ebbdfba685aca83d02e161d3ac19e13f71f43d0fc91abc22bd40",
+      "rows": 215,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "新二分类结果/gpt-5.4/define_only_predictions.jsonl.metrics.txt",
+      "destination": "results/rq3/gpt-5.4/define_only/metrics_original.txt",
+      "source_sha256": "ecff61ca652390da28e6e7d9b137f3a4d7f407459d506c049a39425c39820f9d",
+      "stored_sha256": "ecff61ca652390da28e6e7d9b137f3a4d7f407459d506c049a39425c39820f9d",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "新二分类结果/gpt-5.4/few_shot_only_predictions.jsonl",
+      "destination": "results/rq3/gpt-5.4/few_shot_only/predictions.jsonl",
+      "source_sha256": "59ad354ddc41b5a43ad735d12b8e217a0e2ee3218b6fcc4db09925f3e7815bb5",
+      "stored_sha256": "59ad354ddc41b5a43ad735d12b8e217a0e2ee3218b6fcc4db09925f3e7815bb5",
+      "rows": 215,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "新二分类结果/gpt-5.4/few_shot_only_predictions.jsonl.metrics.txt",
+      "destination": "results/rq3/gpt-5.4/few_shot_only/metrics_original.txt",
+      "source_sha256": "dc35cff907aebd7f531db47779c512c7dac014d69a099e138c981f34b8c62580",
+      "stored_sha256": "dc35cff907aebd7f531db47779c512c7dac014d69a099e138c981f34b8c62580",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "新二分类结果/gpt-5.4/define_and_few_shot_predictions.jsonl",
+      "destination": "results/rq3/gpt-5.4/define_and_few_shot/predictions.jsonl",
+      "source_sha256": "fa3f7f8a6af4d4d2c45f250eb585d426539b60d9b13302fa30179ceca3b7bc5a",
+      "stored_sha256": "fa3f7f8a6af4d4d2c45f250eb585d426539b60d9b13302fa30179ceca3b7bc5a",
+      "rows": 215,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "新二分类结果/gpt-5.4/define_and_few_shot_predictions.jsonl.metrics.txt",
+      "destination": "results/rq3/gpt-5.4/define_and_few_shot/metrics_original.txt",
+      "source_sha256": "9a485df09691754f8578a6f531dcdacc4ce6b8da6cda89ed464156f6ec03aa47",
+      "stored_sha256": "9a485df09691754f8578a6f531dcdacc4ce6b8da6cda89ed464156f6ec03aa47",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "新二分类结果/gpt-5.4/define_fewshot_errormessage_note_predictions.jsonl",
+      "destination": "results/rq3/gpt-5.4/define_and_few_shot_and_error_message/predictions.jsonl",
+      "source_sha256": "0b0aaf9ee0466014a74f7377fe636f2e6a92a251a07180375792f9c4f18a52af",
+      "stored_sha256": "0b0aaf9ee0466014a74f7377fe636f2e6a92a251a07180375792f9c4f18a52af",
+      "rows": 215,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "新二分类结果/gpt-5.4/define_fewshot_errormessage_note_predictions.jsonl.metrics.txt",
+      "destination": "results/rq3/gpt-5.4/define_and_few_shot_and_error_message/metrics_original.txt",
+      "source_sha256": "6e587dc602c06df347f57ee9626a29c9f43fcc232438a0591d29f60f19a8436f",
+      "stored_sha256": "6e587dc602c06df347f57ee9626a29c9f43fcc232438a0591d29f60f19a8436f",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "新二分类结果/gemini-3.1-pro-preview/define_fewshot_errormessage_note_predictions.jsonl",
+      "destination": "results/rq3/gemini-3.1-pro-preview/define_and_few_shot_and_error_message/predictions.jsonl",
+      "source_sha256": "78d0e840a6fce597d72be758ae9dc12711be7ad731a8fd33b2305b39abe038d0",
+      "stored_sha256": "78d0e840a6fce597d72be758ae9dc12711be7ad731a8fd33b2305b39abe038d0",
+      "rows": 215,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "新二分类结果/gemini-3.1-pro-preview/define_fewshot_errormessage_note_predictions.jsonl.metrics.txt",
+      "destination": "results/rq3/gemini-3.1-pro-preview/define_and_few_shot_and_error_message/metrics_original.txt",
+      "source_sha256": "f4bc3a681347ccce2dcbfc803e97c2cb0e98360c5dd7a9217e13987e560b0b8b",
+      "stored_sha256": "f4bc3a681347ccce2dcbfc803e97c2cb0e98360c5dd7a9217e13987e560b0b8b",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "新二分类结果/opus4.7/贵_define_fewshot_errormessage_predictions.jsonl",
+      "destination": "results/rq3/claude-opus-4-7/define_and_few_shot_and_error_message/predictions.jsonl",
+      "source_sha256": "5c824c9537e9ec5e76aa7e4252113f198f77e6b1919a1efb593f589491ada93b",
+      "stored_sha256": "5c824c9537e9ec5e76aa7e4252113f198f77e6b1919a1efb593f589491ada93b",
+      "rows": 215,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "新二分类结果/opus4.7/贵_define_fewshot_errormessage_predictions.jsonl.metrics.txt",
+      "destination": "results/rq3/claude-opus-4-7/define_and_few_shot_and_error_message/metrics_original.txt",
+      "source_sha256": "a75747fb814ae0953b77470196f5632ec4cf840ce9cf0a83dc4d0fa8219117cf",
+      "stored_sha256": "a75747fb814ae0953b77470196f5632ec4cf840ce9cf0a83dc4d0fa8219117cf",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "细分类测试代码/results/gpt5_4_fine_classification_predictions.jsonl",
+      "destination": "results/discussion/dis4/gpt-5.4/predictions.jsonl",
+      "source_sha256": "b4918a09255f58460506e705b75063bb991051ddab82891c26a2be971559f5ff",
+      "stored_sha256": "b4918a09255f58460506e705b75063bb991051ddab82891c26a2be971559f5ff",
+      "rows": 70,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "细分类测试代码/results/gemini3_1_fine_classification_predictions.jsonl",
+      "destination": "results/discussion/dis4/gemini-3.1-pro-preview/predictions.jsonl",
+      "source_sha256": "cb559aa31eb9e44595872a3ec7874ee377b48cd3341e3c13c91dc7d9a02a7433",
+      "stored_sha256": "cb559aa31eb9e44595872a3ec7874ee377b48cd3341e3c13c91dc7d9a02a7433",
+      "rows": 70,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "细分类测试代码/results/opus4_7_fine_classification_predictions.jsonl",
+      "destination": "results/discussion/dis4/claude-opus-4-7/predictions.jsonl",
+      "source_sha256": "8efb7ef1e432be4558b750040174cee226323bfa97c5cc70407d57aaace1d96d",
+      "stored_sha256": "8efb7ef1e432be4558b750040174cee226323bfa97c5cc70407d57aaace1d96d",
+      "rows": 70,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "细分类测试代码/fine_classification_test_70_seed_20260901_manifest.json",
+      "destination": "results/discussion/dis4/test_set_manifest.json",
+      "source_sha256": "5bd91de7e3102c7e2b45fa3f0ed473e2127c5d630983c66b3d2d1f44091c01c3",
+      "stored_sha256": "5bd91de7e3102c7e2b45fa3f0ed473e2127c5d630983c66b3d2d1f44091c01c3",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/outputs/magicoder/p0/translation_results.jsonl",
+      "destination": "results/rq4/generation/magicoder/p0/translation_results.jsonl",
+      "source_sha256": "37af6bc4629c1d3b1da0eaa47b16d157852b172ce3d14beb40a39036b7167f98",
+      "stored_sha256": "37af6bc4629c1d3b1da0eaa47b16d157852b172ce3d14beb40a39036b7167f98",
+      "rows": 517,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/outputs/magicoder/p1/translation_results.jsonl",
+      "destination": "results/rq4/generation/magicoder/p1/translation_results.jsonl",
+      "source_sha256": "9d6a32f299b6e99149baec2f1743ee6a350caf6e590c4da847849e8eb63d9086",
+      "stored_sha256": "9d6a32f299b6e99149baec2f1743ee6a350caf6e590c4da847849e8eb63d9086",
+      "rows": 517,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/outputs/magicoder/p2/translation_results.jsonl",
+      "destination": "results/rq4/generation/magicoder/p2/translation_results.jsonl",
+      "source_sha256": "a7c0d74df3f9e47f4714b2cea1211b4639e765b0b9d49dddbb667a632abe8be6",
+      "stored_sha256": "a7c0d74df3f9e47f4714b2cea1211b4639e765b0b9d49dddbb667a632abe8be6",
+      "rows": 517,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/outputs/qwen32b/p0/translation_results.jsonl",
+      "destination": "results/rq4/generation/qwen32b/p0/translation_results.jsonl",
+      "source_sha256": "70dca97ea6f536c3d96fc8ec2ca594a614ddc93c6a175188409c1d809580fc67",
+      "stored_sha256": "70dca97ea6f536c3d96fc8ec2ca594a614ddc93c6a175188409c1d809580fc67",
+      "rows": 548,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/outputs/qwen32b/p1/translation_results.jsonl",
+      "destination": "results/rq4/generation/qwen32b/p1/translation_results.jsonl",
+      "source_sha256": "2d1970b9e17ac8af09bd90991e3f01c049269b73fd7cdd214bbf981ede1552a0",
+      "stored_sha256": "2d1970b9e17ac8af09bd90991e3f01c049269b73fd7cdd214bbf981ede1552a0",
+      "rows": 548,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/outputs/qwen32b/p2/translation_results.jsonl",
+      "destination": "results/rq4/generation/qwen32b/p2/translation_results.jsonl",
+      "source_sha256": "70ae882d6e30a6163c71c2cf2c3bfe956a216bbae31c18917444357e255dfcbf",
+      "stored_sha256": "70ae882d6e30a6163c71c2cf2c3bfe956a216bbae31c18917444357e255dfcbf",
+      "rows": 548,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/outputs/qwen7b/p0/translation_results.jsonl",
+      "destination": "results/rq4/generation/qwen7b/p0/translation_results.jsonl",
+      "source_sha256": "83d216c4959b8d66dbae89d3f102ae9abea6357f2203baa58390f749031850b7",
+      "stored_sha256": "83d216c4959b8d66dbae89d3f102ae9abea6357f2203baa58390f749031850b7",
+      "rows": 536,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/outputs/qwen7b/p1/translation_results.jsonl",
+      "destination": "results/rq4/generation/qwen7b/p1/translation_results.jsonl",
+      "source_sha256": "e421c2c79a1fd27758d2f03d8185b3b919cdbb0851cee0dcb86b2f2c3362b234",
+      "stored_sha256": "e421c2c79a1fd27758d2f03d8185b3b919cdbb0851cee0dcb86b2f2c3362b234",
+      "rows": 536,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/outputs/qwen7b/p2/translation_results.jsonl",
+      "destination": "results/rq4/generation/qwen7b/p2/translation_results.jsonl",
+      "source_sha256": "c867bdbad4e3fcd27dafcfa6749ca768fba0bfc358fdde11c3c329b43f085d56",
+      "stored_sha256": "c867bdbad4e3fcd27dafcfa6749ca768fba0bfc358fdde11c3c329b43f085d56",
+      "rows": 536,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/magicoder/p0/avatar/test_results.jsonl",
+      "destination": "results/rq4/tests/magicoder/p0/avatar/test_results.jsonl",
+      "source_sha256": "740a2f68023c9747758d6e74868c8e9318ad6bf0031ec9d05bbbe73cea9e47d0",
+      "stored_sha256": "f79535612121d85b2e27c00af77e01b9ba86345ba8e00e4d6b6686d7abaae90d",
+      "rows": 39,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/magicoder/p0/codenet/test_results.jsonl",
+      "destination": "results/rq4/tests/magicoder/p0/codenet/test_results.jsonl",
+      "source_sha256": "aa3f6726e4b598f7842384612c2d662a19b021e662dfecf4248d21651aa8208d",
+      "stored_sha256": "3f3c6b5efc1ac9ab0ad2a0206ac09bfae509cace8afb6f64153eaee827212c35",
+      "rows": 6,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/magicoder/p0/transcoder/test_results.jsonl",
+      "destination": "results/rq4/tests/magicoder/p0/transcoder/test_results.jsonl",
+      "source_sha256": "43ab29541c636bde7ade5eed0f3791c20e38e74c15927267ee8cbd7ce3a61e0c",
+      "stored_sha256": "8ef9709c54f0aa894217986110ea3dc2dd098cea4786076b778209e7c4b13d09",
+      "rows": 47,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/magicoder/p0/Xcodeeval/test_results.jsonl",
+      "destination": "results/rq4/tests/magicoder/p0/Xcodeeval/test_results.jsonl",
+      "source_sha256": "0a98956e09500955e6799b031495f4283195538c16d77863f35849aedf503a63",
+      "stored_sha256": "e4b31eb3fa3acc081bdf0311e73f39d4e2c46ce97c92e7f8808b5792479a3069",
+      "rows": 423,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/magicoder/p1/avatar/test_results.jsonl",
+      "destination": "results/rq4/tests/magicoder/p1/avatar/test_results.jsonl",
+      "source_sha256": "5e0f6d9c251ccb357ea771dec45acacece28ccc24efca622c4604ea670800dc1",
+      "stored_sha256": "bc7e953eb37e2945eb8db9d6c1b87d55089e6897bcfdfef76f0927ddc1f95f3d",
+      "rows": 39,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/magicoder/p1/codenet/test_results.jsonl",
+      "destination": "results/rq4/tests/magicoder/p1/codenet/test_results.jsonl",
+      "source_sha256": "de484f53b7a5627d6537167dd7b0afe43ff32d14dc18a8673ede9cbe499853a2",
+      "stored_sha256": "10e1c89608196c8fd6711556cf6a80b37b3214776745d421676efa1d50a49e52",
+      "rows": 6,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/magicoder/p1/transcoder/test_results.jsonl",
+      "destination": "results/rq4/tests/magicoder/p1/transcoder/test_results.jsonl",
+      "source_sha256": "a7b8b87f1a59ab46dcd9c42d8c0332089c3fdb0a5758d35038d2c1407491a124",
+      "stored_sha256": "c960685d6e26338bd0c64e0bc0bef3bb8e22b38ee1c08e27449fbc1ae520cdd0",
+      "rows": 47,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/magicoder/p1/xcodeeval/test_results.jsonl",
+      "destination": "results/rq4/tests/magicoder/p1/xcodeeval/test_results.jsonl",
+      "source_sha256": "8d0514ab117d52ea60f965f8aee62a83e2714d841ef756ee3912c2016eb027aa",
+      "stored_sha256": "cb2a3cf940ee0e6b9acbd738acb06d4143e257c64683af0d76a563a1bf902112",
+      "rows": 423,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/magicoder/p2/avatar/test_results.jsonl",
+      "destination": "results/rq4/tests/magicoder/p2/avatar/test_results.jsonl",
+      "source_sha256": "52bdb5a1fee7c695e2fb95df4e9ff7169a873c22a69e31bdeaea99c9119e48ff",
+      "stored_sha256": "55e4b26be489cc7f7426d029f0fbc77977268361c854bdf5187723a17b60ecab",
+      "rows": 39,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/magicoder/p2/codenet/test_results.jsonl",
+      "destination": "results/rq4/tests/magicoder/p2/codenet/test_results.jsonl",
+      "source_sha256": "58396a930ee726fb1cbca730b61ee9324d7f9025b83b8476450a285d84f96914",
+      "stored_sha256": "6c4d05869f6cc4455e2dfdb3989a7aab6acb979ae6265b21ef400d87727c9c5b",
+      "rows": 6,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/magicoder/p2/transcoder/test_results.jsonl",
+      "destination": "results/rq4/tests/magicoder/p2/transcoder/test_results.jsonl",
+      "source_sha256": "2829a5bcb23892f12dbfb56ffe41c0f759042d958d00c8ccf6dd35df4ffc8bf0",
+      "stored_sha256": "f62eb34c0f23b90d0b46815dbfda78a8bbf671068943ce4697a5e7eef8c0abc0",
+      "rows": 47,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/magicoder/p2/xcodeeval/test_results.jsonl",
+      "destination": "results/rq4/tests/magicoder/p2/xcodeeval/test_results.jsonl",
+      "source_sha256": "e60b02bd60fd16bc624f2c163a161f9822b0b0ddc9bb0bd2b45fa15ca9e3dd90",
+      "stored_sha256": "37cf7adc100990b48d26efce101a2e2c5cc41ee0ed30aeebbfe1d603dd0b0c2e",
+      "rows": 423,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen32b/p0/avatar/test_results.jsonl",
+      "destination": "results/rq4/tests/qwen32b/p0/avatar/test_results.jsonl",
+      "source_sha256": "eb5c6b1f3e8170678358ea43e3e0cf73cb2445be677cbc13b3211f828efba281",
+      "stored_sha256": "6e06a88a682a2c30b4e5d4c38c5eecc0268310ab6583deb108586f6a0dc40444",
+      "rows": 40,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen32b/p0/codenet/test_results.jsonl",
+      "destination": "results/rq4/tests/qwen32b/p0/codenet/test_results.jsonl",
+      "source_sha256": "893f7f22c9f826bea0f91fc060333d0893172ea9e51e639b4c1bee3c44cd9310",
+      "stored_sha256": "66c0a0c0d7781f0b4e534fc40edd76446f13a3e87826c1840c24a88206e4c0c9",
+      "rows": 3,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen32b/p0/transcoder/test_results.jsonl",
+      "destination": "results/rq4/tests/qwen32b/p0/transcoder/test_results.jsonl",
+      "source_sha256": "4d8a6869204508e872ee1893e4630a992cf9af48cf35c4f27fd4b70c24fabf9f",
+      "stored_sha256": "44d95d28d1507666783b98c8c11cccbffc6b20408486a12b60ee162f86b324f9",
+      "rows": 34,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen32b/p0/XcodeEval/test_results.jsonl",
+      "destination": "results/rq4/tests/qwen32b/p0/XcodeEval/test_results.jsonl",
+      "source_sha256": "aed9f685bddc4ecdbb3726e2e966f45e374961676c31f21cdb6e6d9bbcd63f2a",
+      "stored_sha256": "3022ac82d05320d3c2a54d570130b6c2ee3ba6ea381d9e116f42b40cf6732a86",
+      "rows": 471,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen32b/p1/avatar/test_results.jsonl",
+      "destination": "results/rq4/tests/qwen32b/p1/avatar/test_results.jsonl",
+      "source_sha256": "e26a6efbfa58c67befc01ed228a5f0ddd8356c806c0af9e89fac121a6e6a65c3",
+      "stored_sha256": "d39d5d2dada4886781c127597c0c8c2a370109860348be9c59f8c3509ab35932",
+      "rows": 40,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen32b/p1/codenet/test_results.jsonl",
+      "destination": "results/rq4/tests/qwen32b/p1/codenet/test_results.jsonl",
+      "source_sha256": "47b6a6e369707b7096fb8409eb0f6bfdb80cc20bc71bfd5997168e9b481bf95a",
+      "stored_sha256": "f692aa08726b20d28b7620e861c64240c3ac515fe68cbab471b1403d4a1291e9",
+      "rows": 3,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen32b/p1/transcoder/test_results.jsonl",
+      "destination": "results/rq4/tests/qwen32b/p1/transcoder/test_results.jsonl",
+      "source_sha256": "b7aea323dfdd0303f936161f4ddb7b96b4f4dd55eefe5a291c75632c3c7cfbb1",
+      "stored_sha256": "e8199f58ffb329dcad7aef214744cec0f5795353c328540c3edf2fa610260587",
+      "rows": 34,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen32b/p1/XcodeEval/test_results.jsonl",
+      "destination": "results/rq4/tests/qwen32b/p1/XcodeEval/test_results.jsonl",
+      "source_sha256": "c71335e409ca042e6de199f9b839912a99b8cc580adfb5688e5d41ccfe9b09b7",
+      "stored_sha256": "89d3d27a89a984b115e1bda6e94619b6a0c642eb3973e81cd929bd952b83a081",
+      "rows": 471,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen32b/p2/avatar/test_results.jsonl",
+      "destination": "results/rq4/tests/qwen32b/p2/avatar/test_results.jsonl",
+      "source_sha256": "6b566d74081de8d47e8a9b15502ad80f940d45497bf4daa256cd78983aa7d3ef",
+      "stored_sha256": "ed66a4e17750eed0462ca4fc52fc6964d00c1ec2cd4721b12cc1e1580d0e20d0",
+      "rows": 40,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen32b/p2/codenet/test_results.jsonl",
+      "destination": "results/rq4/tests/qwen32b/p2/codenet/test_results.jsonl",
+      "source_sha256": "d4c284ee7bb07c790723cb2f3bc47de042eacdb3a23574a827b401312eec856d",
+      "stored_sha256": "d6b23bc581a1072a8fa3bcfa499aa560c0d334b49d8edebbb5a18d2843bbe990",
+      "rows": 3,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen32b/p2/transcoder/test_results.jsonl",
+      "destination": "results/rq4/tests/qwen32b/p2/transcoder/test_results.jsonl",
+      "source_sha256": "5d13d4248b20763518ff5a5c8d8b6effa8be2b5dcd0a711dd95954ed47385590",
+      "stored_sha256": "844097769a5b79927e16e48e950710f7cf447f3978ab561d3592f8cf21125859",
+      "rows": 34,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen32b/p2/XcodeEval/test_results.jsonl",
+      "destination": "results/rq4/tests/qwen32b/p2/XcodeEval/test_results.jsonl",
+      "source_sha256": "4d33ba56883a93366fff68e125d95bd8aafb8ed3fa22255d6fc04a1db8711689",
+      "stored_sha256": "4fc890a3d436757bd291454996ccf9bd6783427f319e21d838faf1bbcdd60e68",
+      "rows": 471,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen7b/p0/avatar/test_results.jsonl",
+      "destination": "results/rq4/tests/qwen7b/p0/avatar/test_results.jsonl",
+      "source_sha256": "fe48a41e9ebcb3c304bd29e93c21792392b56475cf655fd8141f12c1d03807f9",
+      "stored_sha256": "29f79808abb811b4dd8eea03edfac768f907dfe20b8ab9bd5a3cff07afebba92",
+      "rows": 33,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen7b/p0/codenet/test_results.jsonl",
+      "destination": "results/rq4/tests/qwen7b/p0/codenet/test_results.jsonl",
+      "source_sha256": "79b819b0604b947acfea71eaaae2365d86db562e53eb93dc070412eaf8dce17c",
+      "stored_sha256": "70fca55d7fd0f52e5c677cdad9dc34c023d29bdce35d49aa0806de31268bf6cf",
+      "rows": 6,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen7b/p0/transcoder/test_results.jsonl",
+      "destination": "results/rq4/tests/qwen7b/p0/transcoder/test_results.jsonl",
+      "source_sha256": "36dbb495dd0f5b4fb173eef813ab9b581b9cf9e0e72a31d53d2d5c5bbf946a58",
+      "stored_sha256": "b28ec112f3e2e93340ea75a7210b3308135331bfd19a53122ac7cdaddb7b054f",
+      "rows": 46,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen7b/p0/XcodeEval/test_results.jsonl",
+      "destination": "results/rq4/tests/qwen7b/p0/XcodeEval/test_results.jsonl",
+      "source_sha256": "03e991baf79b3e166edd57f0d93e2e05caff653d9d6f9b85d4840c60918e6c1e",
+      "stored_sha256": "61962c44de3b43cbec591486f6a7f021557d30b59bb0429bd3cca7381e3b663a",
+      "rows": 451,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen7b/p1/avatar/test_results.jsonl",
+      "destination": "results/rq4/tests/qwen7b/p1/avatar/test_results.jsonl",
+      "source_sha256": "73d6f6e695e861c7d788a94d82d05cc5103cd09ef56e2a38a55487b70c0a5572",
+      "stored_sha256": "0689a70f79d2a98118e71d410d0e4ffdb7457053301b524af28c67b4104de8c9",
+      "rows": 33,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen7b/p1/codenet/test_results.jsonl",
+      "destination": "results/rq4/tests/qwen7b/p1/codenet/test_results.jsonl",
+      "source_sha256": "11ccf5b80063b910c5f2e549e38306ba7047329d8294b11ebeae499f04a01958",
+      "stored_sha256": "d827b78fc7133fac029acde6552a2b6146d31c1fa0462b87b9eb894e050c6653",
+      "rows": 6,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen7b/p1/transcoder/test_results.jsonl",
+      "destination": "results/rq4/tests/qwen7b/p1/transcoder/test_results.jsonl",
+      "source_sha256": "16d7e95d98871bb346e3bb5c08be5e4118dce634f8be19b519baab436aaa6b49",
+      "stored_sha256": "0f6282bf5372ce92cf3ba7d8b619f5ed1bafaf517219b22b7e95097c9910f338",
+      "rows": 46,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen7b/p1/XcodeEval/test_results.jsonl",
+      "destination": "results/rq4/tests/qwen7b/p1/XcodeEval/test_results.jsonl",
+      "source_sha256": "975289e8eb9c0bd58f5c86fde3d72bf47547eefb8819837e70f0ad3425363e12",
+      "stored_sha256": "1d12b198ae09cf6435e52221c46c8c534f220b5220630140a32bb391b75069dc",
+      "rows": 451,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen7b/p2/avatar/test_results.jsonl",
+      "destination": "results/rq4/tests/qwen7b/p2/avatar/test_results.jsonl",
+      "source_sha256": "93663e5556ad5f89a4d7cadf88d59e937ad75567a7c659c11d07016a52725190",
+      "stored_sha256": "b2b0682fc92d99d39f74b6f9a2e4353146cd4d14f7bcd615b5a9967d1bbe12a4",
+      "rows": 33,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen7b/p2/codenet/test_results.jsonl",
+      "destination": "results/rq4/tests/qwen7b/p2/codenet/test_results.jsonl",
+      "source_sha256": "eabe2129ec50179963a4da9c5984df0327fb876c42110059b7c066bd8d753a0e",
+      "stored_sha256": "61d354a7362258f77c525ebe21100e6b22db1ab93c267fdb725ce45e60ee6101",
+      "rows": 6,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen7b/p2/transcoder/test_results.jsonl",
+      "destination": "results/rq4/tests/qwen7b/p2/transcoder/test_results.jsonl",
+      "source_sha256": "a451e802f96479e5ca992d76f45da3c53e15d075f1fe572d52083be34d3d4db4",
+      "stored_sha256": "68690699ebcb9fd98c8300dc7bc55b058900d522dcd656131ebc527347f53a1a",
+      "rows": 46,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen7b/p2/XcodeEval/test_results.jsonl",
+      "destination": "results/rq4/tests/qwen7b/p2/XcodeEval/test_results.jsonl",
+      "source_sha256": "abb06494c22a71edda7f694ddd89a3a1d664936ae090e8c03dfdd291b27ab71e",
+      "stored_sha256": "8aebbf06c03486dd66faa5f31927f0dbdb31fdaa0acd3452f4fd47db6f5037f4",
+      "rows": 451,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/magicoder/p0/avatar/test_results.summary.json",
+      "destination": "results/rq4/tests/magicoder/p0/avatar/test_results.summary.json",
+      "source_sha256": "2dc622ade1d523e89895f04cd0b93e8211030316571878cb3a12b44a433b4150",
+      "stored_sha256": "2dc622ade1d523e89895f04cd0b93e8211030316571878cb3a12b44a433b4150",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/magicoder/p0/codenet/test_results.summary.json",
+      "destination": "results/rq4/tests/magicoder/p0/codenet/test_results.summary.json",
+      "source_sha256": "60c5709f12f3786c8ad141dba341a4567e2933d6eff982dee65293d484f7093a",
+      "stored_sha256": "60c5709f12f3786c8ad141dba341a4567e2933d6eff982dee65293d484f7093a",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/magicoder/p0/transcoder/test_results.summary.json",
+      "destination": "results/rq4/tests/magicoder/p0/transcoder/test_results.summary.json",
+      "source_sha256": "3fe1cf53bedfc7fdf2b778285567a2c6fada3edc663ba7448678fd201110bf95",
+      "stored_sha256": "3fe1cf53bedfc7fdf2b778285567a2c6fada3edc663ba7448678fd201110bf95",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/magicoder/p0/Xcodeeval/test_results.summary.json",
+      "destination": "results/rq4/tests/magicoder/p0/Xcodeeval/test_results.summary.json",
+      "source_sha256": "0533f5c53c5b3db99b116f68dbf4e1dc0832d8763d471884c82b340faf5c8f17",
+      "stored_sha256": "0533f5c53c5b3db99b116f68dbf4e1dc0832d8763d471884c82b340faf5c8f17",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/magicoder/p1/avatar/test_results.summary.json",
+      "destination": "results/rq4/tests/magicoder/p1/avatar/test_results.summary.json",
+      "source_sha256": "3b154f0110554ae84e4fed9ea7c84664897495c791d4012d2a7bfdeb67b24dc8",
+      "stored_sha256": "3b154f0110554ae84e4fed9ea7c84664897495c791d4012d2a7bfdeb67b24dc8",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/magicoder/p1/codenet/test_results.summary.json",
+      "destination": "results/rq4/tests/magicoder/p1/codenet/test_results.summary.json",
+      "source_sha256": "a731c92d4ef2b5b6ab26674a5d8389de2d9458869a0673dbf1cd646a08caeaf9",
+      "stored_sha256": "a731c92d4ef2b5b6ab26674a5d8389de2d9458869a0673dbf1cd646a08caeaf9",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/magicoder/p1/transcoder/test_results.summary.json",
+      "destination": "results/rq4/tests/magicoder/p1/transcoder/test_results.summary.json",
+      "source_sha256": "167e67fa07cfb74f69fc63b439c768319b596818f3e41a2b3a794870b5b25895",
+      "stored_sha256": "167e67fa07cfb74f69fc63b439c768319b596818f3e41a2b3a794870b5b25895",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/magicoder/p1/xcodeeval/test_results.summary.json",
+      "destination": "results/rq4/tests/magicoder/p1/xcodeeval/test_results.summary.json",
+      "source_sha256": "f781c323b61a8503a47157af794015329a4e7d7aef80d90060553b6b395905da",
+      "stored_sha256": "f781c323b61a8503a47157af794015329a4e7d7aef80d90060553b6b395905da",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/magicoder/p2/avatar/test_results.summary.json",
+      "destination": "results/rq4/tests/magicoder/p2/avatar/test_results.summary.json",
+      "source_sha256": "7b4d67ae13a92628adde9fc236a0e32cb6636e337f04cba56828fd3fba9f4221",
+      "stored_sha256": "7b4d67ae13a92628adde9fc236a0e32cb6636e337f04cba56828fd3fba9f4221",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/magicoder/p2/codenet/test_results.summary.json",
+      "destination": "results/rq4/tests/magicoder/p2/codenet/test_results.summary.json",
+      "source_sha256": "a731c92d4ef2b5b6ab26674a5d8389de2d9458869a0673dbf1cd646a08caeaf9",
+      "stored_sha256": "a731c92d4ef2b5b6ab26674a5d8389de2d9458869a0673dbf1cd646a08caeaf9",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/magicoder/p2/transcoder/test_results.summary.json",
+      "destination": "results/rq4/tests/magicoder/p2/transcoder/test_results.summary.json",
+      "source_sha256": "ad2a2d358df88b15bfc207c6aad71251becf6fbe530e04982f0d68e49fbf95fb",
+      "stored_sha256": "ad2a2d358df88b15bfc207c6aad71251becf6fbe530e04982f0d68e49fbf95fb",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/magicoder/p2/xcodeeval/test_results.summary.json",
+      "destination": "results/rq4/tests/magicoder/p2/xcodeeval/test_results.summary.json",
+      "source_sha256": "0a42d27711f2193beca744f8a1bd9ed9c9202cd9585269964c23dfdf2647a558",
+      "stored_sha256": "0a42d27711f2193beca744f8a1bd9ed9c9202cd9585269964c23dfdf2647a558",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen32b/p0/avatar/test_results.summary.json",
+      "destination": "results/rq4/tests/qwen32b/p0/avatar/test_results.summary.json",
+      "source_sha256": "8b2b20f7eebb7805c7ea319dc51df25d119ed0f1af92e91e7f7f237e10b65d9f",
+      "stored_sha256": "8b2b20f7eebb7805c7ea319dc51df25d119ed0f1af92e91e7f7f237e10b65d9f",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen32b/p0/codenet/test_results.summary.json",
+      "destination": "results/rq4/tests/qwen32b/p0/codenet/test_results.summary.json",
+      "source_sha256": "e388f5cc6ab4d44fd49ed695e54d36bef3db833ddcbb324c2213db91db279cbb",
+      "stored_sha256": "e388f5cc6ab4d44fd49ed695e54d36bef3db833ddcbb324c2213db91db279cbb",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen32b/p0/transcoder/test_results.summary.json",
+      "destination": "results/rq4/tests/qwen32b/p0/transcoder/test_results.summary.json",
+      "source_sha256": "2f8f52470beb373602a6d91a21c8b2011f23e97d8d9fbcd591342a14e91f2dcd",
+      "stored_sha256": "2f8f52470beb373602a6d91a21c8b2011f23e97d8d9fbcd591342a14e91f2dcd",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen32b/p0/XcodeEval/test_results.summary.json",
+      "destination": "results/rq4/tests/qwen32b/p0/XcodeEval/test_results.summary.json",
+      "source_sha256": "351bd5b3494da7008ebc4cc5a00b8f424622dacd6ce6eadcf1d6e67ae7322768",
+      "stored_sha256": "351bd5b3494da7008ebc4cc5a00b8f424622dacd6ce6eadcf1d6e67ae7322768",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen32b/p1/avatar/test_results.summary.json",
+      "destination": "results/rq4/tests/qwen32b/p1/avatar/test_results.summary.json",
+      "source_sha256": "228570673f5c883dfcdfedcc44431f3b75c95dafcd56ebede8808fa5ef55a414",
+      "stored_sha256": "228570673f5c883dfcdfedcc44431f3b75c95dafcd56ebede8808fa5ef55a414",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen32b/p1/codenet/test_results.summary.json",
+      "destination": "results/rq4/tests/qwen32b/p1/codenet/test_results.summary.json",
+      "source_sha256": "39e04e7c7b111d12d27cdf926db4b7136063f36a1eb689ae22a6a4dbff741b66",
+      "stored_sha256": "39e04e7c7b111d12d27cdf926db4b7136063f36a1eb689ae22a6a4dbff741b66",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen32b/p1/transcoder/test_results.summary.json",
+      "destination": "results/rq4/tests/qwen32b/p1/transcoder/test_results.summary.json",
+      "source_sha256": "8fc141d48c72be21a33ec238066429afd7755a4954106055f2717a7c7b3274af",
+      "stored_sha256": "8fc141d48c72be21a33ec238066429afd7755a4954106055f2717a7c7b3274af",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen32b/p1/XcodeEval/test_results.summary.json",
+      "destination": "results/rq4/tests/qwen32b/p1/XcodeEval/test_results.summary.json",
+      "source_sha256": "a140464c8fe4e3840aec08dc03ee1f7dbcb931989d4f29e34b397d86a5071a5b",
+      "stored_sha256": "a140464c8fe4e3840aec08dc03ee1f7dbcb931989d4f29e34b397d86a5071a5b",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen32b/p2/avatar/test_results.summary.json",
+      "destination": "results/rq4/tests/qwen32b/p2/avatar/test_results.summary.json",
+      "source_sha256": "385b19157e6634059c2f43b583739945fe882d1e6edcd2b26b620a6d9411b729",
+      "stored_sha256": "385b19157e6634059c2f43b583739945fe882d1e6edcd2b26b620a6d9411b729",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen32b/p2/codenet/test_results.summary.json",
+      "destination": "results/rq4/tests/qwen32b/p2/codenet/test_results.summary.json",
+      "source_sha256": "d7663aeb418f2112cbed5e76a444dfe2c97492b07450b47fe844ff5aa3737cfe",
+      "stored_sha256": "d7663aeb418f2112cbed5e76a444dfe2c97492b07450b47fe844ff5aa3737cfe",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen32b/p2/transcoder/test_results.summary.json",
+      "destination": "results/rq4/tests/qwen32b/p2/transcoder/test_results.summary.json",
+      "source_sha256": "b087bbf4c5a0cb0c128ab40c2e87680257712873869f85c6d5240a4d5651090e",
+      "stored_sha256": "b087bbf4c5a0cb0c128ab40c2e87680257712873869f85c6d5240a4d5651090e",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen32b/p2/XcodeEval/test_results.summary.json",
+      "destination": "results/rq4/tests/qwen32b/p2/XcodeEval/test_results.summary.json",
+      "source_sha256": "151d9ca813ffc1d41736b3be4e527c07b9f2e6c0c6f591845b9350a3bd6e34de",
+      "stored_sha256": "151d9ca813ffc1d41736b3be4e527c07b9f2e6c0c6f591845b9350a3bd6e34de",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen7b/p0/avatar/test_results.summary.json",
+      "destination": "results/rq4/tests/qwen7b/p0/avatar/test_results.summary.json",
+      "source_sha256": "e3cf89b28eee4110878cc6145168925283afcaa25ca88b935597406ab8ff50a5",
+      "stored_sha256": "e3cf89b28eee4110878cc6145168925283afcaa25ca88b935597406ab8ff50a5",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen7b/p0/codenet/test_results.summary.json",
+      "destination": "results/rq4/tests/qwen7b/p0/codenet/test_results.summary.json",
+      "source_sha256": "622d257fce8d903a08d4df403e82bb96dd2eb7769af0a842ed337456b7f2eaac",
+      "stored_sha256": "622d257fce8d903a08d4df403e82bb96dd2eb7769af0a842ed337456b7f2eaac",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen7b/p0/transcoder/test_results.summary.json",
+      "destination": "results/rq4/tests/qwen7b/p0/transcoder/test_results.summary.json",
+      "source_sha256": "f6f9e179d0f5fc0edd13bbcfe74ff5194ee99d40c375c566cf69aeb0d390a07c",
+      "stored_sha256": "f6f9e179d0f5fc0edd13bbcfe74ff5194ee99d40c375c566cf69aeb0d390a07c",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen7b/p0/XcodeEval/test_results.summary.json",
+      "destination": "results/rq4/tests/qwen7b/p0/XcodeEval/test_results.summary.json",
+      "source_sha256": "1d2754bb49c8e8d2c775fcaae9556f06fc221d13c19b7cc49efeb368955ec638",
+      "stored_sha256": "1d2754bb49c8e8d2c775fcaae9556f06fc221d13c19b7cc49efeb368955ec638",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen7b/p1/avatar/test_results.summary.json",
+      "destination": "results/rq4/tests/qwen7b/p1/avatar/test_results.summary.json",
+      "source_sha256": "ccb2a4465daab5396957114b07b96698f997026b47403cb859b686f9217995f5",
+      "stored_sha256": "ccb2a4465daab5396957114b07b96698f997026b47403cb859b686f9217995f5",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen7b/p1/codenet/test_results.summary.json",
+      "destination": "results/rq4/tests/qwen7b/p1/codenet/test_results.summary.json",
+      "source_sha256": "33a1a23583ca182046e592c760dd2c98a27ce9bc6a57ccb8c08050d5f8763184",
+      "stored_sha256": "33a1a23583ca182046e592c760dd2c98a27ce9bc6a57ccb8c08050d5f8763184",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen7b/p1/transcoder/test_results.summary.json",
+      "destination": "results/rq4/tests/qwen7b/p1/transcoder/test_results.summary.json",
+      "source_sha256": "ac10b82e505e48af8da61f6cf3c3552c489f02dd6e48f9dab89e0471eed00c1b",
+      "stored_sha256": "ac10b82e505e48af8da61f6cf3c3552c489f02dd6e48f9dab89e0471eed00c1b",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen7b/p1/XcodeEval/test_results.summary.json",
+      "destination": "results/rq4/tests/qwen7b/p1/XcodeEval/test_results.summary.json",
+      "source_sha256": "94e320d4476ce7cb036ba59157790db7fa861800e77ce15d9bb8a39a393e94ee",
+      "stored_sha256": "94e320d4476ce7cb036ba59157790db7fa861800e77ce15d9bb8a39a393e94ee",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen7b/p2/avatar/test_results.summary.json",
+      "destination": "results/rq4/tests/qwen7b/p2/avatar/test_results.summary.json",
+      "source_sha256": "d255c1d8474b31343693ebe4cff72b9e161d7d9ecf59eb7e359aac427407feb5",
+      "stored_sha256": "d255c1d8474b31343693ebe4cff72b9e161d7d9ecf59eb7e359aac427407feb5",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen7b/p2/codenet/test_results.summary.json",
+      "destination": "results/rq4/tests/qwen7b/p2/codenet/test_results.summary.json",
+      "source_sha256": "a731c92d4ef2b5b6ab26674a5d8389de2d9458869a0673dbf1cd646a08caeaf9",
+      "stored_sha256": "a731c92d4ef2b5b6ab26674a5d8389de2d9458869a0673dbf1cd646a08caeaf9",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen7b/p2/transcoder/test_results.summary.json",
+      "destination": "results/rq4/tests/qwen7b/p2/transcoder/test_results.summary.json",
+      "source_sha256": "b20182aa8b34380e2d5e105398d1099ded0225798d3fe5b8c1a114865b9cae4f",
+      "stored_sha256": "b20182aa8b34380e2d5e105398d1099ded0225798d3fe5b8c1a114865b9cae4f",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译前增强实验/test_results_withoutcodex/qwen7b/p2/XcodeEval/test_results.summary.json",
+      "destination": "results/rq4/tests/qwen7b/p2/XcodeEval/test_results.summary.json",
+      "source_sha256": "04fcd44f5dd82e3738a3e93f09dbd2ef3b9fbc92192edbe84250b3e2d9085e3d",
+      "stored_sha256": "04fcd44f5dd82e3738a3e93f09dbd2ef3b9fbc92192edbe84250b3e2d9085e3d",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/magicoder/r0/repair_results.jsonl",
+      "destination": "results/rq5/generation/magicoder/r0/repair_results.jsonl",
+      "source_sha256": "d9331beecfb361daeb1579654f3439dc5c017bb471bea599b57c55ea5ba464ac",
+      "stored_sha256": "d9331beecfb361daeb1579654f3439dc5c017bb471bea599b57c55ea5ba464ac",
+      "rows": 517,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/magicoder/r1/repair_results.jsonl",
+      "destination": "results/rq5/generation/magicoder/r1/repair_results.jsonl",
+      "source_sha256": "1dbce04cd25214c3f990f248ef33711b13e9e85da2989686519aa31a29e450a9",
+      "stored_sha256": "1dbce04cd25214c3f990f248ef33711b13e9e85da2989686519aa31a29e450a9",
+      "rows": 517,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/magicoder/r2/repair_results.jsonl",
+      "destination": "results/rq5/generation/magicoder/r2/repair_results.jsonl",
+      "source_sha256": "4b900d3592c8d9623fc5f5424276f082913bf4880c5826c39c52ba2f4f54cef9",
+      "stored_sha256": "4b900d3592c8d9623fc5f5424276f082913bf4880c5826c39c52ba2f4f54cef9",
+      "rows": 517,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/qwen32b/r0/repair_results.jsonl",
+      "destination": "results/rq5/generation/qwen32b/r0/repair_results.jsonl",
+      "source_sha256": "540555655e202b59b804e19d93686e1d325c054b5ce7f8db5bd7216d6c52915e",
+      "stored_sha256": "540555655e202b59b804e19d93686e1d325c054b5ce7f8db5bd7216d6c52915e",
+      "rows": 548,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/qwen32b/r1/repair_results.jsonl",
+      "destination": "results/rq5/generation/qwen32b/r1/repair_results.jsonl",
+      "source_sha256": "5cf7233d9723c02c7538cf348f05cad0b0762314bc632d96d03ea4d9adc93d26",
+      "stored_sha256": "5cf7233d9723c02c7538cf348f05cad0b0762314bc632d96d03ea4d9adc93d26",
+      "rows": 548,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/qwen32b/r2/repair_results.jsonl",
+      "destination": "results/rq5/generation/qwen32b/r2/repair_results.jsonl",
+      "source_sha256": "bad7acec79e001a5a1a2ca11acaf71795840a534bc559b56ca3c2c30d16f0964",
+      "stored_sha256": "bad7acec79e001a5a1a2ca11acaf71795840a534bc559b56ca3c2c30d16f0964",
+      "rows": 548,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/qwen7b/r0/repair_results.jsonl",
+      "destination": "results/rq5/generation/qwen7b/r0/repair_results.jsonl",
+      "source_sha256": "2c15482740b6494fb9eeb652c20ca81616d59f02dec7a6297632bb3f109eea27",
+      "stored_sha256": "2c15482740b6494fb9eeb652c20ca81616d59f02dec7a6297632bb3f109eea27",
+      "rows": 536,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/qwen7b/r1/repair_results.jsonl",
+      "destination": "results/rq5/generation/qwen7b/r1/repair_results.jsonl",
+      "source_sha256": "f751388a6c46be4f7555311c2b7448bacd21188ee13bfa3c00a98d30bd1a05de",
+      "stored_sha256": "f751388a6c46be4f7555311c2b7448bacd21188ee13bfa3c00a98d30bd1a05de",
+      "rows": 536,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/qwen7b/r2/repair_results.jsonl",
+      "destination": "results/rq5/generation/qwen7b/r2/repair_results.jsonl",
+      "source_sha256": "748772c4afdea27cb24519706dd4f364f41e228d3077bb3c3baf0c3314089c20",
+      "stored_sha256": "748772c4afdea27cb24519706dd4f364f41e228d3077bb3c3baf0c3314089c20",
+      "rows": 536,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/magicoder/r0/avatar/test_results.jsonl",
+      "destination": "results/rq5/tests/magicoder/r0/avatar/test_results.jsonl",
+      "source_sha256": "a1694a041815667d4c5c0cff9c08ad70ed149596f23bc61be0a681a96e54473f",
+      "stored_sha256": "8d8d72657d69796d47ad8f58d210180d8dab9eccee468c214e0b675fa2cf6268",
+      "rows": 39,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/magicoder/r0/codenet/test_results.jsonl",
+      "destination": "results/rq5/tests/magicoder/r0/codenet/test_results.jsonl",
+      "source_sha256": "975a3150cd85e5044b2e9b63d50f51aea7d558d1a9f4509fb7e45129e64dea4b",
+      "stored_sha256": "ac9f4d39a39b0a81901261b775411cb91d8446065a680fe6b63be7304c956e78",
+      "rows": 6,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/magicoder/r0/TransCoder/test_results.jsonl",
+      "destination": "results/rq5/tests/magicoder/r0/TransCoder/test_results.jsonl",
+      "source_sha256": "70b07c30ad9da8415b8c2da90c8a692bc93d60a24775da760b28b71f75cdb9e8",
+      "stored_sha256": "f69ce46a689524a078e98ddcd27864c0bc996cbf40d09e390c9fac8e405f7171",
+      "rows": 47,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/magicoder/r0/XcodeEval/test_results.jsonl",
+      "destination": "results/rq5/tests/magicoder/r0/XcodeEval/test_results.jsonl",
+      "source_sha256": "adcdf8cc397a2ba97b0659d7a44bf30c09a6e918d6d06188c9651d0acd01be69",
+      "stored_sha256": "c255dce90f5f252ff2e52f87e06066f4bd6903d7136803de0d8e5fae4be2209b",
+      "rows": 423,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/magicoder/r1/avatar/test_results.jsonl",
+      "destination": "results/rq5/tests/magicoder/r1/avatar/test_results.jsonl",
+      "source_sha256": "2bd13fe9dbbb412ac10b358065641e82e3324d1f3761a36024e817dfff6e2ebe",
+      "stored_sha256": "cb81fbc71a4db6e95cdcacfa9e306b62a17a8fa41460e63a90518b85ba9c68c2",
+      "rows": 39,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/magicoder/r1/codenet/test_results.jsonl",
+      "destination": "results/rq5/tests/magicoder/r1/codenet/test_results.jsonl",
+      "source_sha256": "9308fda95afe6e7e96dda890691c9162d632c87b694d92644009f4e1ee8d33ee",
+      "stored_sha256": "1cbfbdd66c18b3cb5fc37da150e7132cbe796d5d5f9c801f9c71895400ef4654",
+      "rows": 6,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/magicoder/r1/TransCoder/test_results.jsonl",
+      "destination": "results/rq5/tests/magicoder/r1/TransCoder/test_results.jsonl",
+      "source_sha256": "e477eb626f30bb70833cbdea478e8dd271c6a445cf50df756f15611f4909d368",
+      "stored_sha256": "ae95de05d22724a431ef82a29296f2f74737e99f0bdb7cea80c5c0ccc6759ffe",
+      "rows": 47,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/magicoder/r1/XcodeEval/test_results.jsonl",
+      "destination": "results/rq5/tests/magicoder/r1/XcodeEval/test_results.jsonl",
+      "source_sha256": "9ec6958c3d6097466e365965decfc9571999fa704f2e3c9220890229e7fd7131",
+      "stored_sha256": "87ab6fa0c1e58d567caf24530d1dfc13bb48e73383d62ed2b2f6aba007d2c7e6",
+      "rows": 423,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/magicoder/r2/avatar/test_results.jsonl",
+      "destination": "results/rq5/tests/magicoder/r2/avatar/test_results.jsonl",
+      "source_sha256": "0b2f476ab91b116f30356ec824c3244ee358dbcb695a63d0633e791a2f4bd567",
+      "stored_sha256": "4949063bbbc7583e4509530a8be978344846cc855fa4264fb82e7ea9241975b4",
+      "rows": 39,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/magicoder/r2/codenet/test_results.jsonl",
+      "destination": "results/rq5/tests/magicoder/r2/codenet/test_results.jsonl",
+      "source_sha256": "dc3e2bb94311c276028eedbf87bbacd75c2249873434d99522bc73b64f81a91a",
+      "stored_sha256": "c5ed276d6fc85994f695e391e610bacc1e6a5249f4d992bb77ce9efb0b89f05a",
+      "rows": 6,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/magicoder/r2/TransCoder/test_results.jsonl",
+      "destination": "results/rq5/tests/magicoder/r2/TransCoder/test_results.jsonl",
+      "source_sha256": "c7d9a4fca548f9f0ad5c6bed8fd30c0639123a8b000155e64f7eec0203b84055",
+      "stored_sha256": "5e779b6898f1daf7536957f121a74d57584bf3065c5197600ed2cba2afd8e3f7",
+      "rows": 47,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/magicoder/r2/XcodeEval/test_results.jsonl",
+      "destination": "results/rq5/tests/magicoder/r2/XcodeEval/test_results.jsonl",
+      "source_sha256": "10a989ff24ee5ce64261b5c78eb52c33fbd53070659f94de3ba409e40b6a06a8",
+      "stored_sha256": "763e666337141a2076527b8f7312923f04034224e9551fa91e939059b7354650",
+      "rows": 423,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen32b/r0/avatar/test_results.jsonl",
+      "destination": "results/rq5/tests/qwen32b/r0/avatar/test_results.jsonl",
+      "source_sha256": "59cc53382fd9386e53d53e4860841099fd1dc45ece405344d6e50ee37df18806",
+      "stored_sha256": "5d12223dee7b2e24196296d9ce5715d64cc463c1cd1385601c52e6a913f21d01",
+      "rows": 40,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen32b/r0/codenet/test_results.jsonl",
+      "destination": "results/rq5/tests/qwen32b/r0/codenet/test_results.jsonl",
+      "source_sha256": "efce6f0a41c691511f5056ab1c5e235acacaafe4f7d0427b6f6536808d3d5cac",
+      "stored_sha256": "f1cdbb554ad153c17b5c1bdc27234c88060a20fbe67ad40f8b2c82f3cb6a6be9",
+      "rows": 3,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen32b/r0/TransCoder/test_results.jsonl",
+      "destination": "results/rq5/tests/qwen32b/r0/TransCoder/test_results.jsonl",
+      "source_sha256": "a2c73f62c909d091169bbc626786c1ad18cdd736b4f91db8f5bd6456a28d1a75",
+      "stored_sha256": "228e5a19c91ba65fd74cd9fd1db3962bbad772a502299174f378139d138991a2",
+      "rows": 34,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen32b/r0/XcodeEval/test_results.jsonl",
+      "destination": "results/rq5/tests/qwen32b/r0/XcodeEval/test_results.jsonl",
+      "source_sha256": "d59dabf136a9702aee44eea246db34d1e5ca53e14c9efb3fe46d5f7217c3a233",
+      "stored_sha256": "265bacd6348297c4315ef0dc28dd4075f186da0876aea5616d19c71a34dcc850",
+      "rows": 468,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen32b/r1/avatar/test_results.jsonl",
+      "destination": "results/rq5/tests/qwen32b/r1/avatar/test_results.jsonl",
+      "source_sha256": "bd8a393af148010cf7b483cb816bb8208a53865cc3e325e2ba873de6a646d4be",
+      "stored_sha256": "777d1b7d51528c5442a38262cb6d88a8b47ad7b8c5ddb40c0ffc5620512efa52",
+      "rows": 40,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen32b/r1/codenet/test_results.jsonl",
+      "destination": "results/rq5/tests/qwen32b/r1/codenet/test_results.jsonl",
+      "source_sha256": "f1e334e30983c4ea6d0d428517c1c7b8e81de4891b49199aa308a12d47c6d85e",
+      "stored_sha256": "ac1e0b3f9d7558d279c526160e44b25ecc34f03c027c9ce2d1dee3bce3cf39da",
+      "rows": 3,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen32b/r1/TransCoder/test_results.jsonl",
+      "destination": "results/rq5/tests/qwen32b/r1/TransCoder/test_results.jsonl",
+      "source_sha256": "0dc86fe4ea8d9f83155e13c0457aea4f869b88de447b898f5a7f9818213d1a20",
+      "stored_sha256": "939d2325086eb54b888c10f925b80e1928c0a4b94f639d6152a11ae2270dbc65",
+      "rows": 34,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen32b/r1/XcodeEval/test_results.jsonl",
+      "destination": "results/rq5/tests/qwen32b/r1/XcodeEval/test_results.jsonl",
+      "source_sha256": "72e1e9ca48fe81da7ce4da04d5a277fce804f8c8a866bef269e7f75239a6306c",
+      "stored_sha256": "a537ca041c68bfc8cf32de4d6c9da1f9d9157a7e01e54fa29bbaa08f7c3fda03",
+      "rows": 468,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen32b/r2/avatar/test_results.jsonl",
+      "destination": "results/rq5/tests/qwen32b/r2/avatar/test_results.jsonl",
+      "source_sha256": "ffe2a124d7615ff6c30a740b0de2d4886328b2c9bfdb67bd0f1f85e6184d6600",
+      "stored_sha256": "5795d4f757f50ca307b7a63a285b165e7671d0e4677085f30abcf1a1979d28fb",
+      "rows": 40,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen32b/r2/codenet/test_results.jsonl",
+      "destination": "results/rq5/tests/qwen32b/r2/codenet/test_results.jsonl",
+      "source_sha256": "45ef7b21a94098e2656d05b5accdedc15bb4eaf3cf9217c095a160318112a9c8",
+      "stored_sha256": "628445649a01c5d816534fa733a7f640fb03bffe3177ec02d488eb316eb112a7",
+      "rows": 3,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen32b/r2/TransCoder/test_results.jsonl",
+      "destination": "results/rq5/tests/qwen32b/r2/TransCoder/test_results.jsonl",
+      "source_sha256": "bf8b245860d384da9d9845b7149b912931d99b301b366eab7fef918c341bcb73",
+      "stored_sha256": "17adba67868d76599e7a6d89121322eaf2e7e6975555e7044947d7b0ded924e4",
+      "rows": 34,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen32b/r2/XcodeEval/test_results.jsonl",
+      "destination": "results/rq5/tests/qwen32b/r2/XcodeEval/test_results.jsonl",
+      "source_sha256": "d722085aa812faaeb873a52e346afabd8aec9d15feecf2bcebe3e5312bd995bb",
+      "stored_sha256": "d2ac603c5a54a0a870ee90d41e4ea285e3cba86a873e5ce784752218ee0a1404",
+      "rows": 468,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen7b/r0/avatar/test_results.jsonl",
+      "destination": "results/rq5/tests/qwen7b/r0/avatar/test_results.jsonl",
+      "source_sha256": "7242fa68f45afc8ad69291a1a05c55772cca374a4d52afd36f1c7b2c31b58dd1",
+      "stored_sha256": "3cd592f9afcb16824a134cd42eb4308f557b289cb21ddef7a52cfb6f0ec61674",
+      "rows": 33,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen7b/r0/codenet/test_results.jsonl",
+      "destination": "results/rq5/tests/qwen7b/r0/codenet/test_results.jsonl",
+      "source_sha256": "39503fc4f0b29b08aa506baa43e84f761f67cc185dbef6b2b6421eba648c0217",
+      "stored_sha256": "18dcd6debb58456139461d2ed0f319edbb1eeb6edc06f2c7552125558774f2a9",
+      "rows": 6,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen7b/r0/TransCoder/test_results.jsonl",
+      "destination": "results/rq5/tests/qwen7b/r0/TransCoder/test_results.jsonl",
+      "source_sha256": "3bbd5856ee60e67821817eca014bb2dbdc9b5cab479c9a48172e95dcd4e7194f",
+      "stored_sha256": "4f3f2f7887373bb50797c9ec452179463d4ee1b6053080457994b0b6e763d2fb",
+      "rows": 46,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen7b/r0/XcodeEval/test_results.jsonl",
+      "destination": "results/rq5/tests/qwen7b/r0/XcodeEval/test_results.jsonl",
+      "source_sha256": "a5f2b228835b7af17c5691fce75bb10caf021d1856ac922598b69390da8dfe12",
+      "stored_sha256": "f23b1804aaaf77c70facfb5ef745a2dff08603ea2b075d25842d7b2b335cc8a1",
+      "rows": 448,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen7b/r1/avatar/test_results.jsonl",
+      "destination": "results/rq5/tests/qwen7b/r1/avatar/test_results.jsonl",
+      "source_sha256": "3c90ff6a163d3f4ab310292b31ea33b86137740d9ace5a7439698585e46b5be4",
+      "stored_sha256": "dfc5c3dd3753292747c5df9acc6f926933fbfb25ece5601879e12622c61ca822",
+      "rows": 33,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen7b/r1/codenet/test_results.jsonl",
+      "destination": "results/rq5/tests/qwen7b/r1/codenet/test_results.jsonl",
+      "source_sha256": "988db843931f2c84af83facf99305c1e51a4964c386af869252f809faab996df",
+      "stored_sha256": "e81a22a43d844f9cf64f8dc47dbe950faa38f606a04dd124814b72805bdd907f",
+      "rows": 6,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen7b/r1/TransCoder/test_results.jsonl",
+      "destination": "results/rq5/tests/qwen7b/r1/TransCoder/test_results.jsonl",
+      "source_sha256": "e6ce885ecdeaea92fe76e7f9b94de471f4865d4b393f594c2393cbb59a14c022",
+      "stored_sha256": "186749c926a3f38c23bb51761739d4334a28828e06f82e9fd05c42b4edc430fb",
+      "rows": 46,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen7b/r1/XcodeEval/test_results.jsonl",
+      "destination": "results/rq5/tests/qwen7b/r1/XcodeEval/test_results.jsonl",
+      "source_sha256": "907f8485e89752125201a8422b20766252e156826a6130f86190cd52db4b08e7",
+      "stored_sha256": "d88e3cb5ba25ac0fd768d264e6587ec8d254385efc1963fdb8481b534371688b",
+      "rows": 448,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen7b/r2/avatar/test_results.jsonl",
+      "destination": "results/rq5/tests/qwen7b/r2/avatar/test_results.jsonl",
+      "source_sha256": "75ead3b8f4c61a3efd185097349689555058f3d9df5cb7ddb48f935bf9a0a13c",
+      "stored_sha256": "f8c040d2e777340a22a07ae7cebea015815feff02e5f3b10aa81f461225a774e",
+      "rows": 33,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen7b/r2/codenet/test_results.jsonl",
+      "destination": "results/rq5/tests/qwen7b/r2/codenet/test_results.jsonl",
+      "source_sha256": "12b8b31d5b5e86c3b186035ce33c5f70f025ded5754238f01757e9e819f2e0bd",
+      "stored_sha256": "b1042405883ea2a88e19b5a646fd492e56e056959548c108f66bc304ac59726f",
+      "rows": 6,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen7b/r2/TransCoder/test_results.jsonl",
+      "destination": "results/rq5/tests/qwen7b/r2/TransCoder/test_results.jsonl",
+      "source_sha256": "2c446bae2ca5f9fb821f7c44404240355a5794f6b210917146c1403c8d206c3f",
+      "stored_sha256": "2485e714e8ccf459441d77fd23dd11a98433b3295989294e23c2934b16067ff7",
+      "rows": 46,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen7b/r2/XcodeEval/test_results.jsonl",
+      "destination": "results/rq5/tests/qwen7b/r2/XcodeEval/test_results.jsonl",
+      "source_sha256": "e2c92e2bb2d6fccc4d20b88c425d6f295bef1a12b932501daef343b627421236",
+      "stored_sha256": "21145d6fa247a14a19e164265196cfa6a33b18e03ff0e9a22a4adf2acb550a0d",
+      "rows": 448,
+      "representation": "compact sample-level result; test input/output, stdout/stderr, workdir and other verbose diagnostics omitted"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/magicoder/r0/avatar/test_results.summary.json",
+      "destination": "results/rq5/tests/magicoder/r0/avatar/test_results.summary.json",
+      "source_sha256": "844ddd98cd826cf821ae318bc1ac175c618cadb911308b935822a47cc8c25a90",
+      "stored_sha256": "844ddd98cd826cf821ae318bc1ac175c618cadb911308b935822a47cc8c25a90",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/magicoder/r0/codenet/test_results.summary.json",
+      "destination": "results/rq5/tests/magicoder/r0/codenet/test_results.summary.json",
+      "source_sha256": "5cd1282369f22f64b6429c5ad0249d5d451443723546a70c6b1cb68e28ba0bdd",
+      "stored_sha256": "5cd1282369f22f64b6429c5ad0249d5d451443723546a70c6b1cb68e28ba0bdd",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/magicoder/r0/TransCoder/test_results.summary.json",
+      "destination": "results/rq5/tests/magicoder/r0/TransCoder/test_results.summary.json",
+      "source_sha256": "67b5dc76297dced269c9eddc6c4642fdd720a69d34bae02ebe94cf749cd63e28",
+      "stored_sha256": "67b5dc76297dced269c9eddc6c4642fdd720a69d34bae02ebe94cf749cd63e28",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/magicoder/r0/XcodeEval/test_results.summary.json",
+      "destination": "results/rq5/tests/magicoder/r0/XcodeEval/test_results.summary.json",
+      "source_sha256": "602ac129d120dc8bd3c71783ecd10c25d620364fd45455adf5df61efd17f9c2f",
+      "stored_sha256": "602ac129d120dc8bd3c71783ecd10c25d620364fd45455adf5df61efd17f9c2f",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/magicoder/r1/avatar/test_results.summary.json",
+      "destination": "results/rq5/tests/magicoder/r1/avatar/test_results.summary.json",
+      "source_sha256": "3c87ae24d87ce37fe0c6a229b38c430eb541b108f83a246d106070eff79d9cd2",
+      "stored_sha256": "3c87ae24d87ce37fe0c6a229b38c430eb541b108f83a246d106070eff79d9cd2",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/magicoder/r1/codenet/test_results.summary.json",
+      "destination": "results/rq5/tests/magicoder/r1/codenet/test_results.summary.json",
+      "source_sha256": "4b538e10a96a876e8d4d06afa4bb637d926634b0bdf643d672b77ddf9a08b947",
+      "stored_sha256": "4b538e10a96a876e8d4d06afa4bb637d926634b0bdf643d672b77ddf9a08b947",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/magicoder/r1/TransCoder/test_results.summary.json",
+      "destination": "results/rq5/tests/magicoder/r1/TransCoder/test_results.summary.json",
+      "source_sha256": "52f1f71751ca1abdf94724afcacd54bfd1b9286cebf62be7ced440a346590afe",
+      "stored_sha256": "52f1f71751ca1abdf94724afcacd54bfd1b9286cebf62be7ced440a346590afe",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/magicoder/r1/XcodeEval/test_results.summary.json",
+      "destination": "results/rq5/tests/magicoder/r1/XcodeEval/test_results.summary.json",
+      "source_sha256": "9d52323ba49e0c528c624b1b4c1c0abba06f86232d84c2e7955f32059718b95c",
+      "stored_sha256": "9d52323ba49e0c528c624b1b4c1c0abba06f86232d84c2e7955f32059718b95c",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/magicoder/r2/avatar/test_results.summary.json",
+      "destination": "results/rq5/tests/magicoder/r2/avatar/test_results.summary.json",
+      "source_sha256": "b5f79528faeea0e2e1ad58dcc686d353b14a4f9fdb90e715364cba7e55d55327",
+      "stored_sha256": "b5f79528faeea0e2e1ad58dcc686d353b14a4f9fdb90e715364cba7e55d55327",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/magicoder/r2/codenet/test_results.summary.json",
+      "destination": "results/rq5/tests/magicoder/r2/codenet/test_results.summary.json",
+      "source_sha256": "5cd1282369f22f64b6429c5ad0249d5d451443723546a70c6b1cb68e28ba0bdd",
+      "stored_sha256": "5cd1282369f22f64b6429c5ad0249d5d451443723546a70c6b1cb68e28ba0bdd",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/magicoder/r2/TransCoder/test_results.summary.json",
+      "destination": "results/rq5/tests/magicoder/r2/TransCoder/test_results.summary.json",
+      "source_sha256": "49376b2f82a731cb270b529427faeb5f5e2883f8d0c0d28ce1d9354b27963b71",
+      "stored_sha256": "49376b2f82a731cb270b529427faeb5f5e2883f8d0c0d28ce1d9354b27963b71",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/magicoder/r2/XcodeEval/test_results.summary.json",
+      "destination": "results/rq5/tests/magicoder/r2/XcodeEval/test_results.summary.json",
+      "source_sha256": "2367e9c89d1a10e71a5a35378752da1b0d481acbf36bea489adc13dc0da6b8e5",
+      "stored_sha256": "2367e9c89d1a10e71a5a35378752da1b0d481acbf36bea489adc13dc0da6b8e5",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen32b/r0/avatar/test_results.summary.json",
+      "destination": "results/rq5/tests/qwen32b/r0/avatar/test_results.summary.json",
+      "source_sha256": "512ef8f9d341ff83220fd9d68a2a84b1fea736aaaede7b2d3dddce61bcc123c1",
+      "stored_sha256": "512ef8f9d341ff83220fd9d68a2a84b1fea736aaaede7b2d3dddce61bcc123c1",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen32b/r0/codenet/test_results.summary.json",
+      "destination": "results/rq5/tests/qwen32b/r0/codenet/test_results.summary.json",
+      "source_sha256": "9171d49308e4bb57607e2bb7b7b3ebab79c54ce962f0c154ff98d6040ea53b88",
+      "stored_sha256": "9171d49308e4bb57607e2bb7b7b3ebab79c54ce962f0c154ff98d6040ea53b88",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen32b/r0/TransCoder/test_results.summary.json",
+      "destination": "results/rq5/tests/qwen32b/r0/TransCoder/test_results.summary.json",
+      "source_sha256": "e76496e46fd50bca7db387a3960597425cf21b3bf9daa0c6b92f7018b618d1e6",
+      "stored_sha256": "e76496e46fd50bca7db387a3960597425cf21b3bf9daa0c6b92f7018b618d1e6",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen32b/r0/XcodeEval/test_results.summary.json",
+      "destination": "results/rq5/tests/qwen32b/r0/XcodeEval/test_results.summary.json",
+      "source_sha256": "04bdb9db05c3eed5e9e1a59ab89f3474d5ca32a47dc1c81d4536c9a4f6b80eb4",
+      "stored_sha256": "04bdb9db05c3eed5e9e1a59ab89f3474d5ca32a47dc1c81d4536c9a4f6b80eb4",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen32b/r1/avatar/test_results.summary.json",
+      "destination": "results/rq5/tests/qwen32b/r1/avatar/test_results.summary.json",
+      "source_sha256": "23f497aecdda7684a04e3a0554911d4058a3ccfa56c467b206decddb925c8839",
+      "stored_sha256": "23f497aecdda7684a04e3a0554911d4058a3ccfa56c467b206decddb925c8839",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen32b/r1/codenet/test_results.summary.json",
+      "destination": "results/rq5/tests/qwen32b/r1/codenet/test_results.summary.json",
+      "source_sha256": "d7663aeb418f2112cbed5e76a444dfe2c97492b07450b47fe844ff5aa3737cfe",
+      "stored_sha256": "d7663aeb418f2112cbed5e76a444dfe2c97492b07450b47fe844ff5aa3737cfe",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen32b/r1/TransCoder/test_results.summary.json",
+      "destination": "results/rq5/tests/qwen32b/r1/TransCoder/test_results.summary.json",
+      "source_sha256": "ab9e67dc3b39e378500291a7db533789358e4dcdf6b7ac07fec849ce211c75e7",
+      "stored_sha256": "ab9e67dc3b39e378500291a7db533789358e4dcdf6b7ac07fec849ce211c75e7",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen32b/r1/XcodeEval/test_results.summary.json",
+      "destination": "results/rq5/tests/qwen32b/r1/XcodeEval/test_results.summary.json",
+      "source_sha256": "d0a007f23aff2a7ffc00329d17a69d035a8be48c040cef0b395451d4bc546cd4",
+      "stored_sha256": "d0a007f23aff2a7ffc00329d17a69d035a8be48c040cef0b395451d4bc546cd4",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen32b/r2/avatar/test_results.summary.json",
+      "destination": "results/rq5/tests/qwen32b/r2/avatar/test_results.summary.json",
+      "source_sha256": "7d05fd79ddbf3157d7ba1eba145d93851027e8ea0cc278df66a7b400f22128e8",
+      "stored_sha256": "7d05fd79ddbf3157d7ba1eba145d93851027e8ea0cc278df66a7b400f22128e8",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen32b/r2/codenet/test_results.summary.json",
+      "destination": "results/rq5/tests/qwen32b/r2/codenet/test_results.summary.json",
+      "source_sha256": "9171d49308e4bb57607e2bb7b7b3ebab79c54ce962f0c154ff98d6040ea53b88",
+      "stored_sha256": "9171d49308e4bb57607e2bb7b7b3ebab79c54ce962f0c154ff98d6040ea53b88",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen32b/r2/TransCoder/test_results.summary.json",
+      "destination": "results/rq5/tests/qwen32b/r2/TransCoder/test_results.summary.json",
+      "source_sha256": "f8fe3c4970cb9d9f3837bdb8bed48acd0cc72a0c0ebe12375d9cfaf8a1854d43",
+      "stored_sha256": "f8fe3c4970cb9d9f3837bdb8bed48acd0cc72a0c0ebe12375d9cfaf8a1854d43",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen32b/r2/XcodeEval/test_results.summary.json",
+      "destination": "results/rq5/tests/qwen32b/r2/XcodeEval/test_results.summary.json",
+      "source_sha256": "4c1f325d9fd402b84dca2cd554f16fd743b89cc82a5633cef9b2c4cfc5057f7c",
+      "stored_sha256": "4c1f325d9fd402b84dca2cd554f16fd743b89cc82a5633cef9b2c4cfc5057f7c",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen7b/r0/avatar/test_results.summary.json",
+      "destination": "results/rq5/tests/qwen7b/r0/avatar/test_results.summary.json",
+      "source_sha256": "9fac0e06266d92793f0d24e8f8e72a195333c915a31cc96306dadc2da7cec431",
+      "stored_sha256": "9fac0e06266d92793f0d24e8f8e72a195333c915a31cc96306dadc2da7cec431",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen7b/r0/codenet/test_results.summary.json",
+      "destination": "results/rq5/tests/qwen7b/r0/codenet/test_results.summary.json",
+      "source_sha256": "33a1a23583ca182046e592c760dd2c98a27ce9bc6a57ccb8c08050d5f8763184",
+      "stored_sha256": "33a1a23583ca182046e592c760dd2c98a27ce9bc6a57ccb8c08050d5f8763184",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen7b/r0/TransCoder/test_results.summary.json",
+      "destination": "results/rq5/tests/qwen7b/r0/TransCoder/test_results.summary.json",
+      "source_sha256": "808f838afaf6dec7c972e337424e4d9fb746e88d68834f8a77840a236a5ff005",
+      "stored_sha256": "808f838afaf6dec7c972e337424e4d9fb746e88d68834f8a77840a236a5ff005",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen7b/r0/XcodeEval/test_results.summary.json",
+      "destination": "results/rq5/tests/qwen7b/r0/XcodeEval/test_results.summary.json",
+      "source_sha256": "26b80ee4dc7f423b0e94bd2daa06654749ff4e64b2bf464233b04d06076c8aaa",
+      "stored_sha256": "26b80ee4dc7f423b0e94bd2daa06654749ff4e64b2bf464233b04d06076c8aaa",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen7b/r1/avatar/test_results.summary.json",
+      "destination": "results/rq5/tests/qwen7b/r1/avatar/test_results.summary.json",
+      "source_sha256": "b2ec9129e9094af339c8776474fb48cc52ace7ecf5df703f96776f7f91cc1377",
+      "stored_sha256": "b2ec9129e9094af339c8776474fb48cc52ace7ecf5df703f96776f7f91cc1377",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen7b/r1/codenet/test_results.summary.json",
+      "destination": "results/rq5/tests/qwen7b/r1/codenet/test_results.summary.json",
+      "source_sha256": "33a1a23583ca182046e592c760dd2c98a27ce9bc6a57ccb8c08050d5f8763184",
+      "stored_sha256": "33a1a23583ca182046e592c760dd2c98a27ce9bc6a57ccb8c08050d5f8763184",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen7b/r1/TransCoder/test_results.summary.json",
+      "destination": "results/rq5/tests/qwen7b/r1/TransCoder/test_results.summary.json",
+      "source_sha256": "91b1f61ca347cf20c76b229374a90e124ea8c09ed683adf9fd6ef8b6debba56e",
+      "stored_sha256": "91b1f61ca347cf20c76b229374a90e124ea8c09ed683adf9fd6ef8b6debba56e",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen7b/r1/XcodeEval/test_results.summary.json",
+      "destination": "results/rq5/tests/qwen7b/r1/XcodeEval/test_results.summary.json",
+      "source_sha256": "df9cd9427df58958426c3f204bd37d73cba4af6ae3366a5493cb36cbf75bde17",
+      "stored_sha256": "df9cd9427df58958426c3f204bd37d73cba4af6ae3366a5493cb36cbf75bde17",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen7b/r2/avatar/test_results.summary.json",
+      "destination": "results/rq5/tests/qwen7b/r2/avatar/test_results.summary.json",
+      "source_sha256": "625a9d6d0b87c3f5ba63006131cb523720fd5f5fea78c057ee6259b2b0276219",
+      "stored_sha256": "625a9d6d0b87c3f5ba63006131cb523720fd5f5fea78c057ee6259b2b0276219",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen7b/r2/codenet/test_results.summary.json",
+      "destination": "results/rq5/tests/qwen7b/r2/codenet/test_results.summary.json",
+      "source_sha256": "33a1a23583ca182046e592c760dd2c98a27ce9bc6a57ccb8c08050d5f8763184",
+      "stored_sha256": "33a1a23583ca182046e592c760dd2c98a27ce9bc6a57ccb8c08050d5f8763184",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen7b/r2/TransCoder/test_results.summary.json",
+      "destination": "results/rq5/tests/qwen7b/r2/TransCoder/test_results.summary.json",
+      "source_sha256": "bfeec8f05b01fb95457a473ac4472bc0e55ad9d767594fd6bba96b5bc7d03f32",
+      "stored_sha256": "bfeec8f05b01fb95457a473ac4472bc0e55ad9d767594fd6bba96b5bc7d03f32",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    },
+    {
+      "source": "翻译后修复实验/outputs/repair/test_results/qwen7b/r2/XcodeEval/test_results.summary.json",
+      "destination": "results/rq5/tests/qwen7b/r2/XcodeEval/test_results.summary.json",
+      "source_sha256": "3f336accf79fd1778a5285e4199259e2df604829f05fe0450cbae0eafbcec133",
+      "stored_sha256": "3f336accf79fd1778a5285e4199259e2df604829f05fe0450cbae0eafbcec133",
+      "rows": null,
+      "representation": "byte-for-byte original"
+    }
+  ],
+  "binary_prediction_files": 7,
+  "binary_samples_per_file": 215,
+  "multiclass_prediction_files": 3,
+  "multiclass_samples_per_file": 70,
+  "generation_rows": 9606,
+  "compact_test_rows": 9576,
+  "java_files_copied": 0,
+  "models_or_tests_rerun": false
+}

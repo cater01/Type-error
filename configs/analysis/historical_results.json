@@ -1,0 +1,15 @@
+{
+  "experiment": {
+    "name": "analysis.historical_results",
+    "entry_point": "src/analysis/analyze_experiment_results.py",
+    "status": "archived_result_recalculation",
+    "note": "Read compact sample-level results and full generation universes; do not rerun models or Java."
+  },
+  "args": {
+    "prevention_results": "results/rq4/tests",
+    "prevention_generation": "results/rq4/generation",
+    "repair_results": "results/rq5/tests",
+    "repair_generation": "results/rq5/generation",
+    "out_dir": "results/historical_comparison"
+  }
+}

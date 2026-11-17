@@ -1,0 +1,430 @@
+﻿label,类型,名称,AvgCountLine,AvgCountLineBlank,AvgCountLineCode,AvgCountLineComment,AvgCyclomatic,CountClassBase,CountClassCoupled,CountClassCoupledModified,CountClassDerived,CountDeclClass,CountDeclExecutableUnit,CountDeclFile,CountDeclFunction,CountDeclInstanceMethod,CountDeclInstanceVariable,CountDeclMethod,CountDeclMethodAll,CountLine,CountLineBlank,CountLineCode,CountLineCodeDecl,CountLineCodeExe,CountLineComment,CountStmt,CountStmtDecl,CountStmtExe,Cyclomatic,MaxCyclomatic,MaxInheritanceTree,MaxNesting,RatioCommentToCode,SumCyclomatic
+type error,Module File,00cffd273df24d1676acbbfd9a39630d_1.py,2,0,0,0,1,,,,,0,1,,0,,,,,2,0,2,1,2,0,2,1,2,1,1,,0,0.00,1
+type error,Module File,00cffd273df24d1676acbbfd9a39630d_2.py,4,0,0,0,1,,,,,0,1,,0,,,,,4,0,4,3,4,0,4,3,4,1,1,,0,0.00,1
+type error,Module File,00e90909a77ce9e22bb7cbf1285b0609_2.py,5,0,0,0,2,,,,,0,1,,0,,,,,7,2,5,3,5,0,5,3,5,2,2,,1,0.00,2
+type error,Module File,015afbefe1514a0e18fcb9286c7b6624_2.py,9,4,4,1,2,,,,,0,4,,3,,,,,57,32,21,14,17,4,23,14,17,2,4,,2,0.19,8
+type error,Module File,04610fbaa746c083dda30e21fa6e1a0c_1.py,9,0,12,1,3,,,,,0,3,,2,,,,,30,2,25,11,23,3,27,11,25,1,5,,3,0.12,9
+type error,Module File,04610fbaa746c083dda30e21fa6e1a0c_2.py,13,0,12,0,4,,,,,0,2,,1,,,,,26,1,25,9,24,0,25,9,24,3,5,,3,0.00,8
+type error,Module File,04ca137d0383c03944e3ce1c502c635b_1.py,8,0,6,0,3,,,,,0,16,,15,,,,,182,25,125,45,106,32,127,47,108,5,7,,4,0.26,45
+type error,Module File,04ca137d0383c03944e3ce1c502c635b_2.py,18,0,0,0,3,,,,,0,1,,0,,,,,18,0,18,7,18,0,18,7,18,3,3,,2,0.00,3
+type error,Module File,04fc8dfb856056f35d296402ad1b2da1_2.py,9,0,10,0,2,,,,,0,2,,1,,,,,19,2,17,11,16,0,17,11,16,2,2,,1,0.00,4
+type error,Module File,075f83248f6d4d012e0ca1547fc67993_2.py,9,0,0,0,2,,,,,0,1,,0,,,,,10,1,9,4,9,3,6,4,6,2,2,,1,0.33,2
+type error,Module File,08f85cd4ffbd135f0b630235209273a4_2.py,10,0,7,0,3,,,,,2,6,,5,,,,,85,13,69,43,54,3,69,43,54,7,7,,3,0.04,17
+type error,Module File,0930c75f57dd88a858ba7bb0f11f1b1c_2.py,7,0,9,0,3,,,,,0,3,,2,,,,,25,4,21,11,18,0,21,11,18,1,6,,2,0.00,10
+type error,Module File,0af400ea8e25b1a36adec4cc08912b71_1.py,8,0,0,0,3,,,,,0,1,,0,,,,,8,0,8,2,8,0,8,2,8,3,3,,2,0.00,3
+type error,Module File,0af400ea8e25b1a36adec4cc08912b71_2.py,6,0,6,1,3,,,,,0,2,,1,,,,,16,3,11,3,10,2,11,3,10,2,3,,1,0.18,5
+type error,Module File,0fdd91ed33431848614075ebe9d2ee68_1.py,15,0,0,0,3,,,,,0,1,,0,,,,,33,17,16,7,15,0,16,7,15,3,3,,2,0.00,3
+type error,Module File,1503d761dd4e129fb7c423da390544ff_2.py,9,0,0,0,2,,,,,0,1,,0,,,,,9,0,9,3,9,0,9,3,9,2,2,,1,0.00,2
+type error,Module File,18410980789b14c128dd6adfa501aea5_1.py,6,0,0,0,2,,,,,0,1,,0,,,,,12,2,6,2,6,5,5,2,5,2,2,,1,0.83,2
+type error,Module File,1db5631847085815461c617854b08ee5_1.py,9,0,0,0,3,,,,,0,1,,0,,,,,9,0,9,2,9,0,7,2,7,3,3,,1,0.00,3
+type error,Module File,1db5631847085815461c617854b08ee5_2.py,7,0,0,0,2,,,,,0,1,,0,,,,,9,2,7,2,7,0,7,2,7,2,2,,1,0.00,2
+type error,Module File,1f505e430eb930ea2b495ab531274114_1.py,6,0,6,0,3,,,,,0,5,,4,,,,,34,1,33,10,28,0,29,10,24,4,4,,3,0.00,13
+type error,Module File,1f505e430eb930ea2b495ab531274114_2.py,9,0,0,0,4,,,,,0,1,,0,,,,,9,0,9,1,9,0,7,1,7,4,4,,2,0.00,4
+type error,Module File,1f8056884db00ad8294a7cc0be75fe97_1.py,13,0,0,0,4,,,,,0,1,,0,,,,,20,6,14,5,13,0,11,5,10,4,4,,2,0.00,4
+type error,Module File,1f8056884db00ad8294a7cc0be75fe97_2.py,10,0,0,0,4,,,,,0,1,,0,,,,,13,3,10,4,10,0,8,4,8,4,4,,1,0.00,4
+type error,Module File,1f9107e8d1d8aebb1f4a1707a6cdeb6d_1.py,10,0,0,0,4,,,,,0,1,,0,,,,,16,6,10,2,10,0,7,2,7,4,4,,1,0.00,4
+type error,Module File,245ec0831cd817714a4e5c531bffd099_1.py,19,0,0,0,5,,,,,0,1,,0,,,,,23,1,22,8,19,0,19,8,16,5,5,,3,0.00,5
+type error,Module File,2468eead8acc5b8f5ddc51bfa2bd4fb7_1.py,11,0,1,0,4,,,,,0,2,,1,,,,,29,6,23,12,21,0,24,12,21,6,6,,4,0.00,7
+type error,Module File,2dd8bb6e8182278d037aa3a59ca3517b_1.py,9,1,8,0,2,,,,,0,5,,4,,,,,55,13,41,17,36,3,39,17,34,3,4,,2,0.07,12
+type error,Module File,2ed5a7a6176ed9b0bda1de21aad13d60_1.py,6,0,11,0,2,,,,,0,2,,1,,,,,13,1,12,4,11,0,12,4,11,1,3,,2,0.00,4
+type error,Module File,2ed5a7a6176ed9b0bda1de21aad13d60_2.py,11,0,0,0,3,,,,,0,1,,0,,,,,11,0,11,4,11,0,10,4,10,3,3,,2,0.00,3
+type error,Module File,33041f1832fa7f641e37c4c638ab08a1_1.py,11,0,0,0,5,,,,,0,1,,0,,,,,11,0,11,1,11,0,7,1,7,5,5,,1,0.00,5
+type error,Module File,33041f1832fa7f641e37c4c638ab08a1_2.py,11,0,0,0,5,,,,,0,1,,0,,,,,11,0,11,1,11,0,7,1,7,5,5,,1,0.00,5
+type error,Module File,339246a1be81aefe19290de0d1aead84_2.py,9,0,0,0,4,,,,,0,1,,0,,,,,9,0,9,3,9,0,9,3,9,4,4,,1,0.00,4
+type error,Module File,35202a4601a03d25e18dda1539c5beba_1.py,10,0,0,0,3,,,,,0,1,,0,,,,,11,0,11,5,10,0,11,5,10,3,3,,1,0.00,3
+type error,Module File,35202a4601a03d25e18dda1539c5beba_2.py,15,0,0,0,3,,,,,0,1,,0,,,,,18,3,15,9,15,0,15,9,15,3,3,,1,0.00,3
+type error,Module File,359ddf1f1aed9b3256836e5856fe3466_1.py,9,0,16,0,2,,,,,0,2,,1,,,,,20,2,18,8,17,0,13,8,12,2,2,,1,0.00,4
+type error,Module File,35d8a9f0d5b5ab22929ec050b55ec769_1.py,5,0,4,0,2,,,,,0,2,,1,,,,,10,1,9,5,8,0,9,5,8,1,2,,1,0.00,3
+type error,Module File,35d8a9f0d5b5ab22929ec050b55ec769_2.py,7,0,5,0,1,,,,,0,3,,2,,,,,25,4,21,8,19,0,21,8,19,1,2,,1,0.00,4
+type error,Module File,3b02cbb38d0b4ddc1a6467f7647d53a9_2.py,2,0,0,0,1,,,,,0,1,,0,,,,,3,1,2,1,2,0,2,1,2,1,1,,0,0.00,1
+type error,Module File,3b12863997b377b47bae43566ec1a63b_1.py,17,5,26,0,6,,,,,0,2,,1,,,,,36,7,29,10,27,0,27,10,25,2,10,,3,0.00,12
+type error,Module File,3b585ea852ffc41034ef6804b6aebbd8_2.py,9,0,2,0,3,,,,,0,2,,1,,,,,24,5,18,8,16,1,17,8,15,4,4,,2,0.06,5
+type error,Module File,3dc1ee09016a25421ae371fa8005fce1_1.py,6,0,9,1,2,,,,,0,2,,1,,,,,14,2,11,5,9,1,11,5,9,1,2,,1,0.09,3
+type error,Module File,3dc1ee09016a25421ae371fa8005fce1_2.py,8,0,0,0,2,,,,,0,1,,0,,,,,8,0,8,5,8,0,8,5,8,2,2,,1,0.00,2
+type error,Module File,41dfc86d341082dd96e089ac5433dc04_1.py,5,0,5,0,2,,,,,0,10,,9,,,,,74,21,52,30,36,1,51,30,35,2,3,,2,0.02,16
+type error,Module File,42454dcf7d073bf12030367eb094eb8c_1.py,7,0,0,0,3,,,,,0,1,,0,,,,,7,0,7,3,7,0,7,3,7,3,3,,1,0.00,3
+type error,Module File,489e69c7a2fba5fac34e89d7388ed4b8_2.py,8,0,5,0,2,,,,,0,2,,1,,,,,23,5,18,10,14,0,18,10,14,3,3,,2,0.00,4
+type error,Module File,491748694c1a53771be69c212a5e0e25_1.py,8,0,8,0,3,,,,,0,3,,2,,,,,34,7,27,13,23,0,27,13,23,2,4,,2,0.00,8
+type error,Module File,4c4852df62fccb0a19ad8bc41145de61_1.py,15,0,0,0,6,,,,,0,1,,0,,,,,29,9,15,7,15,5,15,7,15,6,6,,3,0.33,6
+type error,Module File,4c4852df62fccb0a19ad8bc41145de61_2.py,28,0,0,0,14,,,,,0,1,,0,,,,,40,12,28,6,28,0,40,6,40,14,14,,2,0.00,14
+type error,Module File,51b1c216948663fff721c28d131bf18f_1.py,8,0,7,0,1,,,,,0,2,,1,,,,,18,1,15,10,14,2,15,10,14,1,1,,0,0.13,2
+type error,Module File,51b1c216948663fff721c28d131bf18f_2.py,6,0,0,0,1,,,,,0,1,,0,,,,,10,4,6,3,6,0,6,3,6,1,1,,0,0.00,1
+type error,Module File,5271c707c9c72ef021a0baf762bf3eb2_1.py,12,0,6,1,4,,,,,0,3,,2,,,,,39,2,34,6,32,3,29,6,27,7,7,,4,0.09,12
+type error,Module File,5271c707c9c72ef021a0baf762bf3eb2_2.py,8,0,0,0,4,,,,,0,1,,0,,,,,11,3,8,3,8,0,8,3,8,4,4,,1,0.00,4
+type error,Module File,56da4ec7cd849c4330d188d8c9bd6094_1.py,20,0,0,0,6,,,,,0,1,,0,,,,,25,2,21,10,20,2,21,10,20,6,6,,3,0.10,6
+type error,Module File,AREA_CIRCUMSCRIBED_CIRCLE_SQUARE.py,2,0,2,0,1,,,,,0,1,,1,,,,,2,0,2,1,1,0,2,1,1,0,1,,0,0.00,1
+type error,Module File,AREA_SQUARE_CIRCUMSCRIBED_CIRCLE.py,2,0,2,0,1,,,,,0,1,,1,,,,,2,0,2,1,1,0,2,1,1,0,1,,0,0.00,1
+type error,Module File,BASIC_AND_EXTENDED_EUCLIDEAN_ALGORITHMS_1.py,11,0,11,0,2,,,,,0,1,,1,,,,,11,0,11,4,10,0,11,4,10,0,2,,1,0.00,2
+type error,Module File,BREAK_NUMBER_THREE_PARTS.py,8,0,8,0,5,,,,,0,1,,1,,,,,8,0,8,5,7,0,8,5,7,0,5,,4,0.00,5
+type error,Module File,CHECK_EXIST_TWO_ELEMENTS_ARRAY_WHOSE_SUM_EQUAL_SUM_REST_ARRAY.py,14,0,14,0,6,,,,,0,1,,1,,,,,14,0,14,4,13,0,14,4,13,0,6,,2,0.00,6
+type error,Module File,CHECK_LARGE_NUMBER_DIVISIBLE_3_NOT.py,7,0,7,0,2,,,,,0,1,,1,,,,,7,0,7,3,6,0,7,3,6,0,2,,1,0.00,2
+type error,Module File,CHECK_LARGE_NUMBER_DIVISIBLE_4_NOT.py,9,0,9,0,3,,,,,0,1,,1,,,,,9,0,9,4,8,0,9,4,8,0,3,,1,0.00,3
+type error,Module File,CHECK_LARGE_NUMBER_DIVISIBLE_9_NOT.py,6,0,6,0,2,,,,,0,1,,1,,,,,6,0,6,4,5,0,6,4,5,0,2,,1,0.00,2
+type error,Module File,COMPUTE_AVERAGE_TWO_NUMBERS_WITHOUT_OVERFLOW_1.py,2,0,2,0,1,,,,,0,1,,1,,,,,2,0,2,1,1,0,2,1,1,0,1,,0,0.00,1
+type error,Module File,COUNT_ROTATIONS_DIVISIBLE_8.py,28,0,28,0,10,,,,,0,1,,1,,,,,28,0,28,8,27,0,28,8,27,0,10,,2,0.00,10
+type error,Module File,COUNT_SINGLE_NODE_ISOLATED_SUB_GRAPHS_DISCONNECTED_GRAPH.py,6,0,6,0,3,,,,,0,1,,1,,,,,6,0,6,3,5,0,6,3,5,0,3,,2,0.00,3
+type error,Module File,COUNT_STRINGS_ADJACENT_CHARACTERS_DIFFERENCE_ONE.py,14,0,14,0,6,,,,,0,1,,1,,,,,14,0,14,2,13,0,13,2,12,0,6,,3,0.00,6
+type error,Module File,COUNT_WAYS_BUILD_STREET_GIVEN_CONSTRAINTS.py,8,0,8,0,2,,,,,0,1,,1,,,,,8,0,8,2,7,0,8,2,7,0,2,,1,0.00,2
+type error,Module File,DOUBLE_FACTORIAL.py,4,0,4,0,2,,,,,0,1,,1,,,,,4,0,4,1,3,0,4,1,3,0,2,,1,0.00,2
+type error,Module File,FINDING_POWER_PRIME_NUMBER_P_N.py,7,0,7,0,2,,,,,0,1,,1,,,,,7,0,7,3,6,0,7,3,6,0,2,,1,0.00,2
+type error,Module File,FIND_HARMONIC_MEAN_USING_ARITHMETIC_MEAN_GEOMETRIC_MEAN.py,5,0,5,0,1,,,,,0,1,,1,,,,,5,0,5,4,4,0,5,4,4,0,1,,0,0.00,1
+type error,Module File,FIND_MEDIAN_ROW_WISE_SORTED_MATRIX.py,21,0,21,0,7,,,,,0,1,,1,,,,,21,0,21,8,20,0,20,8,19,0,7,,2,0.00,7
+type error,Module File,FIND_SUBARRAY_WITH_GIVEN_SUM.py,15,0,15,0,5,,,,,0,1,,1,,,,,15,0,15,4,14,0,15,4,14,0,5,,3,0.00,5
+type error,Module File,FIND_SUBARRAY_WITH_GIVEN_SUM_1.py,17,0,17,0,5,,,,,0,1,,1,,,,,17,0,17,4,16,0,17,4,16,0,5,,2,0.00,5
+type error,Module File,FIND_SUM_NODES_GIVEN_PERFECT_BINARY_TREE_1.py,6,0,6,0,1,,,,,0,1,,1,,,,,6,0,6,3,5,0,6,3,5,0,1,,0,0.00,1
+type error,Module File,FIND_VALUE_OF_Y_MOD_2_RAISED_TO_POWER_X.py,2,0,2,0,1,,,,,0,1,,1,,,,,2,0,2,1,1,0,2,1,1,0,1,,0,0.00,1
+type error,Module File,FIND_WHETHER_A_GIVEN_NUMBER_IS_A_POWER_OF_4_OR_NOT.py,8,0,8,0,4,,,,,0,1,,1,,,,,8,0,8,1,7,0,8,1,7,0,4,,2,0.00,4
+type error,Module File,FIND_WHETHER_A_GIVEN_NUMBER_IS_A_POWER_OF_4_OR_NOT_1.py,10,0,10,0,4,,,,,0,1,,1,,,,,10,0,10,2,9,0,9,2,8,0,4,,2,0.00,4
+type error,Module File,FORM_MINIMUM_NUMBER_FROM_GIVEN_SEQUENCE_1.py,14,0,14,0,6,,,,,0,1,,1,,,,,14,0,14,6,13,0,14,6,13,0,6,,4,0.00,6
+type error,Module File,HOW_TO_AVOID_OVERFLOW_IN_MODULAR_MULTIPLICATION.py,9,0,9,0,3,,,,,0,1,,1,,,,,9,0,9,2,8,0,9,2,8,0,3,,2,0.00,3
+type error,Module File,INTEGER_POSITIVE_VALUE_POSITIVE_NEGATIVE_VALUE_ARRAY_1.py,11,0,11,0,3,,,,,0,1,,1,,,,,11,0,11,4,10,0,10,4,9,0,3,,2,0.00,3
+type error,Module File,LARGEST_SUBARRAY_WITH_EQUAL_NUMBER_OF_0S_AND_1S_1.py,28,0,28,0,8,,,,,0,1,,1,,,,,28,0,28,6,27,0,25,6,24,0,8,,2,0.00,8
+type error,Module File,LONGEST_EVEN_LENGTH_SUBSTRING_SUM_FIRST_SECOND_HALF_1.py,14,0,14,0,5,,,,,0,1,,1,,,,,14,0,14,8,13,0,14,8,13,0,5,,3,0.00,5
+type error,Module File,MAXIMUM_AREA_RECTANGLE_PICKING_FOUR_SIDES_ARRAY.py,12,0,12,0,3,,,,,0,1,,1,,,,,12,0,12,4,11,0,12,4,11,0,3,,2,0.00,3
+type error,Module File,MAXIMUM_DIFFERENCE_BETWEEN_FREQUENCY_OF_TWO_ELEMENTS_SUCH_THAT_ELEMENT_HAVING_GREATER_FREQUENCY_IS_ALSO_GREATER.py,12,0,12,0,6,,,,,0,1,,1,,,,,12,0,12,5,11,0,11,5,10,0,6,,3,0.00,6
+type error,Module File,MAXIMUM_HEIGHT_OF_TRIANGULAR_ARRANGEMENT_OF_ARRAY_VALUES_1.py,2,0,2,0,1,,,,,0,1,,1,,,,,2,0,2,1,1,0,2,1,1,0,1,,0,0.00,1
+type error,Module File,MEDIAN_OF_TWO_SORTED_ARRAYS.py,25,0,25,0,5,,,,,0,1,,1,,,,,25,0,25,6,24,0,23,6,22,0,5,,2,0.00,5
+type error,Module File,MINIMUM_COST_CONNECT_WEIGHTED_NODES_REPRESENTED_ARRAY.py,7,0,7,0,2,,,,,0,1,,1,,,,,7,0,7,3,6,0,7,3,6,0,2,,1,0.00,2
+type error,Module File,MINIMUM_PERIMETER_N_BLOCKS.py,11,0,11,0,3,,,,,0,1,,1,,,,,11,0,11,5,10,0,10,5,9,0,3,,2,0.00,3
+type error,Module File,MINIMUM_PRODUCT_K_INTEGERS_ARRAY_POSITIVE_INTEGERS.py,9,0,9,0,2,,,,,0,1,,1,,,,,9,0,9,4,8,0,9,4,8,0,2,,1,0.00,2
+type error,Module File,MODULUS_TWO_FLOAT_DOUBLE_NUMBERS.py,11,0,11,0,5,,,,,0,1,,1,,,,,11,0,11,2,10,0,11,2,10,0,5,,1,0.00,5
+type error,Module File,MULTIPLY_LARGE_INTEGERS_UNDER_LARGE_MODULO.py,9,0,9,0,3,,,,,0,1,,1,,,,,9,0,9,2,8,0,9,2,8,0,3,,2,0.00,3
+type error,Module File,NTH_MULTIPLE_NUMBER_FIBONACCI_SERIES.py,12,0,12,0,3,,,,,0,1,,1,,,,,12,0,12,5,11,0,12,5,11,0,3,,2,0.00,3
+type error,Module File,NUMBER_DIGITS_REMOVED_MAKE_NUMBER_DIVISIBLE_3.py,15,0,15,0,7,,,,,0,1,,1,,,,,15,0,15,3,14,0,15,3,14,0,7,,2,0.00,7
+type error,Module File,PRINT_A_CLOSEST_STRING_THAT_DOES_NOT_CONTAIN_ADJACENT_DUPLICATES.py,9,0,9,0,4,,,,,0,1,,1,,,,,9,0,9,3,8,0,9,3,8,0,4,,3,0.00,4
+type error,Module File,PROGRAM_FIND_SLOPE_LINE.py,2,0,2,0,1,,,,,0,1,,1,,,,,2,0,2,1,1,0,2,1,1,0,1,,0,0.00,1
+type error,Module File,PROGRAM_TO_FIND_THE_VOLUME_OF_A_TRIANGULAR_PRISM.py,2,0,2,0,1,,,,,0,1,,1,,,,,2,0,2,1,1,0,2,1,1,0,1,,0,0.00,1
+type error,Module File,SPACE_OPTIMIZED_SOLUTION_LCS.py,15,0,15,0,5,,,,,0,1,,1,,,,,15,0,15,5,14,0,13,5,12,0,5,,3,0.00,5
+type error,Module File,SQUARE_ROOT_OF_A_PERFECT_SQUARE_1.py,7,0,7,0,2,,,,,0,1,,1,,,,,7,0,7,3,6,0,7,3,6,0,2,,1,0.00,2
+type error,Module File,SUM_NODES_K_TH_LEVEL_TREE_REPRESENTED_STRING.py,13,0,13,0,5,,,,,0,1,,1,,,,,13,0,13,4,12,0,11,4,10,0,5,,3,0.00,5
+type error,Module File,SUM_OF_ALL_SUBSTRINGS_OF_A_STRING_REPRESENTING_A_NUMBER.py,10,0,10,0,2,,,,,0,1,,1,,,,,10,0,10,6,9,0,10,6,9,0,2,,1,0.00,2
+type error,Module File,SUM_SERIES_23_45_67_89_UPTO_N_TERMS.py,15,0,15,0,3,,,,,0,1,,1,,,,,15,0,15,4,14,0,14,4,13,0,3,,2,0.00,3
+type error,Module File,atcoder_ABC089_C.py,3,0,1,0,2,,,,,0,6,,5,,,,,32,1,31,26,19,0,36,26,19,4,4,,2,0.00,9
+type error,Module File,atcoder_ABC106_C.py,3,0,2,0,1,,,,,0,10,,9,,,,,28,1,27,19,25,0,35,19,25,1,4,,2,0.00,13
+type error,Module File,atcoder_ABC114_C.py,5,0,7,0,3,,,,,0,2,,1,,,,,10,1,9,4,8,0,9,4,8,1,4,,1,0.00,5
+type error,Module File,atcoder_ABC123_C.py,3,0,0,0,1,,,,,0,1,,0,,,,,12,1,11,10,3,0,11,10,3,1,1,,0,0.00,1
+type error,Module File,atcoder_ABC147_D.py,7,0,0,0,2,,,,,0,1,,0,,,,,9,1,8,6,7,0,8,6,7,2,2,,1,0.00,2
+type error,Module File,atcoder_ABC149_B.py,4,0,0,0,2,,,,,0,1,,0,,,,,5,1,4,3,4,0,4,3,4,2,2,,0,0.00,2
+type error,Module File,atcoder_ABC150_C.py,7,0,0,0,1,,,,,0,1,,0,,,,,9,1,8,7,7,0,8,7,7,1,1,,0,0.00,1
+type error,Module File,atcoder_ABC150_E.py,11,0,0,0,2,,,,,0,1,,0,,,,,12,1,11,7,11,0,11,7,11,2,2,,1,0.00,2
+type error,Module File,atcoder_ABC155_D.py,37,0,0,0,10,,,,,0,1,,0,,,,,38,1,37,10,37,0,33,10,33,10,10,,5,0.00,10
+type error,Module File,atcoder_ABC158_B.py,3,0,3,0,1,,,,,0,5,,4,,,,,16,1,15,10,13,0,18,10,13,1,1,,0,0.00,5
+type error,Module File,atcoder_ABC162_D.py,8,0,12,0,3,,,,,0,2,,1,,,,,17,1,16,10,14,0,16,10,14,1,4,,3,0.00,5
+type error,Module File,atcoder_ABC167_D.py,30,0,0,0,5,,,,,0,1,,0,,,,,32,1,31,13,30,0,29,13,28,5,5,,2,0.00,5
+type error,Module File,atcoder_ABC169_C.py,9,0,17,0,2,,,,,0,2,,1,,,,,19,1,18,14,12,0,18,14,12,1,2,,0,0.00,3
+type error,Module File,atcoder_ABC169_D.py,7,0,5,0,3,,,,,0,8,,7,,,,,58,1,57,24,46,0,54,23,43,5,6,,3,0.00,20
+type error,Module File,atcoder_ABC172_D.py,2,0,1,0,1,,,,,0,5,,4,,,,,11,1,10,8,9,0,14,8,9,2,2,,1,0.00,6
+type error,Module File,atcoder_AGC003_C.py,9,0,0,0,3,,,,,0,1,,0,,,,,10,1,9,4,9,0,9,4,9,3,3,,2,0.00,3
+type error,Module File,atcoder_AGC004_B.py,9,0,16,0,3,,,,,0,2,,1,,,,,18,1,17,8,16,0,17,8,16,1,5,,3,0.00,6
+type error,Module File,atcoder_AGC004_D.py,12,0,14,0,4,,,,,0,2,,1,,,,,26,1,25,10,23,0,25,10,23,3,4,,2,0.00,7
+type error,Module File,atcoder_AGC010_B.py,10,0,0,0,3,,,,,0,1,,0,,,,,11,1,10,2,10,0,8,2,8,3,3,,2,0.00,3
+type error,Module File,atcoder_AGC011_C.py,15,0,12,0,5,,,,,0,2,,1,,,,,31,1,30,9,28,0,28,9,26,6,6,,4,0.00,10
+type error,Module File,atcoder_AGC017_A.py,13,0,7,0,4,,,,,0,2,,1,,,,,26,1,25,15,24,0,25,15,24,5,5,,2,0.00,8
+type error,Module File,atcoder_AGC027_B.py,7,0,0,0,2,,,,,0,1,,0,,,,,9,1,8,6,7,0,8,6,7,2,2,,1,0.00,2
+type error,Module File,atcoder_AGC028_A.py,16,0,4,0,4,,,,,0,2,,1,,,,,33,1,32,14,31,0,30,14,29,6,6,,2,0.00,8
+type error,Module File,atcoder_AGC033_A.py,12,0,0,0,6,,,,,0,1,,0,,,,,14,1,13,5,12,1,13,5,12,6,6,,1,0.08,6
+type error,Module File,atcoder_AGC034_B.py,13,0,19,0,4,,,,,0,3,,2,,,,,42,1,41,10,38,0,38,10,35,2,9,,4,0.00,13
+type error,Module File,atcoder_AGC037_E.py,15,0,10,0,5,,,,,0,3,,2,,,,,45,1,44,12,42,0,39,12,37,8,8,,3,0.00,16
+type error,Module File,atcoder_AGC046_B.py,8,0,0,0,3,,,,,0,1,,0,,,,,9,1,8,5,8,0,8,5,8,3,3,,2,0.00,3
+type error,Module File,codeforces_146_A.py,19,0,0,0,6,,,,,0,1,,0,,,,,20,1,19,6,19,0,17,6,17,6,6,,2,0.00,6
+type error,Module File,codeforces_171_A.py,18,0,0,0,4,,,,,0,1,,0,,,,,20,1,19,7,18,0,18,7,17,4,4,,2,0.00,4
+type error,Module File,codeforces_30_A.py,4,0,5,0,2,,,,,0,2,,1,,,,,8,1,7,2,6,0,7,2,6,1,3,,2,0.00,4
+type error,Module File,codeforces_351_A.py,10,0,0,0,3,,,,,0,1,,0,,,,,11,1,10,6,10,0,10,6,10,3,3,,2,0.00,3
+type error,Module File,codeforces_373_B.py,12,0,13,0,3,,,,,0,2,,1,,,,,25,1,24,10,23,0,23,10,22,3,3,,2,0.00,6
+type error,Module File,codeforces_469_A.py,16,0,0,0,4,,,,,0,1,,0,,,,,17,1,16,4,16,0,14,4,14,4,4,,1,0.00,4
+type error,Module File,codeforces_514_A.py,15,0,0,0,5,,,,,0,1,,0,,,,,16,1,15,4,15,0,13,4,13,5,5,,3,0.00,5
+type error,Module File,codeforces_598_A.py,6,0,7,0,2,,,,,0,2,,1,,,,,12,1,11,6,10,0,11,6,10,2,2,,1,0.00,4
+type error,Module File,codeforces_621_A.py,19,0,0,0,6,,,,,0,1,,0,,,,,20,1,19,5,19,0,18,5,18,6,6,,3,0.00,6
+type error,Module File,codeforces_622_A.py,13,0,0,0,3,,,,,0,1,,0,,,,,15,1,14,6,13,0,13,6,12,3,3,,2,0.00,3
+type error,Module File,codeforces_624_B.py,10,0,0,0,2,,,,,0,1,,0,,,,,12,1,11,6,10,0,11,6,10,2,2,,1,0.00,2
+type error,Module File,codeforces_99_A.py,14,0,0,0,3,,,,,0,1,,0,,,,,15,1,14,4,14,0,12,4,12,3,3,,1,0.00,3
+type error,Module File,s043545989.py,12,0,0,0,4,,,,,0,1,,0,,,,,14,1,13,6,12,0,11,6,10,4,4,,1,0.00,4
+type error,Module File,s137613418.py,5,0,5,0,2,,,,,0,17,,16,,,,,90,3,87,38,66,0,87,38,66,2,6,,3,0.00,35
+type error,Module File,s592421258.py,1,0,0,0,1,,,,,0,1,,0,,,,,1,0,1,1,1,0,3,2,3,1,1,,0,0.00,1
+type error,Module File,s681105182.py,3,1,3,0,1,,,,,0,8,,7,,,,,31,7,24,17,22,0,30,17,22,1,3,,2,0.00,10
+type error,Module File,s790754864.py,6,0,2,0,2,,,,,0,2,,1,,,,,16,4,12,7,10,0,11,7,9,3,3,,2,0.00,4
+type error,Module File,s804484425.py,31,0,0,0,6,,,,,0,1,,0,,,,,42,10,32,13,31,0,31,13,30,6,6,,2,0.00,6
+non type error,Module File,01eccb722b09a0474903b7e5abc4c47a_1.py,6,0,5,0,2,,,,,2,13,,12,,,,,115,23,89,49,72,3,93,49,71,5,7,,3,0.03,28
+non type error,Module File,01eccb722b09a0474903b7e5abc4c47a_2.py,7,0,0,0,2,,,,,0,1,,0,,,,,39,6,7,4,7,26,7,4,7,2,2,,1,3.71,2
+non type error,Module File,02f5fe43ea60939dd4a53299b5fa0881_1.py,1,0,0,0,2,,,,,0,1,,0,,,,,1,0,1,1,1,0,5,4,5,2,2,,1,0.00,2
+non type error,Module File,042cf938dc4a0f46ff33d47b97dc6ad4_1.py,13,0,0,0,7,,,,,0,1,,0,,,,,17,3,13,5,13,1,14,5,14,7,7,,5,0.08,7
+non type error,Module File,042cf938dc4a0f46ff33d47b97dc6ad4_2.py,6,0,0,0,2,,,,,0,1,,0,,,,,14,1,6,3,6,7,6,3,6,2,2,,1,1.17,2
+non type error,Module File,05c90c1d75d76a522241af6bb6af7781_1.py,7,0,6,0,2,,,,,0,3,,2,,,,,24,3,20,9,18,1,18,9,16,2,2,,1,0.05,6
+non type error,Module File,05c90c1d75d76a522241af6bb6af7781_2.py,17,0,0,0,7,,,,,0,1,,0,,,,,22,5,17,3,17,0,11,3,11,7,7,,1,0.00,7
+non type error,Module File,05ec6ec3e9ffcc0e856dc0d461e6eeab_1.py,3,0,0,0,2,,,,,0,1,,0,,,,,3,0,3,1,3,0,4,1,4,2,2,,1,0.00,2
+non type error,Module File,05ec6ec3e9ffcc0e856dc0d461e6eeab_2.py,4,0,4,0,2,,,,,0,15,,14,,,,,73,5,68,35,59,0,79,35,61,2,7,,3,0.00,33
+non type error,Module File,0718c6afe52cd232a5e942052527f31b_2.py,20,0,0,0,4,,,,,0,1,,0,,,,,23,0,20,7,20,3,18,7,18,4,4,,2,0.15,4
+non type error,Module File,075f83248f6d4d012e0ca1547fc67993_1.py,246,0,0,0,35,,,,,0,1,,0,,,,,248,2,246,1,246,102,212,1,212,35,35,,1,0.41,35
+non type error,Module File,08e8c0c37b223f6aae01d5609facdeaf_2.py,8,0,0,0,2,,,,,0,1,,0,,,,,8,0,8,5,8,0,8,5,8,2,2,,1,0.00,2
+non type error,Module File,08f1ba79ced688958695a7cfcfdda035_1.py,22,0,0,0,8,,,,,0,1,,0,,,,,25,2,22,3,22,1,20,3,20,8,8,,2,0.05,8
+non type error,Module File,08f85cd4ffbd135f0b630235209273a4_1.py,10,0,0,0,3,,,,,0,1,,0,,,,,14,3,11,8,10,0,11,8,10,3,3,,1,0.00,3
+non type error,Module File,0930c75f57dd88a858ba7bb0f11f1b1c_1.py,7,0,6,0,2,,,,,0,3,,2,,,,,25,5,20,10,18,0,20,10,18,2,3,,2,0.00,7
+non type error,Module File,0c42eafb73d1e30f168958a06a0f9bca_1.py,21,2,4,2,4,,,,,0,2,,1,,,,,55,9,37,6,36,9,33,6,32,6,6,,5,0.24,7
+non type error,Module File,0c42eafb73d1e30f168958a06a0f9bca_2.py,16,0,0,0,4,,,,,0,1,,0,,,,,23,6,16,10,16,1,16,10,16,4,4,,2,0.06,4
+non type error,Module File,0ddc839e17dee20e1a954c1289de7fbd_2.py,8,0,0,0,6,,,,,0,1,,0,,,,,8,0,8,2,8,0,7,2,7,6,6,,3,0.00,6
+non type error,Module File,0efe9afd8e6be9e00f7949be93f0ca1a_1.py,11,5,14,0,3,,,,,0,2,,1,,,,,31,11,20,10,16,0,20,10,16,2,3,,1,0.00,5
+non type error,Module File,0efe9afd8e6be9e00f7949be93f0ca1a_2.py,7,0,0,0,2,,,,,0,1,,0,,,,,7,0,7,4,7,0,7,4,7,2,2,,1,0.00,2
+non type error,Module File,0fd33e1bdfd6c91feb3bf00a2461603f_1.py,9,0,9,0,4,,,,,0,2,,1,,,,,19,1,18,8,17,0,18,8,17,4,4,,3,0.00,8
+non type error,Module File,0fd33e1bdfd6c91feb3bf00a2461603f_2.py,9,0,13,0,3,,,,,0,3,,2,,,,,18,0,18,10,16,0,20,10,18,1,4,,3,0.00,9
+non type error,Module File,0fdd91ed33431848614075ebe9d2ee68_2.py,16,11,12,0,2,,,,,0,3,,2,,,,,48,26,22,12,20,0,22,12,20,1,3,,2,0.00,6
+non type error,Module File,1193de6f80a9feee8522a404d16425b9_1.py,3,0,0,0,1,,,,,0,1,,0,,,,,3,0,3,2,3,0,3,2,3,1,1,,0,0.00,1
+non type error,Module File,12d451eb1b401a8f426287c4c6909e4b_1.py,21,0,0,0,8,,,,,0,1,,0,,,,,21,0,21,7,21,0,19,7,19,8,8,,5,0.00,8
+non type error,Module File,1503d761dd4e129fb7c423da390544ff_1.py,11,0,8,1,3,,,,,0,2,,1,,,,,27,5,22,12,21,1,22,12,21,3,3,,2,0.05,5
+non type error,Module File,16bc089f5ef6b68bebe8eda6ead2eab9_1.py,8,0,0,0,2,,,,,0,1,,0,,,,,8,0,8,3,8,0,7,3,7,2,2,,1,0.00,2
+non type error,Module File,16bc089f5ef6b68bebe8eda6ead2eab9_2.py,9,0,0,0,3,,,,,0,1,,0,,,,,10,0,10,6,9,0,9,6,8,3,3,,1,0.00,3
+non type error,Module File,1b0b2ee44c63cb0634cb63f2ad65cdd3_1.py,9,0,8,0,3,,,,,0,3,,2,,,,,35,0,31,13,24,4,28,13,21,4,4,,2,0.13,10
+non type error,Module File,1bd29d7a8793c22e81a1f6fd3991307a_2.py,6,0,5,0,2,,,,,2,11,,10,,,,,96,9,81,48,55,6,80,48,53,2,4,,2,0.07,20
+non type error,Module File,1cad9e4797ca2d80a12276b5a790ef27_1.py,3,0,0,0,1,,,,,0,1,,0,,,,,3,0,3,2,3,0,3,2,3,1,1,,0,0.00,1
+non type error,Module File,1d2b81ce842f8c97656d96bddff4e8b4_2.py,12,0,0,0,1,,,,,0,1,,0,,,,,13,1,12,11,12,0,12,11,12,1,1,,0,0.00,1
+non type error,Module File,1db4ba9dc1000e26532bb73336cf12c3_1.py,19,0,0,0,3,,,,,0,1,,0,,,,,37,4,24,4,19,11,18,4,18,3,3,,2,0.46,3
+non type error,Module File,1f9107e8d1d8aebb1f4a1707a6cdeb6d_2.py,11,0,7,0,4,,,,,1,4,,3,,,,,65,15,45,20,39,6,45,20,39,6,6,,2,0.13,14
+non type error,Module File,20aa53bffdfd47b4e853091ee6b11a4b_1.py,30,0,0,0,18,,,,,0,1,,0,,,,,37,6,31,7,30,0,30,7,29,18,18,,4,0.00,18
+non type error,Module File,20aa53bffdfd47b4e853091ee6b11a4b_2.py,47,0,0,0,14,,,,,0,1,,0,,,,,47,0,47,8,47,0,44,8,44,14,14,,4,0.00,14
+non type error,Module File,20c2d9da12d6b88f300977d74287a15d_1.py,4,0,4,0,2,,,,,1,12,,11,,,,,63,9,53,29,38,2,52,28,37,5,5,,5,0.04,21
+non type error,Module File,20c2d9da12d6b88f300977d74287a15d_2.py,52,0,0,0,17,,,,,0,1,,0,,,,,63,11,52,7,52,0,40,7,40,17,17,,3,0.00,17
+non type error,Module File,212cda3d9d611cd45332bb10b80f0b56_1.py,7,0,7,0,2,,,,,3,29,,28,,,,,236,24,209,86,166,4,199,84,158,5,7,,3,0.02,71
+non type error,Module File,21f579ba807face432a7664091581cd8_2.py,11,0,0,0,3,,,,,0,1,,0,,,,,12,1,11,4,11,0,9,4,9,3,3,,2,0.00,3
+non type error,Module File,24e2f10463f440affccc2755f4462d8a_1.py,10,0,9,1,3,,,,,0,4,,3,,,,,48,0,42,20,35,6,39,20,32,1,5,,2,0.14,10
+non type error,Module File,2896aadda9e7a317d33315f91d1ca64d_1.py,8,0,2,0,4,,,,,0,2,,1,,,,,21,6,15,7,14,0,17,7,16,6,6,,2,0.00,7
+non type error,Module File,28d6fc8973a3e0076a21c2ea490dfdba_1.py,17,0,0,0,4,,,,,0,1,,0,,,,,23,5,18,10,17,0,18,10,17,4,4,,1,0.00,4
+non type error,Module File,2a68157e327f92415067f127feb31e24_1.py,55,0,0,0,15,,,,,0,1,,0,,,,,58,1,55,5,55,2,49,5,49,15,15,,9,0.04,15
+non type error,Module File,2a75f68a7374b90b80bb362c6ead9a35_1.py,10,0,0,0,5,,,,,0,1,,0,,,,,12,1,11,6,10,0,11,6,10,5,5,,4,0.00,5
+non type error,Module File,2acf686862a34c337d1d2cbc0ac3fd11_2.py,4,0,6,0,2,,,,,0,2,,1,,,,,9,1,8,4,6,0,8,4,6,1,3,,2,0.00,4
+non type error,Module File,2bc18799c85ecaba87564a86a94e0322_2.py,9,0,0,0,6,,,,,0,1,,0,,,,,23,13,9,5,9,1,12,5,12,6,6,,3,0.11,6
+non type error,Module File,2d46e34839261eda822f0c23c6e19121_2.py,5,1,5,0,1,,,,,1,7,,6,,,,,50,11,37,19,26,2,36,19,25,1,2,,1,0.05,10
+non type error,Module File,2dd8bb6e8182278d037aa3a59ca3517b_2.py,14,0,0,0,6,,,,,0,1,,0,,,,,15,1,14,8,14,0,16,8,16,6,6,,3,0.00,6
+non type error,Module File,2e7a9f3a97938e4a7e036520d812b97a_1.py,4,0,0,0,2,,,,,0,1,,0,,,,,78,63,7,6,4,8,7,6,4,2,2,,1,1.14,2
+non type error,Module File,2fb2a129e01efc03cfc3ad91dac88382_2.py,12,0,21,0,4,,,,,0,2,,1,,,,,26,1,24,11,23,1,28,11,27,1,7,,2,0.04,8
+non type error,Module File,2ff85140e3f19c90e587ce459d64338b_1.py,16,0,0,0,7,,,,,0,1,,0,,,,,16,0,16,3,16,0,11,3,11,7,7,,1,0.00,7
+non type error,Module File,2ff85140e3f19c90e587ce459d64338b_2.py,24,0,0,0,8,,,,,0,1,,0,,,,,25,1,24,5,24,0,17,5,17,8,8,,3,0.00,8
+non type error,Module File,30725e340dc07f552f0cce359af226a4_1.py,7,0,0,0,3,,,,,0,1,,0,,,,,7,0,7,2,7,0,7,2,7,3,3,,1,0.00,3
+non type error,Module File,32c866d3d394e269724b4930df5e4407_1.py,25,0,0,0,6,,,,,0,1,,0,,,,,43,12,26,8,25,5,22,8,21,6,6,,2,0.19,6
+non type error,Module File,359ddf1f1aed9b3256836e5856fe3466_2.py,18,0,0,0,5,,,,,0,1,,0,,,,,23,2,19,5,18,2,18,5,17,5,5,,2,0.11,5
+non type error,Module File,36fe960550e59b046202b5811343590d_1.py,45,0,0,0,20,,,,,0,1,,0,,,,,51,6,45,8,45,0,36,8,36,20,20,,3,0.00,20
+non type error,Module File,36fe960550e59b046202b5811343590d_2.py,10,0,10,0,4,,,,,0,9,,8,,,,,112,10,87,24,77,15,85,24,75,3,8,,3,0.17,35
+non type error,Module File,3a0c1b6d710fd8f0b6daf420255d76ee_1.py,13,0,0,0,4,,,,,0,1,,0,,,,,13,0,13,6,13,0,12,6,12,4,4,,3,0.00,4
+non type error,Module File,3a0c1b6d710fd8f0b6daf420255d76ee_2.py,9,0,0,0,2,,,,,0,1,,0,,,,,9,0,9,5,9,0,8,5,8,2,2,,1,0.00,2
+non type error,Module File,3ad3b8b700f6f34b3a53fdb63af351a5_1.py,4,0,0,0,2,,,,,0,1,,0,,,,,4,0,4,1,4,0,4,1,4,2,2,,1,0.00,2
+non type error,Module File,3b12863997b377b47bae43566ec1a63b_2.py,3,0,0,0,1,,,,,0,1,,0,,,,,3,0,3,1,3,0,3,1,3,1,1,,0,0.00,1
+non type error,Module File,3b585ea852ffc41034ef6804b6aebbd8_1.py,14,0,0,0,4,,,,,0,1,,0,,,,,17,0,15,6,14,2,14,6,13,4,4,,2,0.13,4
+non type error,Module File,3baf9d841ff7208c66f6de1b47b0f952_2.py,10,0,0,0,4,,,,,0,1,,0,,,,,11,1,10,1,10,0,7,1,7,4,4,,2,0.00,4
+non type error,Module File,410296a01b97a0a39b6683569c84d56c_2.py,17,0,0,0,6,,,,,0,1,,0,,,,,17,0,17,6,17,0,16,6,16,6,6,,3,0.00,6
+non type error,Module File,42b25b7335ec01794fbb1d4086aa9dd0_2.py,9,0,0,0,2,,,,,0,1,,0,,,,,9,0,9,5,9,0,9,5,9,2,2,,1,0.00,2
+non type error,Module File,42f25d492bddc12d3d89d39315d63cb9_1.py,16,0,0,0,3,,,,,0,1,,0,,,,,18,2,16,8,16,0,16,8,16,3,3,,2,0.00,3
+non type error,Module File,43308fa25e8578fd9f25328e715d4dd6_1.py,24,0,0,0,7,,,,,0,1,,0,,,,,24,0,24,6,24,0,18,6,18,7,7,,2,0.00,7
+non type error,Module File,44d608de3e1447f89070e707ba550150_2.py,8,0,0,0,3,,,,,0,1,,0,,,,,9,1,8,1,8,0,8,1,8,3,3,,1,0.00,3
+non type error,Module File,47c07e46517dbc937e2e779ec0d74eb3_2.py,3,0,0,0,1,,,,,0,1,,0,,,,,3,0,3,1,3,0,3,1,3,1,1,,0,0.00,1
+non type error,Module File,47da1dd95cd015acb8c7fd6ae5ec22a3_2.py,11,0,0,0,3,,,,,0,1,,0,,,,,11,0,11,6,11,0,11,6,11,3,3,,2,0.00,3
+non type error,Module File,4840d571d4ce6e1096bb678b6c100ae5_2.py,13,0,0,0,4,,,,,0,1,,0,,,,,13,0,13,4,13,0,11,4,11,4,4,,1,0.00,4
+non type error,Module File,491748694c1a53771be69c212a5e0e25_2.py,14,2,12,0,4,,,,,0,2,,1,,,,,49,4,29,14,24,16,29,14,24,3,5,,2,0.55,8
+non type error,Module File,4a3767011ddac874efa021fff7c94432_1.py,33,0,11,0,9,,,,,0,2,,1,,,,,79,5,67,13,65,7,61,13,59,14,14,,4,0.10,17
+non type error,Module File,4b0a8798a6d53351226d4f06e3356b1e_1.py,18,0,0,0,3,,,,,0,1,,0,,,,,18,0,18,5,18,0,16,5,16,3,3,,2,0.00,3
+non type error,Module File,4b7ff467ed5907e32fd529fb39b708db_1.py,6,0,9,0,2,,,,,0,2,,1,,,,,11,0,11,4,10,0,11,4,10,2,2,,1,0.00,4
+non type error,Module File,4b7ff467ed5907e32fd529fb39b708db_2.py,3,0,2,0,1,,,,,0,17,,16,,,,,70,8,60,30,36,2,58,30,34,4,4,,2,0.03,24
+non type error,Module File,4c999b7854a8a08960b6501a90b3bba3_2.py,4,0,0,0,1,,,,,0,1,,0,,,,,4,0,4,3,4,0,4,3,4,1,1,,0,0.00,1
+non type error,Module File,4e652ccb40632bf4b9dd95b9f8ae1ec9_1.py,9,0,0,0,3,,,,,0,1,,0,,,,,9,0,9,3,9,0,8,3,8,3,3,,1,0.00,3
+non type error,Module File,4e652ccb40632bf4b9dd95b9f8ae1ec9_2.py,3,0,4,0,2,,,,,0,2,,1,,,,,8,2,6,3,5,0,6,3,5,2,2,,1,0.00,3
+non type error,Module File,5031b15e220f0ff6cc1dd3731ecdbf27_2.py,9,1,12,0,3,,,,,0,2,,1,,,,,23,4,16,5,15,3,16,5,15,2,4,,2,0.19,6
+non type error,Module File,51155e9bfa90e0ff29d049cedc3e1862_2.py,61,0,0,0,15,,,,,0,1,,0,,,,,77,15,61,9,61,1,51,9,51,15,15,,2,0.02,15
+non type error,Module File,526e2cce272e42a3220e33149b1c9c84_2.py,12,0,0,0,10,,,,,0,1,,0,,,,,12,0,12,1,12,0,8,1,8,10,10,,2,0.00,10
+non type error,Module File,5418c98fe362909f7b28f95225837d33_1.py,12,1,14,0,4,,,,,0,5,,4,,,,,54,9,44,10,39,1,38,10,33,1,7,,3,0.02,18
+non type error,Module File,5418c98fe362909f7b28f95225837d33_2.py,9,1,12,0,3,,,,,0,3,,2,,,,,35,7,28,13,24,0,28,13,24,1,5,,3,0.00,10
+non type error,Module File,54cb2e987f2cc06c02c7638ea879a1ab_1.py,6,0,0,0,3,,,,,0,1,,0,,,,,6,0,6,2,6,0,8,2,8,3,3,,2,0.00,3
+non type error,Module File,54cb2e987f2cc06c02c7638ea879a1ab_2.py,8,0,0,0,3,,,,,0,1,,0,,,,,8,0,8,4,8,0,8,4,8,3,3,,2,0.00,3
+non type error,Module File,565bbd09f79eb7bfe2f2da46647af0f2_1.py,6,0,2,0,3,,,,,0,2,,1,,,,,12,1,11,4,10,0,11,4,10,4,4,,2,0.00,5
+non type error,Module File,BIN_PACKING_PROBLEM_MINIMIZE_NUMBER_OF_USED_BINS.py,10,0,10,0,3,,,,,0,1,,1,,,,,10,0,10,4,9,0,9,4,8,0,3,,2,0.00,3
+non type error,Module File,BREAKING_NUMBER_FIRST_PART_INTEGRAL_DIVISION_SECOND_POWER_10.py,16,0,16,0,5,,,,,0,1,,1,,,,,16,0,16,8,15,0,16,8,15,0,5,,3,0.00,5
+non type error,Module File,CHECK_ARRAY_MAJORITY_ELEMENT.py,9,0,9,0,5,,,,,0,1,,1,,,,,9,0,9,4,8,0,10,4,9,0,5,,2,0.00,5
+non type error,Module File,CHECK_DIVISIBILITY_LARGE_NUMBER_999.py,20,0,20,0,6,,,,,0,1,,1,,,,,20,0,20,5,19,0,20,5,19,0,6,,1,0.00,6
+non type error,Module File,CHECK_GIVEN_SENTENCE_GIVEN_SET_SIMPLE_GRAMMER_RULES.py,27,0,27,0,11,,,,,0,1,,1,,,,,27,0,27,5,26,0,24,5,23,0,11,,2,0.00,11
+non type error,Module File,CHECK_IF_A_GIVEN_ARRAY_CAN_REPRESENT_PREORDER_TRAVERSAL_OF_BINARY_SEARCH_TREE.py,10,0,10,0,4,,,,,0,1,,1,,,,,10,0,10,4,9,0,10,4,9,0,4,,2,0.00,4
+non type error,Module File,CHECK_IF_A_NUMBER_IS_POWER_OF_ANOTHER_NUMBER_1.py,4,0,4,0,2,,,,,0,1,,1,,,,,4,0,4,3,3,0,4,3,3,0,2,,0,0.00,2
+non type error,Module File,CHECK_LARGE_NUMBER_DIVISIBLE_11_NOT.py,10,0,10,0,3,,,,,0,1,,1,,,,,10,0,10,5,9,0,9,5,8,0,3,,2,0.00,3
+non type error,Module File,CHECK_LARGE_NUMBER_DIVISIBLE_13_NOT.py,23,0,23,0,5,,,,,0,1,,1,,,,,23,0,23,5,22,0,22,5,21,0,5,,1,0.00,5
+non type error,Module File,CHECK_WHETHER_TRIANGLE_VALID_NOT_SIDES_GIVEN.py,5,0,5,0,2,,,,,0,1,,1,,,,,5,0,5,1,4,0,4,1,3,0,2,,1,0.00,2
+non type error,Module File,CONSTRUCT_LEXICOGRAPHICALLY_SMALLEST_PALINDROME.py,22,0,22,0,6,,,,,0,1,,1,,,,,22,0,22,3,21,0,19,3,18,0,6,,2,0.00,6
+non type error,Module File,COUNTING_PAIRS_PERSON_CAN_FORM_PAIR_ONE_1.py,5,0,5,0,2,,,,,0,1,,1,,,,,5,0,5,1,4,0,4,1,3,0,2,,1,0.00,2
+non type error,Module File,COUNTS_PATHS_POINT_REACH_ORIGIN_1.py,4,0,4,0,2,,,,,0,1,,1,,,,,4,0,4,1,3,0,4,1,3,0,2,,1,0.00,2
+non type error,Module File,COUNT_DERANGEMENTS_PERMUTATION_SUCH_THAT_NO_ELEMENT_APPEARS_IN_ITS_ORIGINAL_POSITION_1.py,8,0,8,0,2,,,,,0,1,,1,,,,,8,0,8,2,7,0,8,2,7,0,2,,1,0.00,2
+non type error,Module File,COUNT_EVEN_LENGTH_BINARY_SEQUENCES_WITH_SAME_SUM_OF_FIRST_AND_SECOND_HALF_BITS_1.py,7,0,7,0,2,,,,,0,1,,1,,,,,7,0,7,4,6,0,7,4,6,0,2,,1,0.00,2
+non type error,Module File,COUNT_INVERSIONS_OF_SIZE_THREE_IN_A_GIVE_ARRAY.py,10,0,10,0,6,,,,,0,1,,1,,,,,10,0,10,6,9,0,10,6,9,0,6,,5,0.00,6
+non type error,Module File,COUNT_OPERATIONS_MAKE_STRINGAB_FREE.py,10,0,10,0,3,,,,,0,1,,1,,,,,10,0,10,4,9,0,9,4,8,0,3,,2,0.00,3
+non type error,Module File,COUNT_POSSIBLE_DECODINGS_GIVEN_DIGIT_SEQUENCE_1.py,11,0,11,0,4,,,,,0,1,,1,,,,,11,0,11,3,10,0,11,3,10,0,4,,2,0.00,4
+non type error,Module File,COUNT_POSSIBLE_PATHS_TOP_LEFT_BOTTOM_RIGHT_NXM_MATRIX_3.py,5,0,5,0,2,,,,,0,1,,1,,,,,5,0,5,2,4,0,5,2,4,0,2,,1,0.00,2
+non type error,Module File,COUNT_POSSIBLE_WAYS_TO_CONSTRUCT_BUILDINGS.py,12,0,12,0,3,,,,,0,1,,1,,,,,12,0,12,7,11,0,12,7,11,0,3,,1,0.00,3
+non type error,Module File,COUNT_SUBSETS_DISTINCT_EVEN_NUMBERS.py,9,0,9,0,4,,,,,0,1,,1,,,,,9,0,9,4,8,0,9,4,8,0,4,,2,0.00,4
+non type error,Module File,DYNAMIC_PROGRAMMING_SET_28_MINIMUM_INSERTIONS_TO_FORM_A_PALINDROME.py,11,0,11,0,6,,,,,0,1,,1,,,,,11,0,11,1,10,0,10,1,9,0,6,,1,0.00,6
+non type error,Module File,EQUILIBRIUM_INDEX_OF_AN_ARRAY_1.py,9,0,9,0,3,,,,,0,1,,1,,,,,9,0,9,4,8,0,9,4,8,0,3,,2,0.00,3
+non type error,Module File,FIND_A_TRIPLET_THAT_SUM_TO_A_GIVEN_VALUE_2.py,10,0,10,0,4,,,,,0,1,,1,,,,,10,0,10,5,9,0,10,5,9,0,4,,3,0.00,4
+non type error,Module File,FIND_LARGEST_D_IN_ARRAY_SUCH_THAT_A_B_C_D.py,18,0,18,0,10,,,,,0,1,,1,,,,,18,0,18,6,17,0,18,6,17,0,10,,5,0.00,10
+non type error,Module File,FIND_ROTATION_COUNT_ROTATED_SORTED_ARRAY.py,7,0,7,0,3,,,,,0,1,,1,,,,,7,0,7,3,6,0,7,3,6,0,3,,2,0.00,3
+non type error,Module File,FIND_SUM_EVEN_INDEX_BINOMIAL_COEFFICIENTS.py,13,0,13,0,6,,,,,0,1,,1,,,,,13,0,13,4,12,0,12,4,11,0,6,,3,0.00,6
+non type error,Module File,FIND_THE_ELEMENT_THAT_APPEARS_ONCE_2.py,2,0,2,0,1,,,,,0,1,,1,,,,,2,0,2,1,1,0,2,1,1,0,1,,0,0.00,1
+non type error,Module File,FIND_THE_LARGEST_SUBARRAY_WITH_0_SUM.py,9,0,9,0,4,,,,,0,1,,1,,,,,9,0,9,5,8,0,9,5,8,0,4,,3,0.00,4
+non type error,Module File,FIND_THE_MINIMUM_DISTANCE_BETWEEN_TWO_NUMBERS.py,7,0,7,0,4,,,,,0,1,,1,,,,,7,0,7,4,6,0,7,4,6,0,4,,3,0.00,4
+non type error,Module File,FIND_THE_MINIMUM_DISTANCE_BETWEEN_TWO_NUMBERS_1.py,15,0,15,0,6,,,,,0,1,,1,,,,,15,0,15,4,14,0,14,4,13,0,6,,3,0.00,6
+non type error,Module File,FIND_THE_NUMBER_OCCURRING_ODD_NUMBER_OF_TIMES_2.py,5,0,5,0,2,,,,,0,1,,1,,,,,5,0,5,3,4,0,5,3,4,0,2,,1,0.00,2
+non type error,Module File,HOW_TO_BEGIN_WITH_COMPETITIVE_PROGRAMMING.py,6,0,6,0,3,,,,,0,1,,1,,,,,6,0,6,3,5,0,6,3,5,0,3,,2,0.00,3
+non type error,Module File,K_TH_DISTINCT_OR_NON_REPEATING_ELEMENT_IN_AN_ARRAY.py,13,0,13,0,6,,,,,0,1,,1,,,,,13,0,13,4,12,0,13,4,12,0,6,,3,0.00,6
+non type error,Module File,LARGEST_SUBARRAY_WITH_EQUAL_NUMBER_OF_0S_AND_1S.py,15,0,15,0,7,,,,,0,1,,1,,,,,15,0,15,5,14,0,14,5,13,0,7,,3,0.00,7
+non type error,Module File,LENGTH_OF_THE_LONGEST_ARITHMATIC_PROGRESSION_IN_A_SORTED_ARRAY.py,25,0,25,0,8,,,,,0,1,,1,,,,,25,0,25,6,24,0,23,6,22,0,8,,4,0.00,8
+non type error,Module File,LEONARDO_NUMBER_1.py,7,0,7,0,2,,,,,0,1,,1,,,,,7,0,7,3,6,0,7,3,6,0,2,,1,0.00,2
+non type error,Module File,LONGEST_COMMON_SUBSTRING.py,13,0,13,0,5,,,,,0,1,,1,,,,,13,0,13,5,12,0,11,5,10,0,5,,3,0.00,5
+non type error,Module File,LONGEST_INCREASING_SUBSEQUENCE_1.py,11,0,11,0,5,,,,,0,1,,1,,,,,11,0,11,6,10,0,11,6,10,0,5,,3,0.00,5
+non type error,Module File,MAKE_LARGEST_PALINDROME_CHANGING_K_DIGITS.py,28,0,28,0,10,,,,,0,1,,1,,,,,28,0,28,4,27,0,27,4,26,0,10,,3,0.00,10
+non type error,Module File,MAXIMUM_POSSIBLE_DIFFERENCE_TWO_SUBSETS_ARRAY.py,16,0,16,0,6,,,,,0,1,,1,,,,,16,0,16,6,15,0,15,6,14,0,6,,3,0.00,6
+non type error,Module File,MAXIMUM_SUBARRAY_SUM_ARRAY_CREATED_REPEATED_CONCATENATION.py,10,0,10,0,4,,,,,0,1,,1,,,,,10,0,10,4,9,0,10,4,9,0,4,,2,0.00,4
+non type error,Module File,MAXIMUM_SUM_SUBARRAY_REMOVING_ONE_ELEMENT.py,19,0,19,0,4,,,,,0,1,,1,,,,,19,0,19,6,18,0,19,6,18,0,4,,1,0.00,4
+non type error,Module File,MIDDLE_OF_THREE_USING_MINIMUM_COMPARISONS_2.py,10,0,10,0,3,,,,,0,1,,1,,,,,10,0,10,4,9,0,8,4,7,0,3,,1,0.00,3
+non type error,Module File,MINIMUM_COST_CUT_BOARD_SQUARES.py,26,0,26,0,5,,,,,0,1,,1,,,,,26,0,26,5,25,0,27,7,26,0,5,,2,0.00,5
+non type error,Module File,MINIMUM_NUMBER_OF_JUMPS_TO_REACH_END_OF_A_GIVEN_ARRAY_1.py,12,0,12,0,5,,,,,0,1,,1,,,,,12,0,12,3,11,0,12,3,11,0,5,,3,0.00,5
+non type error,Module File,MINIMUM_NUMBER_OF_SQUARES_WHOSE_SUM_EQUALS_TO_GIVEN_NUMBER_N_1.py,11,0,11,0,4,,,,,0,1,,1,,,,,11,0,11,5,10,0,10,5,9,0,4,,3,0.00,4
+non type error,Module File,MINIMUM_NUMBER_SUBSETS_DISTINCT_ELEMENTS.py,12,0,12,0,4,,,,,0,1,,1,,,,,12,0,12,4,11,0,11,4,10,0,4,,3,0.00,4
+non type error,Module File,MINIMUM_SUM_CHOOSING_MINIMUM_PAIRS_ARRAY.py,3,0,3,0,1,,,,,0,1,,1,,,,,3,0,3,2,2,0,3,2,2,0,1,,0,0.00,1
+non type error,Module File,MULTIPLY_LARGE_NUMBERS_REPRESENTED_AS_STRINGS.py,31,0,31,0,8,,,,,0,1,,1,,,,,31,0,31,13,30,0,31,13,30,0,8,,2,0.00,8
+non type error,Module File,N_TH_NUMBER_WHOSE_SUM_OF_DIGITS_IS_TEN.py,13,0,13,0,5,,,,,0,1,,1,,,,,13,0,13,4,12,0,13,4,12,0,5,,2,0.00,5
+non type error,Module File,N_TH_NUMBER_WHOSE_SUM_OF_DIGITS_IS_TEN_1.py,15,0,15,0,5,,,,,0,1,,1,,,,,15,0,15,4,14,0,15,4,14,0,5,,2,0.00,5
+non type error,Module File,PARTITION_INTO_TWO_SUBARRAYS_OF_LENGTHS_K_AND_N_K_SUCH_THAT_THE_DIFFERENCE_OF_SUMS_IS_MAXIMUM.py,12,0,12,0,3,,,,,0,1,,1,,,,,12,0,12,6,11,0,12,6,11,0,3,,1,0.00,3
+non type error,Module File,PERMUTE_TWO_ARRAYS_SUM_EVERY_PAIR_GREATER_EQUAL_K.py,7,0,7,0,3,,,,,0,1,,1,,,,,7,0,7,2,6,0,7,2,6,0,3,,2,0.00,3
+non type error,Module File,PRINT_MAXIMUM_SHORTEST_DISTANCE.py,15,0,15,0,5,,,,,0,1,,1,,,,,15,0,15,6,14,0,14,6,13,0,5,,2,0.00,5
+non type error,Module File,PROGRAM_CENSOR_WORD_ASTERISKS_SENTENCE.py,12,0,12,0,3,,,,,0,1,,1,,,,,12,0,12,7,11,0,12,7,11,0,3,,2,0.00,3
+non type error,Module File,PROGRAM_CHECK_ARRAY_SORTED_NOT_ITERATIVE_RECURSIVE.py,5,0,5,0,2,,,,,0,1,,1,,,,,5,0,5,2,4,0,5,2,4,0,2,,1,0.00,2
+non type error,Module File,PROGRAM_DISTANCE_TWO_POINTS_EARTH.py,11,0,11,0,1,,,,,0,1,,1,,,,,11,0,11,6,10,0,11,6,10,0,1,,0,0.00,1
+non type error,Module File,PROGRAM_FIND_SMALLEST_DIFFERENCE_ANGLES_TWO_PARTS_GIVEN_CIRCLE.py,12,0,12,0,3,,,,,0,1,,1,,,,,12,0,12,5,11,0,12,5,11,0,3,,2,0.00,3
+non type error,Module File,PROGRAM_TO_CHECK_IF_A_GIVEN_NUMBER_IS_LUCKY_ALL_DIGITS_ARE_DIFFERENT.py,9,0,9,0,3,,,,,0,1,,1,,,,,9,0,9,3,8,0,9,3,8,0,3,,2,0.00,3
+non type error,Module File,REMOVE_BRACKETS_ALGEBRAIC_STRING_CONTAINING_OPERATORS.py,35,0,35,0,13,,,,,0,1,,1,,,,,35,0,35,7,34,0,29,7,28,0,13,,3,0.00,13
+non type error,Module File,SCHEDULE_ELEVATOR_TO_REDUCE_THE_TOTAL_TIME_TAKEN.py,6,0,6,0,2,,,,,0,1,,1,,,,,6,0,6,3,5,0,6,3,5,0,2,,1,0.00,2
+non type error,Module File,SEARCH_AN_ELEMENT_IN_A_SORTED_AND_PIVOTED_ARRAY.py,13,0,13,0,6,,,,,0,1,,1,,,,,13,0,13,2,12,0,13,2,12,0,6,,2,0.00,6
+non type error,Module File,SEARCH_INSERT_AND_DELETE_IN_AN_UNSORTED_ARRAY.py,5,0,5,0,3,,,,,0,1,,1,,,,,5,0,5,2,4,0,5,2,4,0,3,,2,0.00,3
+non type error,Module File,SMALLEST_OF_THREE_INTEGERS_WITHOUT_COMPARISON_OPERATORS_1.py,4,0,4,0,4,,,,,0,1,,1,,,,,4,0,4,1,3,0,4,1,3,0,4,,1,0.00,4
+non type error,Module File,SORT_ARRAY_CONTAIN_1_N_VALUES.py,3,0,3,0,2,,,,,0,1,,1,,,,,3,0,3,2,2,0,3,2,2,0,2,,1,0.00,2
+non type error,Module File,SORT_EVEN_PLACED_ELEMENTS_INCREASING_ODD_PLACED_DECREASING_ORDER.py,18,0,18,0,5,,,,,0,1,,1,,,,,18,0,18,5,17,0,17,5,16,0,5,,2,0.00,5
+non type error,Module File,SQUARE_ROOT_OF_A_PERFECT_SQUARE.py,8,0,8,0,2,,,,,0,1,,1,,,,,8,0,8,4,7,0,8,4,7,0,2,,1,0.00,2
+non type error,Module File,STRING_CONTAINING_FIRST_LETTER_EVERY_WORD_GIVEN_STRING_SPACES.py,10,0,10,0,4,,,,,0,1,,1,,,,,10,0,10,4,9,0,9,4,8,0,4,,2,0.00,4
+non type error,Module File,TOTAL_NUMBER_OF_NON_DECREASING_NUMBERS_WITH_N_DIGITS.py,12,0,12,0,6,,,,,0,1,,1,,,,,12,0,12,6,11,0,12,6,11,0,6,,3,0.00,6
+non type error,Module File,WRITE_AN_EFFICIENT_METHOD_TO_CHECK_IF_A_NUMBER_IS_MULTIPLE_OF_3.py,16,0,16,0,7,,,,,0,1,,1,,,,,16,0,16,3,15,0,16,3,15,0,7,,2,0.00,7
+non type error,Module File,WRITE_A_C_PROGRAM_TO_FIND_THE_PARITY_OF_AN_UNSIGNED_INTEGER.py,6,0,6,0,2,,,,,0,1,,1,,,,,6,0,6,2,5,0,6,2,5,0,2,,1,0.00,2
+non type error,Module File,atcoder_ABC104_C.py,22,0,0,0,8,,,,,0,1,,0,,,,,23,1,22,9,22,0,21,9,21,8,8,,3,0.00,8
+non type error,Module File,atcoder_ABC107_C.py,17,0,16,0,5,,,,,0,2,,1,,,,,35,1,34,16,32,0,30,16,28,5,5,,3,0.00,10
+non type error,Module File,atcoder_ABC107_D.py,8,0,7,0,2,,,,,1,6,,5,,,,,48,1,47,23,41,0,46,23,40,3,3,,1,0.00,13
+non type error,Module File,atcoder_ABC110_C.py,4,0,6,0,2,,,,,0,3,,2,,,,,15,1,14,7,11,0,13,7,10,2,2,,1,0.00,5
+non type error,Module File,atcoder_ABC119_B.py,3,0,0,0,1,,,,,0,1,,0,,,,,4,1,3,2,3,0,3,2,3,1,1,,0,0.00,1
+non type error,Module File,atcoder_ABC120_C.py,8,0,8,0,2,,,,,0,2,,1,,,,,26,1,25,18,15,0,25,18,15,2,2,,1,0.00,4
+non type error,Module File,atcoder_ABC122_C.py,4,0,2,0,2,,,,,0,2,,1,,,,,10,1,9,7,7,0,9,7,7,2,2,,1,0.00,4
+non type error,Module File,atcoder_ABC123_D.py,16,0,0,0,6,,,,,0,1,,0,,,,,17,1,16,8,16,0,16,8,16,6,6,,2,0.00,6
+non type error,Module File,atcoder_ABC126_D.py,13,0,9,0,3,,,,,1,3,,2,,,,,43,1,42,19,38,0,39,19,35,5,5,,2,0.00,10
+non type error,Module File,atcoder_ABC126_E.py,9,0,12,0,3,,,,,0,3,,2,,,,,30,1,29,14,25,0,29,14,25,2,7,,5,0.00,10
+non type error,Module File,atcoder_ABC127_B.py,3,0,0,0,2,,,,,0,1,,0,,,,,4,1,3,2,3,0,3,2,3,2,2,,1,0.00,2
+non type error,Module File,atcoder_ABC127_F.py,37,0,0,0,8,,,,,0,1,,0,,,,,39,1,38,11,37,0,34,11,33,8,8,,3,0.00,8
+non type error,Module File,atcoder_ABC128_C.py,10,0,18,0,4,,,,,0,2,,1,,,,,21,1,20,12,18,0,20,12,18,2,5,,4,0.00,7
+non type error,Module File,atcoder_ABC132_F.py,18,0,0,0,4,,,,,0,1,,0,,,,,19,1,18,8,18,0,18,8,18,4,4,,2,0.00,4
+non type error,Module File,atcoder_ABC133_B.py,7,0,5,0,3,,,,,0,2,,1,,,,,15,1,14,9,12,0,14,9,12,4,4,,3,0.00,6
+non type error,Module File,atcoder_ABC133_E.py,12,0,13,0,4,,,,,0,2,,1,,,,,26,1,25,13,22,0,25,13,22,2,5,,2,0.00,7
+non type error,Module File,atcoder_ABC134_E.py,10,0,9,0,3,,,,,0,2,,1,,,,,20,1,19,8,18,0,17,8,16,3,3,,2,0.00,6
+non type error,Module File,atcoder_ABC137_D.py,15,0,0,0,4,,,,,0,1,,0,,,,,17,1,16,8,15,0,15,8,14,4,4,,2,0.00,4
+non type error,Module File,atcoder_ABC140_F.py,6,0,8,0,2,,,,,0,4,,3,,,,,27,1,26,12,24,0,28,12,24,2,5,,4,0.00,9
+non type error,Module File,atcoder_ABC142_A.py,3,0,2,0,2,,,,,0,3,,2,,,,,12,1,11,6,8,0,11,6,8,3,3,,2,0.00,5
+non type error,Module File,atcoder_ABC142_C.py,7,0,0,0,2,,,,,0,1,,0,,,,,9,1,8,5,7,0,8,5,7,2,2,,1,0.00,2
+non type error,Module File,atcoder_ABC143_D.py,16,0,0,0,5,,,,,0,1,,0,,,,,18,1,17,10,16,0,17,10,16,5,5,,3,0.00,5
+non type error,Module File,atcoder_ABC145_C.py,8,0,10,0,3,,,,,0,4,,3,,,,,32,1,31,20,26,0,31,20,26,2,3,,2,0.00,10
+non type error,Module File,atcoder_ABC145_E.py,29,0,0,0,8,,,,,0,1,,0,,,,,32,1,31,12,29,0,29,12,27,8,8,,3,0.00,8
+non type error,Module File,atcoder_ABC146_D.py,12,0,18,0,3,,,,,0,3,,2,,,,,40,1,39,18,35,0,39,18,35,1,5,,3,0.00,9
+non type error,Module File,atcoder_ABC148_F.py,7,0,3,0,2,,,,,0,5,,4,,,,,37,1,36,17,31,0,42,17,35,4,4,,2,0.00,12
+non type error,Module File,atcoder_ABC150_D.py,18,0,0,0,6,,,,,0,1,,0,,,,,21,1,20,9,18,0,20,9,18,6,6,,3,0.00,6
+non type error,Module File,atcoder_ABC152_E.py,5,0,2,0,2,,,,,0,2,,1,,,,,12,1,11,8,9,0,11,8,9,2,2,,1,0.00,3
+non type error,Module File,atcoder_ABC155_E.py,11,0,9,0,3,,,,,0,5,,4,,,,,59,1,58,29,52,0,54,29,48,6,6,,3,0.00,16
+non type error,Module File,atcoder_ABC164_D.py,7,0,0,0,2,,,,,0,1,,0,,,,,8,1,7,3,7,0,7,3,7,2,2,,1,0.00,2
+non type error,Module File,atcoder_ABC166_C.py,19,0,0,0,6,,,,,0,1,,0,,,,,20,1,19,10,19,0,19,10,19,6,6,,3,0.00,6
+non type error,Module File,atcoder_ABC167_C.py,35,0,0,0,13,,,,,0,1,,0,,,,,38,1,37,13,35,0,35,13,33,13,13,,3,0.00,13
+non type error,Module File,atcoder_ABC168_C.py,6,0,0,0,2,,,,,0,1,,0,,,,,8,1,7,4,6,0,7,4,6,2,2,,1,0.00,2
+non type error,Module File,atcoder_ABC174_C.py,15,0,0,0,3,,,,,0,1,,0,,,,,20,1,19,12,15,0,19,12,15,3,3,,2,0.00,3
+non type error,Module File,atcoder_ABC178_B.py,2,0,1,0,1,,,,,0,7,,6,,,,,16,1,15,12,13,0,20,12,13,1,1,,0,0.00,7
+non type error,Module File,atcoder_AGC002_B.py,5,0,1,0,2,,,,,0,6,,5,,,,,41,1,40,25,29,0,43,25,27,6,6,,2,0.00,11
+non type error,Module File,atcoder_AGC005_B.py,15,0,10,0,5,,,,,0,2,,1,,,,,30,1,29,12,28,0,30,12,29,5,5,,3,0.00,9
+non type error,Module File,atcoder_AGC007_C.py,7,0,8,0,2,,,,,0,2,,1,,,,,15,1,14,7,12,0,14,7,12,1,2,,1,0.00,3
+non type error,Module File,atcoder_AGC012_A.py,5,0,5,0,2,,,,,0,3,,2,,,,,22,1,21,14,12,0,21,14,12,2,2,,1,0.00,5
+non type error,Module File,atcoder_AGC013_A.py,3,0,1,0,1,,,,,0,6,,5,,,,,32,1,31,23,20,0,36,22,20,3,3,,2,0.00,8
+non type error,Module File,atcoder_AGC019_A.py,2,0,1,0,1,,,,,0,10,,9,,,,,34,1,33,28,22,0,42,28,20,3,3,,1,0.00,12
+non type error,Module File,atcoder_AGC021_B.py,10,0,0,0,4,,,,,0,1,,0,,,,,12,1,11,6,10,0,11,6,10,4,4,,3,0.00,4
+non type error,Module File,atcoder_AGC028_B.py,22,0,0,0,3,,,,,0,1,,0,,,,,25,1,24,13,22,0,26,13,24,3,3,,1,0.00,3
+non type error,Module File,atcoder_AGC029_C.py,10,0,11,0,4,,,,,0,4,,3,,,,,40,1,39,12,35,0,36,11,32,1,7,,4,0.00,16
+non type error,Module File,atcoder_AGC043_B.py,7,0,3,0,3,,,,,0,3,,2,,,,,21,1,20,8,18,0,19,8,17,6,6,,3,0.00,8
+non type error,Module File,atcoder_ARC062_B.py,19,0,0,0,6,,,,,0,1,,0,,,,,20,1,19,4,19,0,16,4,16,6,6,,3,0.00,6
+non type error,Module File,atcoder_ARC086_B.py,6,0,3,0,2,,,,,0,7,,6,,,,,45,1,44,18,38,0,43,17,34,9,9,,2,0.00,17
+non type error,Module File,atcoder_ARC102_C.py,9,0,6,0,3,,,,,0,4,,3,,,,,38,1,37,16,34,0,36,16,33,4,4,,2,0.00,11
+non type error,Module File,codeforces_108_B.py,5,0,8,0,2,,,,,0,2,,1,,,,,10,1,9,3,8,0,9,3,8,1,3,,2,0.00,4
+non type error,Module File,codeforces_110_B.py,6,0,0,0,2,,,,,0,1,,0,,,,,7,1,6,4,6,0,6,4,6,2,2,,1,0.00,2
+non type error,Module File,codeforces_11_A.py,13,0,0,0,4,,,,,0,1,,0,,,,,14,1,13,6,13,0,13,6,13,4,4,,2,0.00,4
+non type error,Module File,codeforces_147_A.py,26,0,0,0,9,,,,,0,1,,0,,,,,27,1,26,4,26,0,21,4,21,9,9,,5,0.00,9
+non type error,Module File,codeforces_203_B.py,11,0,21,0,5,,,,,0,2,,1,,,,,23,1,22,9,21,0,22,9,21,1,8,,5,0.00,9
+non type error,Module File,codeforces_216_B.py,9,0,12,0,4,,,,,0,4,,3,,,,,37,1,36,16,34,0,40,16,37,2,8,,3,0.00,14
+non type error,Module File,codeforces_231_A.py,7,0,0,0,3,,,,,0,1,,0,,,,,8,1,7,4,7,0,7,4,7,3,3,,2,0.00,3
+non type error,Module File,codeforces_242_A.py,11,0,0,0,6,,,,,0,1,,0,,,,,12,1,11,4,11,0,11,4,11,6,6,,4,0.00,6
+non type error,Module File,codeforces_25_A.py,6,0,0,0,2,,,,,0,1,,0,,,,,7,1,6,2,6,0,5,2,5,2,2,,1,0.00,2
+non type error,Module File,codeforces_268_A.py,15,0,0,0,6,,,,,0,1,,0,,,,,16,1,15,7,15,0,13,7,13,6,6,,3,0.00,6
+non type error,Module File,codeforces_272_B.py,6,0,7,0,2,,,,,0,4,,3,,,,,24,1,23,8,20,0,22,8,19,2,3,,2,0.00,9
+non type error,Module File,codeforces_296_A.py,8,0,0,0,4,,,,,0,1,,0,,,,,9,1,8,4,8,0,8,4,8,4,4,,2,0.00,4
+non type error,Module File,codeforces_299_A.py,5,0,0,0,1,,,,,0,1,,0,,,,,6,1,5,4,5,0,5,4,5,1,1,,0,0.00,1
+non type error,Module File,codeforces_302_A.py,9,0,0,0,2,,,,,0,1,,0,,,,,10,1,9,5,9,0,9,5,9,2,2,,1,0.00,2
+non type error,Module File,codeforces_306_A.py,8,0,0,0,3,,,,,0,1,,0,,,,,9,1,8,5,8,0,8,5,8,3,3,,1,0.00,3
+non type error,Module File,codeforces_31_A.py,11,0,0,0,6,,,,,0,1,,0,,,,,12,1,11,4,11,0,11,4,11,6,6,,4,0.00,6
+non type error,Module File,codeforces_327_A.py,9,0,2,0,3,,,,,0,2,,1,,,,,19,1,18,9,16,0,16,8,14,5,5,,4,0.00,6
+non type error,Module File,codeforces_334_A.py,6,0,0,0,2,,,,,0,1,,0,,,,,7,1,6,2,6,0,6,2,6,2,2,,1,0.00,2
+non type error,Module File,codeforces_342_B.py,24,0,0,0,5,,,,,0,1,,0,,,,,25,1,24,9,24,0,22,9,22,5,5,,2,0.00,5
+non type error,Module File,codeforces_350_B.py,18,0,0,0,6,,,,,0,1,,0,,,,,19,1,18,6,18,0,18,6,18,6,6,,3,0.00,6
+non type error,Module File,codeforces_387_A.py,7,0,0,0,1,,,,,0,1,,0,,,,,8,1,7,2,7,0,7,2,7,1,1,,0,0.00,1
+non type error,Module File,codeforces_397_B.py,4,0,4,0,2,,,,,1,5,,4,,,,,23,1,22,13,17,0,22,13,17,2,3,,1,0.00,9
+non type error,Module File,codeforces_400_A.py,3,0,3,0,2,,,,,0,11,,10,,,,,41,1,40,26,30,0,51,26,33,3,7,,3,0.00,22
+non type error,Module File,codeforces_404_A.py,27,0,0,0,11,,,,,0,1,,0,,,,,28,1,27,9,27,0,23,9,23,11,11,,3,0.00,11
+non type error,Module File,codeforces_412_A.py,12,0,0,0,3,,,,,0,1,,0,,,,,13,1,12,7,12,0,12,7,12,3,3,,1,0.00,3
+non type error,Module File,codeforces_450_A.py,13,0,0,0,5,,,,,0,1,,0,,,,,14,1,13,6,13,0,12,6,12,5,5,,2,0.00,5
+non type error,Module File,codeforces_456_A.py,11,0,0,0,3,,,,,0,1,,0,,,,,12,1,11,3,11,0,11,3,11,3,3,,2,0.00,3
+non type error,Module File,codeforces_459_A.py,39,0,0,0,6,,,,,0,1,,0,,,,,41,1,40,15,39,0,36,15,35,6,6,,1,0.00,6
+non type error,Module File,codeforces_462_B.py,15,0,0,0,4,,,,,0,1,,0,,,,,16,1,15,6,15,0,15,6,15,4,4,,2,0.00,4
+non type error,Module File,codeforces_474_B.py,9,0,0,0,3,,,,,0,1,,0,,,,,10,1,9,4,9,0,9,4,9,3,3,,1,0.00,3
+non type error,Module File,codeforces_49_A.py,11,0,0,0,4,,,,,0,1,,0,,,,,12,1,11,3,11,0,9,3,9,4,4,,3,0.00,4
+non type error,Module File,codeforces_500_A.py,11,0,0,0,3,,,,,0,1,,0,,,,,13,1,12,4,11,0,11,4,10,3,3,,2,0.00,3
+non type error,Module File,codeforces_519_B.py,15,0,0,0,4,,,,,0,1,,0,,,,,16,1,15,8,15,0,15,8,15,4,4,,1,0.00,4
+non type error,Module File,codeforces_567_A.py,18,0,0,0,6,,,,,0,1,,0,,,,,19,1,18,3,18,0,14,3,14,6,6,,2,0.00,6
+non type error,Module File,codeforces_56_B.py,15,0,0,0,5,,,,,0,1,,0,,,,,16,1,15,4,15,0,13,4,13,5,5,,2,0.00,5
+non type error,Module File,codeforces_579_A.py,6,0,0,0,2,,,,,0,1,,0,,,,,8,1,7,3,6,0,7,3,6,2,2,,1,0.00,2
+non type error,Module File,codeforces_617_B.py,3,0,0,0,2,,,,,0,1,,0,,,,,5,1,4,2,3,0,4,2,3,2,2,,0,0.00,2
+non type error,Module File,codeforces_632_B.py,8,0,12,0,4,,,,,0,3,,2,,,,,26,1,25,5,23,0,23,5,21,2,8,,3,0.00,11
+non type error,Module File,codeforces_644_B.py,11,0,5,0,3,,,,,1,3,,2,,,,,37,1,36,17,32,0,34,17,30,7,7,,3,0.00,9
+non type error,Module File,codeforces_651_A.py,6,0,0,0,1,,,,,0,1,,0,,,,,7,1,6,5,6,0,6,5,6,1,1,,0,0.00,1
+non type error,Module File,codeforces_653_A.py,9,0,0,0,3,,,,,0,1,,0,,,,,10,1,9,3,9,0,9,3,9,3,3,,2,0.00,3
+non type error,Module File,codeforces_673_A.py,11,0,0,0,5,,,,,0,1,,0,,,,,12,1,11,3,11,0,12,3,12,5,5,,3,0.00,5
+non type error,Module File,codeforces_678_B.py,31,0,5,0,11,,,,,0,2,,1,,,,,62,1,61,4,60,0,45,4,44,20,20,,3,0.00,22
+non type error,Module File,codeforces_67_B.py,11,0,0,0,5,,,,,0,1,,0,,,,,12,1,11,7,11,0,12,7,12,5,5,,3,0.00,5
+non type error,Module File,codeforces_7_B.py,33,0,0,0,12,,,,,0,1,,0,,,,,34,1,33,8,33,0,31,8,31,12,12,,5,0.00,12
+non type error,Module File,codeforces_86_A.py,17,0,0,0,5,,,,,0,1,,0,,,,,18,1,17,9,17,0,17,9,17,5,5,,3,0.00,5
+non type error,Module File,codeforces_8_B.py,23,0,0,0,7,,,,,0,1,,0,,,,,24,1,23,8,23,0,21,8,21,7,7,,4,0.00,7
+non type error,Module File,s013976107.py,6,0,0,0,2,,,,,0,1,,0,,,,,6,0,6,2,6,0,5,2,5,2,2,,1,0.00,2
+non type error,Module File,s031459110.py,11,0,0,0,3,,,,,0,1,,0,,,,,14,3,11,7,11,0,11,7,11,3,3,,2,0.00,3
+non type error,Module File,s087080706.py,5,0,0,0,1,,,,,0,1,,0,,,,,6,0,6,4,5,0,6,4,5,1,1,,0,0.00,1
+non type error,Module File,s101447419.py,12,0,22,0,4,,,,,0,2,,1,,,,,26,0,25,10,23,1,21,10,19,2,6,,1,0.04,8
+non type error,Module File,s124725275.py,10,0,3,1,2,,,,,0,8,,7,,,,,106,23,70,15,65,25,31,15,23,1,4,,2,0.36,12
+non type error,Module File,s200092246.py,11,0,0,0,5,,,,,0,1,,0,,,,,12,1,11,3,11,0,10,3,10,5,5,,2,0.00,5
+non type error,Module File,s242961129.py,11,0,0,0,3,,,,,0,1,,0,,,,,12,1,11,6,11,0,11,6,11,3,3,,1,0.00,3
+non type error,Module File,s259116349.py,12,0,2,0,4,,,,,0,2,,1,,,,,40,9,25,11,23,6,25,11,23,6,6,,3,0.24,7
+non type error,Module File,s269975433.py,7,0,1,0,3,,,,,0,2,,1,,,,,20,5,15,10,13,0,16,10,13,5,5,,3,0.00,6
+non type error,Module File,s287369394.py,14,0,0,0,2,,,,,0,1,,0,,,,,16,2,14,6,14,0,14,6,14,2,2,,1,0.00,2
+non type error,Module File,s344468705.py,9,1,9,0,2,,,,,0,3,,2,,,,,42,7,28,17,24,7,27,17,23,2,3,,2,0.25,7
+non type error,Module File,s404600540.py,5,1,6,0,2,,,,,0,2,,1,,,,,10,2,8,5,7,0,8,5,7,2,2,,1,0.00,3
+non type error,Module File,s430322735.py,19,0,0,0,4,,,,,0,1,,0,,,,,19,0,19,8,19,0,18,8,18,4,4,,2,0.00,4
+non type error,Module File,s554393427.py,13,0,0,0,4,,,,,0,1,,0,,,,,14,1,13,6,13,0,12,6,12,4,4,,2,0.00,4
+non type error,Module File,s591424993.py,20,0,0,0,6,,,,,0,1,,0,,,,,27,7,20,9,20,0,20,9,20,6,6,,3,0.00,6
+non type error,Module File,s621701371.py,19,0,0,0,9,,,,,0,1,,0,,,,,19,0,19,7,19,0,18,7,18,9,9,,3,0.00,9
+non type error,Module File,s664563518.py,5,1,3,0,2,,,,,0,10,,9,,,,,79,29,49,34,38,1,56,34,38,2,6,,2,0.02,17
+non type error,Module File,s676839884.py,6,0,0,0,2,,,,,0,1,,0,,,,,7,1,6,2,6,0,5,2,5,2,2,,1,0.00,2
+non type error,Module File,s749244504.py,22,0,0,0,9,,,,,0,1,,0,,,,,28,3,25,13,22,0,25,13,22,9,9,,2,0.00,9
+non type error,Module File,s759499751.py,11,0,0,0,4,,,,,0,1,,0,,,,,11,0,11,5,11,0,10,5,10,4,4,,2,0.00,4
+non type error,Module File,s763208424.py,8,0,0,0,3,,,,,0,1,,0,,,,,11,1,10,7,8,0,10,7,8,3,3,,1,0.00,3
+non type error,Module File,s764169243.py,17,2,16,2,3,,,,,1,5,,4,,,,,61,10,45,13,39,6,46,13,40,2,5,,2,0.13,13
+non type error,Module File,s797394058.py,6,0,0,0,1,,,,,0,1,,0,,,,,12,5,7,6,6,0,7,6,6,1,1,,0,0.00,1
+non type error,Module File,s828550015.py,9,0,0,0,3,,,,,0,1,,0,,,,,9,0,9,5,9,0,9,5,9,3,3,,2,0.00,3
+non type error,Module File,s840967243.py,4,0,0,0,1,,,,,0,1,,0,,,,,5,0,5,4,4,0,5,4,4,1,1,,0,0.00,1
+non type error,Module File,s908812767.py,25,0,18,0,11,,,,,0,2,,1,,,,,61,7,51,9,49,5,43,9,41,12,12,,4,0.10,22
+non type error,Module File,s913338871.py,5,0,0,0,1,,,,,0,1,,0,,,,,6,1,5,3,5,0,5,3,5,1,1,,0,0.00,1
+non type error,Module File,s949655009.py,24,0,0,0,12,,,,,0,1,,0,,,,,25,1,24,8,24,0,21,8,21,12,12,,4,0.00,12
+non type error,Module File,s975943078.py,12,3,18,0,4,,,,,0,2,,1,,,,,27,5,22,11,19,0,23,11,20,2,5,,2,0.00,7

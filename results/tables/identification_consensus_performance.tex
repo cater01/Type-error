@@ -1,0 +1,20 @@
+\begin{table}[t]
+    \centering
+    \caption{Comparison of single-model and dual-model consensus classification performance.}
+    \label{tab:model_consistency_results}
+    \begin{tabular}{lcccccc}
+        \toprule
+        Method & Samples & Accuracy & Precision & Recall & F1& Macro F1 \\
+        \midrule
+        Gemini-3.1-Pro-Preview
+        & 215 & 0.870 & 0.763 & 0.871 & 0.813 & 0.857 \\
+
+        Opus-4.7
+        & 215 & 0.865 & 0.789 & 0.800 & 0.794 & 0.847 \\
+
+        Model Agreement
+        & 196 & \textbf{0.903} & \textbf{0.818} &
+        \textbf{0.885} & \textbf{0.850} & \textbf{0.889} \\
+        \bottomrule
+    \end{tabular}
+\end{table}

@@ -1,0 +1,25 @@
+\begin{table}[t]
+\centering
+\caption{Pre-translation prevention results by model.}
+\label{tab:pre_model}
+\begin{tabular}{llrrrrr}
+\toprule
+Model & Strategy & Total & \#Compiled & CSR (\%) & \#Correct & CA (\%) \\
+\midrule
+\multirow{3}{*}{Magicoder-S-DS-6.7B}
+ &p0 & 517 & 429 & 82.98\% & 41 & 7.93\% \\
+ &p1 & 517 & 426 & 82.40\% & 64 & 12.38\% \\
+ &p2 & 517 & 408 & 78.92\% & 87 & 16.83\% \\
+\midrule
+\multirow{3}{*}{Qwen2.5-Coder-7B}
+ & p0 & 536 & 384 & 71.64\% & 48 & 8.96\% \\
+ & p1 & 536 & 384 & 71.64\% & 78 & 14.55\% \\
+ & p2 & 536 & 337 & 62.87\% & 155 & 28.92\% \\
+\midrule
+\multirow{3}{*}{Qwen2.5-Coder-32B}
+ & p0 & 548 & 471 & 85.95\% & 39 & 7.12\% \\
+& p1 & 548 & 463 & 84.49\% & 92 & 16.79\% \\
+ & p2 & 548 & 454 & 82.85\% & 200 & 36.50\% \\
+\bottomrule
+\end{tabular}
+\end{table}

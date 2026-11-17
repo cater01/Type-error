@@ -1,0 +1,45 @@
+{
+  "experiment": {
+    "name": "repair.qwen32b_r0",
+    "entry_point": "src/repair/qwen7b_repair.py",
+    "status": "partially_log_verified",
+    "evidence": {
+      "generation_log": "翻译后修复实验/outputs/repair/qwen32b/r0/repair_results.jsonl",
+      "observed_parameters": {
+        "decoding": "sampling",
+        "temperature": 0.7,
+        "top_p": 0.95,
+        "top_k": 10,
+        "max_new_tokens": 8192
+      }
+    },
+    "unknown": [
+      "exact_model_weights_revision",
+      "historical_random_seed",
+      "original_dependency_and_CUDA_versions"
+    ],
+    "note": "Config values are explicit snapshots. A source_snapshot is not proof of the historical paper run."
+  },
+  "args": {
+    "dataset": "qwen32b",
+    "model": "Qwen/Qwen2.5-Coder-32B-Instruct",
+    "repair_style": "r0",
+    "input": "dataset/type_error_dataset.jsonl",
+    "out_dir": "results/rq5/generation/qwen32b",
+    "max_source_size_bytes": 5120,
+    "max_new_tokens": 8192,
+    "max_input_tokens": null,
+    "temperature": 0.7,
+    "top_p": 0.95,
+    "top_k": 10,
+    "do_sample": true,
+    "greedy": false,
+    "seed": null,
+    "model_revision": null,
+    "run_javac": true,
+    "run_tests": true,
+    "no_javac": false,
+    "no_tests": false,
+    "eval_timeout": 20
+  }
+}

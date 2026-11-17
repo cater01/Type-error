@@ -1,0 +1,55 @@
+\begin{table}[t]
+\caption{Mean wall-clock inference time per input file for pre-translation prevention and post-translation repair.}
+  \label{tab:prompt-repair-latency}
+  \centering
+  \small
+  \setlength{\tabcolsep}{5pt}
+  \begin{tabular}{lccc}
+    \toprule
+    \multicolumn{4}{l}{\textit{(a) Pre-translation prompting}} \\
+    \cmidrule(lr){1-4}
+\textbf{Model}
+  & \textbf{P0 (s)}
+  & \textbf{P1 (s)}
+  & \textbf{P2 (s)}  \\
+    \midrule
+    Magicoder-S-DS-6.7B
+      & 9.72
+      & 11.46 $(+17.9\%)$
+      & 15.42 $(+58.6\%)$ \\
+    Qwen2.5-Coder-7B
+      & 7.35
+      & 9.12 $(+24.1\%)$
+      & 7.22 $(-1.8\%)$ \\
+    Qwen2.5-Coder-32B
+      & 19.44
+      & 23.33 $(+20.0\%)$
+      & 21.54 $(+10.8\%)$ \\
+    \midrule
+    \multicolumn{4}{l}{\textit{(b) Post-translation repair}} \\
+    \cmidrule(lr){1-4}
+\textbf{Model}
+  & \textbf{R0 (s)}
+  & \textbf{R1 (s)}
+  & \textbf{R2 (s)}  \\
+    \midrule
+    Magicoder-S-DS-6.7B
+      & 11.58
+      & 11.49 $(-0.8\%)$
+      & 17.11 $(+47.8\%)$ \\
+    Qwen2.5-Coder-7B 
+      & 6.91
+      & 7.82 $(+13.2\%)$
+      & 7.34 $(+6.2\%)$ \\
+    Qwen2.5-Coder-32B 
+      & 21.15
+      & 31.65 $(+49.6\%)$
+      & 23.37 $(+10.5\%)$ \\
+    \bottomrule
+  \end{tabular}
+  \par\smallskip
+  \begin{minipage}{0.95\linewidth}
+  \footnotesize
+  Note: Times are in seconds. Parenthetical values are relative changes calculated from the displayed mean times against P0 or R0 for the same model.
+  \end{minipage}
+\end{table}

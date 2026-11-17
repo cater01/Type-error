@@ -1,0 +1,38 @@
+{
+  "samples": 215,
+  "accuracy": 0.8418604651162791,
+  "macro_f1": 0.8108961092715232,
+  "weighted_f1": 0.8375895194825197,
+  "invalid_outputs": 0,
+  "labels": [
+    "non-type error",
+    "type error"
+  ],
+  "per_class": {
+    "non-type error": {
+      "precision": 0.8535031847133758,
+      "recall": 0.9241379310344827,
+      "f1": 0.8874172185430463,
+      "support": 145
+    },
+    "type error": {
+      "precision": 0.8103448275862069,
+      "recall": 0.6714285714285714,
+      "f1": 0.734375,
+      "support": 70
+    }
+  },
+  "confusion_matrix": [
+    [
+      134,
+      11
+    ],
+    [
+      23,
+      47
+    ]
+  ],
+  "precision": 0.8103448275862069,
+  "recall": 0.6714285714285714,
+  "f1": 0.734375
+}

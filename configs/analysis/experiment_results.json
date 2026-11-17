@@ -1,0 +1,19 @@
+{
+  "experiment": {
+    "name": "analysis.experiment_results",
+    "entry_point": "src/analysis/analyze_experiment_results.py",
+    "status": "recorded_table_audit",
+    "evidence": {
+      "source": "Preserved task-universe denominator and paper-table counts."
+    },
+    "unknown": [],
+    "note": "Config values are explicit snapshots. A source_snapshot is not proof of the historical paper run."
+  },
+  "args": {
+    "prevention_results": "results/rq4/tests",
+    "prevention_generation": "results/rq4/generation",
+    "repair_results": "results/rq5/tests",
+    "repair_generation": "results/rq5/generation",
+    "out_dir": "results/analysis/strategy_comparison"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "source": "C:\\Users\\Administrator\\Desktop\\5RQ小论文\\samples\\acmcp.tex",
+  "source_sha256": "744d453d0a56f01e446398f5f749c1bb7456fe6d0999c89b3f567206fa6ade47",
+  "date": "2026-11-17",
+  "representation": "verbatim LaTeX table source snapshots; source line endings normalized to LF",
+  "numbers_recalculated": false,
+  "csv_exported": false,
+  "tables": [
+    {
+      "file": "translation_task_counts.tex",
+      "paper_label": "tab:translation-counts",
+      "caption": "Counts of Python source programs and generated Java translations.",
+      "source_line": 291,
+      "source_end_line": 306,
+      "sha256": "4472c0e4ced5ddc0149272bde22db16e3bd1563164a95588e3c26cc8d6b91b6c"
+    },
+    {
+      "file": "baseline_translation_performance.tex",
+      "paper_label": "tab:file_pass_rate",
+      "caption": "Computational Accuracy of Generated Java Translations",
+      "source_line": 348,
+      "source_end_line": 392,
+      "sha256": "c2c9414acf0934c920ee740bee350b14b1653267947de902b6b6aece5e44b421"
+    },
+    {
+      "file": "type_error_prevalence.tex",
+      "paper_label": "tab:type_error_distribution",
+      "caption": "Distribution of Type Errors and Non-Type Errors",
+      "source_line": 459,
+      "source_end_line": 500,
+      "sha256": "92a18383a54a92ff51dd6eb599a6737672fd9dc46ac275e234baff6a4bf4e33d"
+    },
+    {
+      "file": "type_error_taxonomy.tex",
+      "paper_label": "tab:type_error_categories",
+      "caption": "Distribution of type-error categories in the analyzed samples.",
+      "source_line": 548,
+      "source_end_line": 569,
+      "sha256": "5acf85fe096c33ee3490b1518fbb5aaac3bf6adb4a6ba99d7cc99b974618a12c"
+    },
+    {
+      "file": "identification_prompt_comparison.tex",
+      "paper_label": "tab:gpt54_prompting_strategies",
+      "caption": "Binary classification performance of GPT-5.4 under different prompting strategies",
+      "source_line": 618,
+      "source_end_line": 633,
+      "sha256": "f84f43cfc3ef8aa6a32433d4bef0aef4ef902e8821abfe9158cdbc2b57307568"
+    },
+    {
+      "file": "identification_model_comparison.tex",
+      "paper_label": "tab:four_models_strongest_prompt",
+      "caption": "Comparison of three models under the selected prompting strategy.",
+      "source_line": 640,
+      "source_end_line": 654,
+      "sha256": "21e30696576f02ad0852572d13fe5abf3a904f40e1bd7752228d0d3525148734"
+    },
+    {
+      "file": "identification_consensus_performance.tex",
+      "paper_label": "tab:model_consistency_results",
+      "caption": "Comparison of single-model and dual-model consensus classification performance.",
+      "source_line": 661,
+      "source_end_line": 680,
+      "sha256": "57f987b5ef71b5c48e5b9e39e58fb63a97ae2ed21e8e8df54a743465fd37a6e2"
+    },
+    {
+      "file": "prevention_overall_performance.tex",
+      "paper_label": "tab:pre_overall",
+      "caption": "Overall Results of pre-translation prevention.",
+      "source_line": 701,
+      "source_end_line": 714,
+      "sha256": "c43ac82a1bf4b826a40573b3f2eb1f1151b29ec502dbe9b8d392f523ed6557d9"
+    },
+    {
+      "file": "prevention_model_performance.tex",
+      "paper_label": "tab:pre_model",
+      "caption": "Pre-translation prevention results by model.",
+      "source_line": 715,
+      "source_end_line": 739,
+      "sha256": "6c1dc06a55652f7d0e688b6b5005f37ae904171540c1d65bb5f590f8c9704838"
+    },
+    {
+      "file": "repair_overall_performance.tex",
+      "paper_label": "tab:repair_overall",
+      "caption": "Overall results of post-translation repair.",
+      "source_line": 759,
+      "source_end_line": 777,
+      "sha256": "05ee7c2d352163128cbfae5162a03f2939a18be7c93a519ed693ccc4f53dee37"
+    },
+    {
+      "file": "repair_model_performance.tex",
+      "paper_label": "tab:repair_model",
+      "caption": "Post-translation repair results by model.",
+      "source_line": 779,
+      "source_end_line": 803,
+      "sha256": "07900ce25b5582ae78b92134c69b950fa028f6b8e097583be67f1274db8c4979"
+    },
+    {
+      "file": "generation_latency.tex",
+      "paper_label": "tab:prompt-repair-latency",
+      "caption": "Mean wall-clock inference time per input file for pre-translation prevention and post-translation repair.",
+      "source_line": 821,
+      "source_end_line": 875,
+      "sha256": "6bf9f36d8ca3ec6ed1f40646846c950bca694d707b0186c70cfe1b0a00853241"
+    },
+    {
+      "file": "software_metrics_groups.tex",
+      "paper_label": "tab:type-error-metric-groups",
+      "caption": "Type Errors among Translation Failures by Lines of Code (LOC) and Cyclomatic Complexity (CC)",
+      "source_line": 885,
+      "source_end_line": 919,
+      "sha256": "f8a082d0835fce705a760554a5c29443425bcf5e09858c7cc200f067d6205e6f"
+    },
+    {
+      "file": "fine_grained_classification.tex",
+      "paper_label": "tab:fine_grained_classification",
+      "caption": "Fine-grained type-error classification performance ($n=70$).",
+      "source_line": 949,
+      "source_end_line": 986,
+      "sha256": "8930c27780a8e2e43196c79899a2a287f724b6041cf5562dac5252b351ba0b76"
+    }
+  ]
+}

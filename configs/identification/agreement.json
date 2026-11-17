@@ -1,0 +1,17 @@
+{
+  "experiment": {
+    "name": "identification.agreement",
+    "entry_point": "src/identification/agreement.py",
+    "status": "source_snapshot",
+    "evidence": {
+      "source": "Existing prediction merge/group implementation; composite grouping behavior unchanged."
+    },
+    "unknown": [],
+    "note": "Config values are explicit snapshots. A source_snapshot is not proof of the historical paper run."
+  },
+  "args": {
+    "claude_file": "results/rq3/opus/prediction/predictions.jsonl",
+    "gemini_file": "results/rq3/gemini/prediction/predictions.jsonl",
+    "out_dir": "results/rq3/agreement"
+  }
+}

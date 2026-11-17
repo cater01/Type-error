@@ -1,0 +1,3 @@
+{"name": "s110149598", "status": "passed", "passed_cases": 1, "total_cases": 1, "passed": true, "elapsed_seconds": 5.417, "compile": {"status": "ok", "returncode": 0, "elapsed_seconds": 3.102}}
+{"name": "s636719275", "status": "passed", "passed_cases": 1, "total_cases": 1, "passed": true, "elapsed_seconds": 6.036, "compile": {"status": "ok", "returncode": 0, "elapsed_seconds": 3.154}}
+{"name": "s681105182", "status": "passed", "passed_cases": 1, "total_cases": 1, "passed": true, "elapsed_seconds": 6.269, "compile": {"status": "ok", "returncode": 0, "elapsed_seconds": 3.211}}

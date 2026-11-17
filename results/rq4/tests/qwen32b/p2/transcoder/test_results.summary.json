@@ -1,0 +1,11 @@
+{
+  "total_files": 34,
+  "passed_files": 4,
+  "compile_errors": 27,
+  "runtime_errors": 0,
+  "logic_errors": 3,
+  "other_errors": 0,
+  "success_cases": 53,
+  "total_cases": 70,
+  "case_accuracy": 0.7571428571428571
+}

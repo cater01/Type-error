@@ -1,0 +1,14 @@
+===== Evaluation =====
+Mode: define_and_few_shot_and_error_message (define_fewshot_errormessage_note_predictions.jsonl)
+Valid samples: 215
+Invalid outputs: 0
+Accuracy: 0.8697674418604651
+Binary Recall: 0.8714285714285714
+                precision    recall  f1-score   support
+
+non-type error     0.9333    0.8690    0.9000       145
+    type error     0.7625    0.8714    0.8133        70
+
+      accuracy                         0.8698       215
+     macro avg     0.8479    0.8702    0.8567       215
+  weighted avg     0.8777    0.8698    0.8718       215

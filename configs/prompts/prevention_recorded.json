@@ -1,0 +1,74 @@
+{
+  "description": "Type-hint strings from the source matching saved prevention prompts; generation wrapper/templates remain those of the selected entry point.",
+  "source_sha256": "45e38b681076118aabacdd09b58d1958f758fe296d9fe341b13666d016067d8e",
+  "type_hints": {
+    "p0": "",
+    "p1": "\nAdditional requirement:\nPay special attention to Python-to-Java type differences. Avoid type errors in the Java output, including integer overflow, floating-point precision loss, incompatible primitive/reference types, invalid operations on strings/chars/arrays/lists, and unsafe type conversions.\n",
+    "p2": "\nAdditional type-error prevention checklist:\nBefore writing the Java output, silently check the translation against these four Python-to-Java type error categories. The examples below are abstracted from the manually labeled type-error dataset:\n\n1. Range or precision problems:\n    Do not mechanically use int or float when Python values may require a larger range or higher precision. Use long, double, BigInteger, or BigDecimal when needed, and make input reading or parsing consistent with the selected type.\n\n2. Type declaration inconsistency:\n  Keep Java variable types, method parameter types, return types, array element types, and collection generic types consistent with the actual Python value semantics. Distinguish scalars from containers, booleans from arrays, strings from numbers, and lists, sets, maps, tuples, and iterables from one another.\n\n3. Type-incompatible operations:\n   Choose Java types that support the operations required by the Python code. Do not treat arrays as Lists, strings as numeric or mutable arrays, sets as maps, maps as lists, or scalar values as containers.\n4. Type conversion errors:\n  Preserve Python’s explicit and implicit conversion semantics. Avoid premature casts, unsafe narrowing conversions, integer division when Python requires floating-point division, incorrect rounding, invalid casts, boxing/unboxing mistakes, and char/String confusion. Perform arithmetic first and cast or round only when it matches the Python behavior.characters.\n\nReturn only the final Java code after applying this checklist.\n"
+  },
+  "saved_prompt_checks": [
+    {
+      "model": "magicoder",
+      "style": "p0",
+      "sample_prompt": "00000_00cffd273df24d1676acbbfd9a39630d_1.txt",
+      "saved_prompt_sha256": "debfa4e2d0577db2a32e4b0f92caca5b506b3507d1ebd5732394a68b3cfb8b4b",
+      "hint_match": true
+    },
+    {
+      "model": "magicoder",
+      "style": "p1",
+      "sample_prompt": "00000_00cffd273df24d1676acbbfd9a39630d_1.txt",
+      "saved_prompt_sha256": "69e5a93d3b6c85a9d222318f88a86459bb17b1b3b180722bad50267c4bb8f1b2",
+      "hint_match": true
+    },
+    {
+      "model": "magicoder",
+      "style": "p2",
+      "sample_prompt": "00000_00cffd273df24d1676acbbfd9a39630d_1.txt",
+      "saved_prompt_sha256": "151570e03e94afe571c0bd7013bef4f13c402411c2b1265b59deb3e46c7de720",
+      "hint_match": true
+    },
+    {
+      "model": "qwen7b",
+      "style": "p0",
+      "sample_prompt": "0034806908c9794086736a2d07fc654c_1.txt",
+      "saved_prompt_sha256": "0113c504e13f5e01d881f4aeeaa68ebec0e71a7627aba853ee19b3a56352ae7c",
+      "hint_match": true
+    },
+    {
+      "model": "qwen7b",
+      "style": "p1",
+      "sample_prompt": "0034806908c9794086736a2d07fc654c_1.txt",
+      "saved_prompt_sha256": "fe65e8f6c35b0a7d847714693abc75a5572e7e34c954865ae472342c65175735",
+      "hint_match": true
+    },
+    {
+      "model": "qwen7b",
+      "style": "p2",
+      "sample_prompt": "0034806908c9794086736a2d07fc654c_1.txt",
+      "saved_prompt_sha256": "79f21defa0bc3156e688f8a61e4b02cfca1430b83c3ff6dec06f79014a6647a3",
+      "hint_match": true
+    },
+    {
+      "model": "qwen32b",
+      "style": "p0",
+      "sample_prompt": "00cffd273df24d1676acbbfd9a39630d_1.txt",
+      "saved_prompt_sha256": "64ecd79239f7fcd260e0402f0980e61d9314e44c8cf727f5c671452a76e23956",
+      "hint_match": true
+    },
+    {
+      "model": "qwen32b",
+      "style": "p1",
+      "sample_prompt": "00cffd273df24d1676acbbfd9a39630d_1.txt",
+      "saved_prompt_sha256": "f20fcb80c38865eeafcd7caef80ebddb1308723c229f03fe4264dd8b280e86e2",
+      "hint_match": true
+    },
+    {
+      "model": "qwen32b",
+      "style": "p2",
+      "sample_prompt": "00cffd273df24d1676acbbfd9a39630d_1.txt",
+      "saved_prompt_sha256": "02e550a8e322011060625edb3edeeda6d7e8c5734a68f14deba8ec20c72d62f3",
+      "hint_match": true
+    }
+  ]
+}

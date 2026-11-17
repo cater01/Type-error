@@ -1,0 +1,25 @@
+\begin{table}[t]
+\centering
+\caption{Post-translation repair results by model.}
+\label{tab:repair_model}
+\begin{tabular}{llrrrrr}
+\toprule
+Model & Strategy & Total & \#Compiled & CSR (\%) & \#Correct & CA (\%) \\
+\midrule
+\multirow{3}{*}{Magicoder-S-DS-6.7B}
+ & r0 & 517 & 428 & 82.79\% & 75 & 14.51\% \\
+ & r1 & 517 & 445 & 86.07\% & 101 & 19.54\% \\
+ & r2 & 517 & 429 & 82.98\% & 129 & 24.95\% \\
+\midrule
+\multirow{3}{*}{Qwen2.5-Coder-7B}
+ & r0 & 536 & 428 & 79.85\% & 163 & 30.41\% \\
+ & r1 & 536 & 408 & 76.12\% & 194 & 36.19\% \\
+ & r2 & 536 & 370 & 69.03\% & 214 & 39.93\% \\
+\midrule
+\multirow{3}{*}{Qwen2.5-Coder-32B}
+ & r0 & 548 & 520 & 94.89\% & 248 & 45.26\% \\
+ & r1 & 548 & 521 & 95.07\% & 293 & 53.47\% \\
+ & r2 & 548 & 516 & 94.16\% & 309 & 56.39\% \\
+\bottomrule
+\end{tabular}
+\end{table}

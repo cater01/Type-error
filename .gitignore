@@ -1,0 +1,33 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+key.txt
+*.log
+.ipynb_checkpoints/
+
+# External resources and local weights
+external_data/
+models/
+*.safetensors
+
+# Keep compact archived results; store bulky generated artifacts separately
+results/**/java/
+results/**/repaired_java/
+results/**/filled_java/
+results/**/raw_responses/
+results/**/test_tmp/
+results/**/test_workdirs/
+
+# Publish only the combined corpus; retain other local dataset files
+/dataset/*
+!/dataset/type_error_dataset.jsonl
+
+# Local repository preparation records
+/IMPORT_STATUS.json
+/RESULTS_IMPORT_STATUS.json
+/CONFIG_REFACTOR_STATUS.json
+/SOURCE_MANIFEST.csv

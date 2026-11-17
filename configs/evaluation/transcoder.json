@@ -1,0 +1,26 @@
+{
+  "experiment": {
+    "name": "evaluation.transcoder",
+    "entry_point": "src/evaluation/test_transcoder_translations.py",
+    "status": "source_snapshot",
+    "evidence": {
+      "source": "Selected evaluation script defaults; historical variant differences not merged."
+    },
+    "unknown": [
+      "JDK_version",
+      "full_test_resource_version"
+    ],
+    "note": "Config values are explicit snapshots. A source_snapshot is not proof of the historical paper run."
+  },
+  "args": {
+    "out": "results/evaluation/transcoder/test_results.jsonl",
+    "limit": null,
+    "append": false,
+    "keep_workdirs": false,
+    "seed": null,
+    "filled_dir": "external_data/generated/transcoder/filled_java",
+    "raw_dir": "external_data/generated/transcoder/raw_responses",
+    "timeout": 10,
+    "repair_from_raw": true
+  }
+}

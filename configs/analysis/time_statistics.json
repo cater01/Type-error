@@ -1,0 +1,18 @@
+{
+  "experiment": {
+    "name": "analysis.time_statistics",
+    "entry_point": "src/analysis/time_statistics.py",
+    "status": "source_snapshot",
+    "evidence": {
+      "source": "Preserved elapsed_seconds aggregation."
+    },
+    "unknown": [],
+    "note": "Config values are explicit snapshots. A source_snapshot is not proof of the historical paper run."
+  },
+  "args": {
+    "files": [
+      "results/rq4/generation/qwen7b/p0/translation_results.jsonl"
+    ],
+    "out": "results/analysis/time_statistics.txt"
+  }
+}

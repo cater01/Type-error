@@ -1,0 +1,16 @@
+{
+  "experiment": {
+    "name": "analysis.identification_metrics",
+    "entry_point": "src/analysis/identification_metrics.py",
+    "status": "source_snapshot",
+    "evidence": {
+      "source": "Preserved gold/pred metric definitions."
+    },
+    "unknown": [],
+    "note": "Config values are explicit snapshots. A source_snapshot is not proof of the historical paper run."
+  },
+  "args": {
+    "input": "results/rq3/gpt-5.4/zero_shot/predictions.jsonl",
+    "out": "results/rq3/gpt-5.4/zero_shot/metrics.txt"
+  }
+}

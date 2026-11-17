@@ -1,0 +1,6 @@
+{"name": "s043545989", "status": "compile_error", "passed_cases": 0, "total_cases": 1, "passed": false, "elapsed_seconds": 1.061, "compile": {"status": "compile_error", "returncode": 1, "elapsed_seconds": 1.046}}
+{"name": "s137613418", "status": "passed", "passed_cases": 1, "total_cases": 1, "passed": true, "elapsed_seconds": 0.767, "compile": {"status": "ok", "returncode": 0, "elapsed_seconds": 0.685}}
+{"name": "s592421258", "status": "runtime_error", "passed_cases": 0, "total_cases": 1, "passed": false, "elapsed_seconds": 0.393, "compile": {"status": "ok", "returncode": 0, "elapsed_seconds": 0.309}}
+{"name": "s681105182", "status": "wrong_answer", "passed_cases": 0, "total_cases": 1, "passed": false, "elapsed_seconds": 0.466, "compile": {"status": "ok", "returncode": 0, "elapsed_seconds": 0.366}}
+{"name": "s790754864", "status": "passed", "passed_cases": 1, "total_cases": 1, "passed": true, "elapsed_seconds": 0.391, "compile": {"status": "ok", "returncode": 0, "elapsed_seconds": 0.318}}
+{"name": "s804484425", "status": "compile_error", "passed_cases": 0, "total_cases": 1, "passed": false, "elapsed_seconds": 0.393, "compile": {"status": "compile_error", "returncode": 1, "elapsed_seconds": 0.387}}

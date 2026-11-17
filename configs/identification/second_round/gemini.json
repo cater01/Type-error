@@ -1,0 +1,35 @@
+{
+  "experiment": {
+    "name": "identification.second_round.gemini",
+    "entry_point": "src/identification/gemini.py",
+    "status": "latest_source_snapshot",
+    "evidence": {
+      "source": "Latest imported second-round script; Chinese reason requirement and five examples preserved.",
+      "input_requirement": "Rows must include source_code and translated_code; agreement.py output alone is insufficient."
+    },
+    "unknown": [
+      "historical_first_round_configuration_not_equivalent",
+      "exact_provider_model_snapshot"
+    ],
+    "note": "Config values are explicit snapshots. A source_snapshot is not proof of the historical paper run."
+  },
+  "args": {
+    "input": "external_data/identification/disagreements_with_code.jsonl",
+    "out": "results/rq3/gemini/second_round/predictions.jsonl",
+    "model": "gemini-3.1-pro-preview",
+    "mode": "define_and_few_shot_and_error_message",
+    "output_reason": true,
+    "temperature": 0,
+    "top_p": 1,
+    "max_output_tokens": 1024,
+    "api_key_env": "GEMINI_API_KEY",
+    "prompt_cache": false,
+    "seed": null,
+    "base_url": "https://yunwu.ai/v1beta/models/{model}:streamGenerateContent?alt=sse",
+    "request_timeout": 60,
+    "max_retries": 4,
+    "sleep_seconds": 2,
+    "resume": true,
+    "limit": null
+  }
+}

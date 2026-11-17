@@ -1,0 +1,42 @@
+\begin{table}[t]
+\centering
+\caption{Distribution of Type Errors and Non-Type Errors}
+\label{tab:type_error_distribution}
+\small
+\setlength{\tabcolsep}{6pt}
+\renewcommand{\arraystretch}{1.15}
+\begin{tabular}{llrrrr}
+\toprule
+\textbf{Model} & \textbf{Dataset} & \textbf{Type Error} & \textbf{Non-Type Error} & \textbf{Total} & \textbf{Type Error Ratio} \\
+\midrule
+Magicoder-S-DS-6.7B$^\dagger$ & TransCoder & 47  & 72  & 119  & 39.50\% \\
+Magicoder-S-DS-6.7B$^\dagger$ & AVATAR     & 39  & 91  & 130  & 30.00\% \\
+Magicoder-S-DS-6.7B$^\dagger$ & CodeNet    & 6   & 29  & 35   & 17.14\% \\
+Magicoder-S-DS-6.7B           & xCodeEval  & 425 & 631 & 1056 & 40.25\% \\
+\textbf{Magicoder Total}      &            & \textbf{517} & \textbf{823} & \textbf{1340} & \textbf{38.58\%} \\
+\midrule
+Qwen2.5-Coder-7B & TransCoder & 46  & 76  & 122  & 37.70\% \\
+Qwen2.5-Coder-7B & AVATAR     & 33  & 93  & 126  & 26.19\% \\
+Qwen2.5-Coder-7B & CodeNet    & 6   & 33  & 39   & 15.38\% \\
+Qwen2.5-Coder-7B & xCodeEval  & 451 & 680 & 1131 & 39.88\% \\
+\textbf{Qwen2.5-Coder-7B Total} & & \textbf{536} & \textbf{882} & \textbf{1418} & \textbf{37.80\%} \\
+\midrule
+Qwen2.5-Coder-32B & TransCoder & 34  & 67  & 101  & 33.66\% \\
+Qwen2.5-Coder-32B & AVATAR     & 40  & 65  & 105  & 38.10\% \\
+Qwen2.5-Coder-32B & CodeNet    & 3   & 22  & 25   & 12.00\% \\
+Qwen2.5-Coder-32B & xCodeEval  & 471 & 432 & 903  & 52.16\% \\
+\textbf{Qwen2.5-Coder-32B Total} & & \textbf{548} & \textbf{586} & \textbf{1134} & \textbf{48.32\%} \\
+\midrule
+\textbf{All Models Total} & & \textbf{1601} & \textbf{2291} & \textbf{3892} & \textbf{41.14\%} \\
+\bottomrule
+\end{tabular}
+
+\vspace{0.5em}
+\begin{minipage}{0.95\linewidth}
+\footnotesize
+Note: ``Total'' denotes the number of error cases included in the statistical analysis.
+The type error ratio is calculated as Type Error / Total.
+Rows marked with $^\dagger$ include manually annotated data.
+The overall total aggregates error cases from all model outputs rather than unique source programs.
+\end{minipage}
+\end{table}

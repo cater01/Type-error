@@ -1,0 +1,61 @@
+{
+  "original_pdfs_unchanged": true,
+  "preview_method": "Poppler rasterization, first PDF page, maximum dimension 1400 pixels",
+  "figures": [
+    {
+      "description": "Study workflow",
+      "pdf": "fig_1.pdf",
+      "pdf_sha256": "8d1a09fb5919af49b68fefd152e6f99e513c69771465182fe1f5a0947f8b470b",
+      "pdf_pages": 1,
+      "preview": "fig_1.png",
+      "preview_page": 1,
+      "preview_sha256": "90037b2d6aab95eeecb03f41fca61d8bbb0a513f558496ff4bd746be57e04d8d",
+      "width": 1400,
+      "height": 1196
+    },
+    {
+      "description": "Pre-translation prevention prompts: P0, P1, and P2",
+      "pdf": "fig_2.pdf",
+      "pdf_sha256": "95e222895b16df2cb2ae11c8a60d3fbc013b2842d7d815d34d5a4f30534ac698",
+      "pdf_pages": 2,
+      "preview": "fig_2.png",
+      "preview_page": 1,
+      "preview_sha256": "ffbfd2052eb475bc725bb26d8f673d147799da2a6cc6a8962aa7c34d31e989b8",
+      "width": 1400,
+      "height": 1096
+    },
+    {
+      "description": "Post-translation repair prompts: R0, R1, and R2",
+      "pdf": "fig_3.pdf",
+      "pdf_sha256": "0b40a8f001d1a36bb761a94f513d294a8860d886b10c21504bae418a7d5c9025",
+      "pdf_pages": 1,
+      "preview": "fig_3.png",
+      "preview_page": 1,
+      "preview_sha256": "90a70900f45a352f723a420387cacf4b40b5ca5660b0a4c1e2836aad95b97bd7",
+      "width": 1266,
+      "height": 1400
+    },
+    {
+      "description": "Illustrative case where P2 fails after P0/P1 succeed",
+      "pdf": "fig_4.pdf",
+      "pdf_sha256": "6167c1028c74fcc1d4170fc738f4e4e188729038b767d161fef0e4a9ef067ac1",
+      "pdf_pages": 1,
+      "preview": "fig_4.png",
+      "preview_page": 1,
+      "preview_sha256": "d87464c8bfe5de4ca94de22f4f0966ecd276b4d926074aa4c91574841f66853d",
+      "width": 1400,
+      "height": 599
+    },
+    {
+      "description": "Illustrative case where P2 succeeds after P0/P1 fail",
+      "pdf": "fig_5.pdf",
+      "pdf_sha256": "fd0db8212fc56f197bd89c23093865664c6301fe27539f847706a9116f3cf092",
+      "pdf_pages": 1,
+      "preview": "fig_5.png",
+      "preview_page": 1,
+      "preview_sha256": "36d085cf90fef40ee54fb67cf08f7b13799bf319fcdbc807b775c4e54a6d37e6",
+      "width": 1400,
+      "height": 832
+    }
+  ]
+}

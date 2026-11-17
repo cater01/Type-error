@@ -1,0 +1,35 @@
+{
+  "experiment": {
+    "name": "identification.evaluation.opus",
+    "entry_point": "src/identification/opus.py",
+    "status": "latest_source_snapshot",
+    "evidence": {
+      "source": "Latest imported second-round script; Chinese reason requirement and five examples preserved.",
+      "input_requirement": "Rows must include source_code and translated_code; agreement.py output alone is insufficient."
+    },
+    "unknown": [
+      "historical_first_round_configuration_not_equivalent",
+      "exact_provider_model_snapshot"
+    ],
+    "note": "Config values are explicit snapshots. A source_snapshot is not proof of the historical paper run."
+  },
+  "args": {
+    "input": "external_data/identification/test_215.jsonl",
+    "out": "results/rq3/opus/evaluation/predictions.jsonl",
+    "model": "claude-opus-4-7",
+    "mode": "define_and_few_shot_and_error_message",
+    "output_reason": true,
+    "temperature": null,
+    "top_p": null,
+    "max_output_tokens": 256,
+    "api_key_env": "OPUS_API_KEY",
+    "prompt_cache": true,
+    "seed": null,
+    "base_url": "https://yunwu.ai/v1/messages",
+    "request_timeout": 120,
+    "max_retries": 4,
+    "sleep_seconds": 2,
+    "resume": true,
+    "limit": null
+  }
+}

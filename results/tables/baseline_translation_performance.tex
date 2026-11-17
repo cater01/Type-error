@@ -1,0 +1,45 @@
+\begin{table}[t]
+\centering
+\caption{Computational Accuracy of Generated Java Translations}
+\label{tab:file_pass_rate}
+\small
+\setlength{\tabcolsep}{5pt}
+\renewcommand{\arraystretch}{1.15}
+\begin{tabular}{lccccc}
+\toprule
+\textbf{Model} 
+& \textbf{AVATAR} 
+& \textbf{CodeNet} 
+& \textbf{TransCoder} 
+& \textbf{xCodeEval} 
+& \textbf{Overall} \\
+\midrule
+Magicoder-S-DS-6.7B 
+& \makecell{120/250\\(48.00\%)} 
+& \makecell{165/200\\(82.50\%)} 
+& \makecell{315/434\\(72.58\%)} 
+& \makecell{880/1936\\(45.45\%)} 
+& \makecell{1480/2820\\(52.48\%)} \\
+
+Qwen2.5-Coder-7B
+& \makecell{124/250\\(49.60\%)} 
+& \makecell{161/200\\(80.50\%)} 
+& \makecell{312/434\\(71.89\%)} 
+& \makecell{809/1940\\(41.70\%)} 
+& \makecell{1406/2824\\(49.79\%)} \\
+
+Qwen2.5-Coder-32B 
+& \makecell{\textbf{145/250}\\\textbf{(58.00\%)}} 
+& \makecell{\textbf{175/200}\\\textbf{(87.50\%)}} 
+& \makecell{\textbf{333/434}\\\textbf{(76.73\%)}} 
+& \makecell{\textbf{1036/1939}\\\textbf{(53.43\%)}} 
+& \makecell{\textbf{1689/2823}\\\textbf{(59.83\%)}} \\
+\bottomrule
+\end{tabular}
+
+\vspace{0.5em}
+\begin{minipage}{0.95\linewidth}
+\footnotesize
+Note: Each entry reports the number of generated Java files that pass all test cases over the number of successfully generated translations, followed by the corresponding file-level pass rate. The best result for each dataset is highlighted in bold.
+\end{minipage}
+\end{table}

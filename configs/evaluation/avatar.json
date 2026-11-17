@@ -1,0 +1,28 @@
+{
+  "experiment": {
+    "name": "evaluation.avatar",
+    "entry_point": "src/evaluation/test_avatar_translations.py",
+    "status": "source_snapshot",
+    "evidence": {
+      "source": "Selected evaluation script defaults; historical variant differences not merged."
+    },
+    "unknown": [
+      "JDK_version",
+      "full_test_resource_version"
+    ],
+    "note": "Config values are explicit snapshots. A source_snapshot is not proof of the historical paper run."
+  },
+  "args": {
+    "out": "results/evaluation/avatar/test_results.jsonl",
+    "limit": null,
+    "append": false,
+    "keep_workdirs": false,
+    "seed": null,
+    "java_dir": "external_data/generated/avatar/java",
+    "compile_timeout": 30,
+    "run_timeout": 10,
+    "compare_mode": "strip",
+    "test_case_dir": "external_data/avatar/TestCases",
+    "fail_fast_cases": true
+  }
+}

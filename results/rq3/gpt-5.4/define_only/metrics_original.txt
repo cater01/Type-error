@@ -1,0 +1,14 @@
+===== Evaluation =====
+Mode: define_only (define_only_predictions.jsonl)
+Valid samples: 215
+Invalid outputs: 0
+Accuracy: 0.7441860465116279
+Binary Recall: 0.35714285714285715
+                precision    recall  f1-score   support
+
+non-type error     0.7500    0.9310    0.8308       145
+    type error     0.7143    0.3571    0.4762        70
+
+      accuracy                         0.7442       215
+     macro avg     0.7321    0.6441    0.6535       215
+  weighted avg     0.7384    0.7442    0.7153       215

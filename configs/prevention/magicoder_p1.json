@@ -1,0 +1,57 @@
+{
+  "experiment": {
+    "name": "prevention.magicoder_p1",
+    "entry_point": "src/translation/translate_magicoder.py",
+    "status": "user_requested_configuration",
+    "evidence": {
+      "source": "imported translation script and frozen recorded type hints",
+      "generation_log": "翻译前增强实验/outputs/magicoder/p1/translation_results.jsonl",
+      "observed_parameters": {
+        "decoding": "sampling",
+        "temperature": 0.7,
+        "top_p": 0.95,
+        "top_k": 10,
+        "max_new_tokens": 8192
+      },
+      "prompt_check": "One saved prompt per model/style; hint text matches. Full historical run not certified."
+    },
+    "unknown": [
+      "exact_model_weights_revision",
+      "historical_random_seed",
+      "original_dependency_and_CUDA_versions"
+    ],
+    "note": "Config values are explicit snapshots. A source_snapshot is not proof of the historical paper run.",
+    "user_override": {
+      "date": "2026-11-17",
+      "do_sample": true,
+      "greedy": false,
+      "temperature": 0.7,
+      "note": "User corrected decoding to sampling. Historical observed parameters and result files remain unchanged."
+    }
+  },
+  "args": {
+    "max_new_tokens": 8192,
+    "max_input_tokens": null,
+    "max_file_size_bytes": 5120,
+    "temperature": 0.7,
+    "top_p": 0.95,
+    "top_k": 10,
+    "do_sample": true,
+    "greedy": false,
+    "seed": null,
+    "model_revision": null,
+    "torch_dtype": "auto",
+    "resume": false,
+    "start_idx": 0,
+    "end_idx": null,
+    "dataset": "magicoder",
+    "model": "meteor199/Magicoder-S-DS-6.7B",
+    "prompt_style": "p1",
+    "input": "dataset/type_error_dataset.jsonl",
+    "out_dir": "results/rq4/generation/magicoder",
+    "prompt_bundle": "configs/prompts/prevention_recorded.json",
+    "system_prompt": "You are a helpful assistant.",
+    "model_family": "magicoder",
+    "model_tag": "magicoder"
+  }
+}

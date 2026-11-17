@@ -1,0 +1,38 @@
+\begin{table*}[t]
+    \centering
+    \caption{Fine-grained type-error classification performance ($n=70$).}
+    \label{tab:fine_grained_classification}
+    \small
+    \setlength{\tabcolsep}{9pt}
+    \begin{tabular}{lccccc}
+        \toprule
+        \multirow{2}{*}{Model}
+        & \multirow{2}{*}{Accuracy}
+        & \multicolumn{3}{c}{Macro Average}
+        & \multirow{2}{*}{Weighted F1} \\
+        \cmidrule(lr){3-5}
+        & & Precision & Recall & F1 & \\
+        \midrule
+        Gemini-3.1-Pro-Preview
+        & \textbf{0.786}
+        & \textbf{0.480}
+        & \textbf{0.644}
+        & \textbf{0.463}
+        & \textbf{0.814} \\
+
+        GPT-5.4
+        & 0.700
+        & 0.444
+        & 0.610
+        & 0.421
+        & 0.753 \\
+
+        Opus-4.7
+        & 0.614
+        & 0.422
+        & 0.551
+        & 0.372
+        & 0.691 \\
+        \bottomrule
+    \end{tabular}
+\end{table*}
